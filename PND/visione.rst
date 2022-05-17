@@ -1,5 +1,5 @@
-Visione
-=======
+1. Visione
+===========
 
 Il PND poggia su fondamenta costituite da valori condivisi e da
 obiettivi di cambiamento correlati alle fasi del processo di
@@ -30,6 +30,8 @@ Visione del PND*
   :caption: Indice dei contenuti
 
   visione/valori.rst
+  visione/obiettivi.rst
+  visione/opportunita.rst
 
 .. |image0| image:: ./media/image2.png
    :width: 6.72916in
