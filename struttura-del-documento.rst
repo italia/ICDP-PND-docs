@@ -20,6 +20,7 @@ collegate (Figura 1):
    digitalizzazione del patrimonio e alla trasformazione digitale dei
    luoghi della cultura (cap. 3).
 
+
 |image0|
 
 *Figura 1. Schema della struttura del PND*

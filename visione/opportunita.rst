@@ -174,10 +174,12 @@ Le tecnologie informatiche, inoltre, permettono di fare leva sulla
 funzione istituzionale degli enti di tutela in un’ottica collaborativa e
 non concorrenziale. Il presidio delle fasi dei progetti di
 digitalizzazione palesa la necessità di definire una struttura
-organizzativa interna composta di diverse unità operative\ :sup:`5`, che
+organizzativa interna composta di diverse unità operative [5]_, che
 possono anche non essere permanentemente internalizzate, ma che devono
 comunque essere attivate all’avvio dei progetti di innovazione. Di
 fronte a un quadro tecnologico in costante e rapido mutamento, i nuovi
 modelli organizzativi devono rispondere dinamicamente alle
 sollecitazioni dell’ambiente; ciò rappresenta la più grande sfida, ma
 anche una straordinaria opportunità per gli istituti culturali.
+
+.. [5] In riferimento agli enti coinvolti e al team di progetto connessi alle attività di digitalizzazione, si veda l’Allegato tecnico “Linee guida per la Digitalizzazione del patrimonio culturale”, sezione C e l’allegato tecnico “Linee guida per la redazione del Piano di gestione dei dati”, sezione *Data Governance* interna.

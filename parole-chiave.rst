@@ -557,7 +557,7 @@ naturali, ecc. (Parpagliolo L., 1913). L’attenzione riservata alle
 istituzioni destinate a contenerle e/o a tutelarle è sempre stata
 relativamente secondaria. Basti pensare alla faticosa gestazione di una
 nozione standardizzata di museo, che il nostro Paese sta ancora
-inseguendo (D.M. 113/2018 sul Sistema Museale Nazionale)\ :sup:`24`.
+inseguendo (D.M. 113/2018 sul Sistema Museale Nazionale) [24]_.
 Dalla Convenzione di Faro (2005) in poi (Gualdani A., 2020), l’interesse
 delle istituzioni internazionali è ulteriormente slittato verso i
 contesti, mettendo in luce la natura fluida e negoziale (su base
@@ -801,3 +801,5 @@ dopo aver interagito con quel particolare oggetto. Dunque, lo *user
 journey* documenta l'intera esperienza di un utente per costruire e
 garantire la fruizione del prodotto digitale (che sarà dinamico e
 cambierà a seconda dell’utente).
+
+.. [24] Sul Sistema Museale Nazionale (D.M. 113/2018), punto di approdo di un percorso almeno trentennale, cfr. `<http://musei.beniculturali.it/progetti/sistema-museale-nazionale>`_.

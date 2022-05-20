@@ -11,25 +11,20 @@ par. 1.2.b). Il grado di maturità digitale di un'istituzione culturale
 sarà definito dalla sua capacità di impiego di tecnologie per una
 trasformazione digitale trasversale:
 
--  Lato strategico, adottando tecnologie digitali per ottenere un
-   vantaggio competitivo.
+* Lato strategico, adottando tecnologie digitali per ottenere un vantaggio competitivo.
 
--  Lato produttivo, rendendo lo *user journey* più interattivo per
-   l'utente finale.
+* Lato produttivo, rendendo lo *user journey* più interattivo per l'utente finale.
 
--  Lato applicativo: favorire la produzione, il trattamento, la
-   conservazione, la sicurezza e lo scambio dei dati.
+* Lato applicativo: favorire la produzione, il trattamento, la conservazione, la sicurezza e lo scambio dei dati.
 
--  Lato operativo: impiego di tecnologie digitali per rendere più
-   efficienti i processi interni.
+* Lato operativo: impiego di tecnologie digitali per rendere più efficienti i processi interni.
 
--  Lato culturale: creazione di una cultura organizzativa per un
-   ambiente digitale integrato, ricettivo e aperto.
+* Lato culturale: creazione di una cultura organizzativa per un ambiente digitale integrato, ricettivo e aperto.
 
 Al centro del nuovo contesto si colloca la necessità di disegnare una
 strategia per la gestione dei dati e delle risorse digitali del
 patrimonio culturale, coerenti con le direttive comunitarie e
-nazionali\ :sup:`8`. I dati rappresentano il fulcro della trasformazione
+nazionali [8]_. I dati rappresentano il fulcro della trasformazione
 digitale; essi definiscono il modo in cui produciamo e beneficiamo della
 cultura, come di qualunque altro ambito della nostra esistenza.
 L'accesso alla crescente mole di dati e la capacità di utilizzarli
@@ -77,7 +72,7 @@ culturale” (sub-investimento M1C3 1.1.4, periodo di realizzazione
 2022-2024) quale spazio nazionale per la gestione e conservazione dei
 dati del patrimonio culturale, in coerenza con le citate strategie
 europee e nazionali in materia. Tale infrastruttura, che assume le
-caratteristiche di una piattaforma software nativamente **cloud\ 9**,
+caratteristiche di una piattaforma software nativamente **cloud** [9]_,
 intende creare un ambiente che garantisca una corretta, affidabile,
 sicura ed efficiente organizzazione delle risorse digitali del
 patrimonio culturale e dei metadati connessi. Questo permetterà a
@@ -196,7 +191,7 @@ univoco”, utilizzato in molti dei sistemi informativi nazionali e
 regionali, verso un sistema di certificazione esterno ai medesimi.
 
 In analogia con quanto avviene per le persone fisiche con il Sistema
-Pubblico di identità Digitale (SPiD):sup:`10`, il certificato d’identità
+Pubblico di identità Digitale (SPiD) [10]_, il certificato d’identità
 digitale dei beni culturali è la chiave abilitante affinché un bene
 culturale sia riconosciuto nei diversi sistemi informativi, sia
 amministrativi (gestione dei procedimenti) sia culturali (piattaforme di
@@ -290,3 +285,7 @@ PNRR, la crescita di tali applicazioni per implementare un catalogo di
 servizi ad alto valore aggiunto e potenziale creativo per la ricerca, la
 gestione innovativa, la fruizione avanzata e la valorizzazione del
 patrimonio culturale digitale.
+
+.. [8] Cfr. i Riferimenti normativi essenziali in appendice al PND.
+.. [9] L’infrastruttura software del patrimonio culturale, in quanto servizio pubblico, troverà collocazione nel Polo strategico nazionale in corso di sviluppo da parte del Dipartimento per la trasformazione digitale (`<https://cloud.italia.it/>`)_.us
+.. [10] Il Sistema Pubblico di Identità Digitale (SPID) è la chiave di accesso semplice, veloce e sicura ai servizi digitali delle amministrazioni locali e centrali. Un’unica credenziale (username e password) che rappresenta l’identità digitale e personale di ogni cittadino, con cui è riconosciuto dalla Pubblica Amministrazione per utilizzare in maniera personalizzata e sicura i servizi digitali. Per approfondimenti si rimanda al sito dedicato `<https://www.spid.gov.it/>`_.

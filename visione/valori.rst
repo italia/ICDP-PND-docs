@@ -2,8 +2,8 @@
 ==========
 
 I valori fondativi della visione del PND ruotano attorno ai concetti
-chiave di paesaggio culturale, patrimonio culturale digitale e
-relazioni. Questi valori creano un terreno comune su cui operare e
+chiave di **paesaggio culturale**, **patrimonio culturale digitale** e
+**relazioni**. Questi valori creano un terreno comune su cui operare e
 costituiscono la premessa per il raggiungimento di specifici obiettivi
 di cambiamento all’interno di un progetto di ampio respiro. In questa
 prospettiva, la pubblica amministrazione ha un ruolo fondamentale nel
@@ -17,20 +17,20 @@ renderla accessibile a tutti nel lungo periodo.
 
 Il patrimonio culturale è oggi contraddistinto da due letture
 prevalenti: la prima, di stampo tecnico-amministrativo, è incardinata
-nel sistema statale - e latu sensu “pubblico” - di tutela dei beni
+nel sistema statale - e *latu sensu* “pubblico” - di tutela dei beni
 culturali; l'altra, incentrata sulle pratiche sociali, è stata
 sviluppata da organismi sovranazionali (Unesco e ICOM prima, Commissione
 Europea poi). La prima lettura si focalizza sui beni culturali, sulla
 loro selezione, gerarchizzazione e legittimazione; la seconda si fonda
 sui processi di riconoscimento sociale e patrimonializzazione condivisa
 operati dalle comunità locali e globali. L’Italia ha recepito la
-convenzione di Faro solo nel settembre del 2020\ :sup:`2`\ , a
+convenzione di Faro solo nel settembre del 2020 [2]_, a
 testimonianza delle difficoltà incontrate nell’armonizzarne
 l’inquadramento giuridico con la gestione dell'espansione dei processi
 di patrimonializzazione intrapresi a livello territoriale dalle
 amministrazioni locali e dai soggetti privati senza finalità di lucro.
 La costruzione di un patrimonio culturale digitale composto da oggetti
-collocabili in una infosfera, al di fuori quindi delle coordinate
+collocabili in una **infosfera**, al di fuori quindi delle coordinate
 spazio/temporali del patrimonio tradizionale, può rappresentare per
 l’Italia l'occasione per recuperare e interpretare un ruolo rilevante
 sulla scena culturale globale, senza rinunciare alla propria storica
@@ -83,7 +83,7 @@ contesto di provenienza. (cfr. par. 1.3.a).
 1.1.b. Patrimonio culturale digitale
 ------------------------------------
 
-Il Consiglio dell’Unione Europea\ :sup:`3` ha incluso tra le forme del
+Il Consiglio dell’Unione Europea [3]_ ha incluso tra le forme del
 patrimonio culturale, oltre ai beni materiali e immateriali, anche le
 **risorse digitali**, nella duplice accezione di **nativamente
 digitali** e prodotti/servizi derivati dai processi di digitalizzazione.
@@ -136,7 +136,7 @@ tecnologia. La descrizione e il racconto attribuiti agli oggetti del
 patrimonio, anche nella loro dimensione sociale, necessitano di esperti
 di dominio che possano pensare i contenuti e valorizzarne la
 rappresentazione attraverso il corretto trattamento dei dati correlati e
-lo sviluppo di prodotti interattivi (interaction design). Il patrimonio
+lo sviluppo di prodotti interattivi (*interaction design*). Il patrimonio
 culturale, che tradizionalmente si valorizza nel tempo attraverso le
 interpretazioni che di esso vengono offerte, nello spazio digitale
 accoglie diversi modelli interpretativi e nuovi pubblici ed è quindi in
@@ -189,3 +189,6 @@ Ciascun segmento è in grado di produrre ambiti di conoscenza differenti,
 ma ciò che tiene insieme l’ecosistema è la possibilità di creare valore
 a partire dai dati del patrimonio culturale, sfruttando la potenzialità
 generativa delle relazioni.
+
+.. [2] *La Convenzione quadro del Consiglio d’Europa sul valore del patrimonio culturale per la società*, siglata a Faro il 27 ottobre 2005, è stata ratificata con la legge 1° ottobre 2020, n. 133 (Gazzetta Ufficiale, Serie generale, Anno 161° - Numero 263).
+.. [3] Conclusioni del Consiglio europeo sul patrimonio culturale del 21 maggio 2014 (2014/C 183/08): “*2. Il patrimonio culturale è costituito dalle risorse ereditate dal passato, in tutte le forme e gli aspetti - materiali, immateriali e digitali (prodotti originariamente in formato digitale e digitalizzati), ivi inclusi i monumenti, i siti, i paesaggi, le competenze, le prassi, le conoscenze e le espressioni della creatività umana, nonché le collezioni conservate e gestite da organismi pubblici e privati quali musei, biblioteche e archivi. Esso ha origine dall'interazione nel tempo fra le persone e i luoghi ed è in costante evoluzione. Dette risorse rivestono grande valore per la società dal punto di vista culturale, ambientale, sociale ed economico e la loro gestione sostenibile rappresenta pertanto una scelta strategica per il XXI secolo*”; `<https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:52014XG0614(08)&from=PL>`_

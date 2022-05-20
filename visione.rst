@@ -7,7 +7,7 @@ trasformazione digitale, da cui scaturiscono opportunità per l’intero
 ecosistema culturale. I progetti di digitalizzazione sin qui realizzati
 dalle singole istituzioni culturali potranno rafforzarsi confluendo in
 un’azione collettiva basata su una visione comune, declinata secondo una
-chiara cornice fatta di politiche pubbliche (policy) e regole, cogliendo
+chiara cornice fatta di politiche pubbliche (*policy*) e regole, cogliendo
 le occasioni offerte dagli sviluppi dei processi di innovazione
 tecnologica. 
 

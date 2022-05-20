@@ -1,14 +1,13 @@
 ============================================================
 Piano nazionale di digitalizzazione del patrimonio culturale
 ============================================================
+
 |image0|
 
-Versione n.1 – in consultazione
-
-2022-2023
+**Versione n.1 – in consultazione 2022-2023**
 
 .. toctree::
-  :maxdepth: 2
+  :maxdepth: 3
   :caption: Indice dei contenuti
 
   crediti.rst

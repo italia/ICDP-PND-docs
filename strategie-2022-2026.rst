@@ -24,11 +24,11 @@ raggiunti e il monitoraggio delle azioni programmate. Le strategie del
 PND concorrono infatti al conseguimento degli obiettivi di
 digitalizzazione previsti dalla “Raccomandazione della Commissione EU
 sulla creazione di uno spazio dei dati europeo per il patrimonio
-culturale” del novembre 2021\ :sup:`6` nei termini cronologici indicati.
+culturale” del novembre 2021 [6]_ nei termini cronologici indicati.
 
 In questo contesto, l’investimento M1C3 1.1 “Strategie e piattaforme
 digitali per il patrimonio culturale” del Piano Nazionale di Ripresa e
-Resilienza (PNRR):sup:`7` è una grande occasione per attuare un progetto
+Resilienza (PNRR) [7]_ è una grande occasione per attuare un progetto
 organico e strutturato con l’obiettivo di:
 
 1. sviluppare il potenziale delle banche dati culturali e delle
@@ -84,6 +84,10 @@ Nello schema seguente è riassunta la mappa di navigazione della sezione
 |image1|
 
 *Figura 4. Schema dei contenuti della sezione Strategie del PND*
+
+.. [6] Raccomandazione (UE) 2021/1970 della Commissione del 10 novembre 2021 relativa a uno spazio comune europeo di dati per il patrimonio culturale (OJ L 401 12.11.2021, p. 5, CELEX: `<https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021H1970)>`_
+
+.. [7] Per un approfondimento dell’investimento PNRR 1.1 “Strategie e piattaforma digitali per il patrimonio culturale” si rimanda ai seguenti link: `<https://pnrr.cultura.gov.it/>`_
 
 
 .. toctree::

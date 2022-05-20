@@ -1,4 +1,5 @@
 Crediti
+=======
 
 Il presente documento è stato redatto dall’Istituto centrale per la
 digitalizzazione del patrimonio culturale – Digital Library, nell’ambito

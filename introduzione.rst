@@ -46,6 +46,4 @@ digitalizzazione del patrimonio culturale - *Digital Library* del
 Ministero della cultura - ha avviato la redazione del Piano nazionale di
 digitalizzazione del patrimonio culturale (di seguito PND).
 
-Nota di consultazione: le parole evidenziate in **grassetto** **blu**
-trovano un approfondimento nel capitolo “Parole chiave” posto in coda al
-documento. Le parole sono evidenziate solo nella prima occorrenza.
+.. note:: Le parole evidenziate in **grassetto** trovano un approfondimento nel capitolo “Parole chiave” posto in coda al documento. Le parole sono evidenziate solo nella prima occorrenza.

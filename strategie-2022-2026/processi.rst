@@ -39,7 +39,7 @@ digitale non ci si può limitare alla mera descrizione e riproduzione del
 bene culturale da effettuare una tantum in sistemi informativi dedicati;
 questo non rappresenta che il primo stadio di un processo che si
 sviluppa nel tempo con successive fasi di arricchimento, modellazione,
-processamento /normalizzazione, collegamento; attività che rendono il
+processamento/normalizzazione, collegamento; attività che rendono il
 dato vivo e in costante evoluzione temporale.
 
 Come già osservato in precedenza (cfr. par. 1.1.b, 1.1.c, 1.2.c),
@@ -50,7 +50,7 @@ ne facilitino la condivisione e il riuso per generare ulteriore
 conoscenza. Per raggiungere questo obiettivo bisogna agire su due piani,
 ovvero nella produzione e nella gestione dei dati.
 
-Nella produzione è opportuno richiamare i principi FAIR\ :sup:`11`,
+Nella produzione è opportuno richiamare i principi FAIR [11]_,
 ormai riconosciuti a livello internazionale, che descrivono le
 caratteristiche che le risorse digitali debbono avere per essere usate e
 riutilizzate a fini scientifici, educativi e divulgativi, sia dalle
@@ -100,11 +100,11 @@ auto-sostenibile, coordinato tra gli organi interni dell’amministrazione
 e che prevede un costante aggiornamento, monitoraggio e coinvolgimento
 degli utenti finali. Inoltre, esso consente di verificare il rispetto
 dei principi e la corretta applicazione della normativa nazionale per la
-produzione e pubblicazione dei dati aperti (O*pen Data*)\ :sup:`12`.
+produzione e pubblicazione dei dati aperti (*Open Data*) [12]_.
 
 Elemento cardine per una corretta gestione dei processi di
 digitalizzazione, è l’individuazione dei diversi livelli di
-responsabilità\ :sup:`13` nel ciclo di creazione, gestione,
+responsabilità [13]_ nel ciclo di creazione, gestione,
 pubblicazione, valorizzazione e conservazione a lungo termine delle
 risorse digitali:
 
@@ -221,7 +221,7 @@ definito un modello misto, in cui la funzione “sociale” della libera
 fruizione (si pensi al fruttuoso dibattito anglosassone sulla disciplina
 dei *fair use* per scopi didattici e formativi) e dell’apertura
 inclusiva e democratica delle risorse digitali (testimoniata dal
-successo delle licenze Creative Commons\ :sup:`14`) conviva
+successo delle licenze *Creative Commons* [14]_) conviva
 armoniosamente con gli obiettivi di valorizzazione, anche economica, del
 patrimonio culturale digitalizzato, tanto da parte degli istituti
 pubblici che dei soggetti privati. L'attuale sistema di
@@ -247,8 +247,8 @@ Accanto al tema delle riproduzioni dei beni culturali, che impatta
 evidentemente sulla crescente domanda di “immagini” e materiali
 audiovisivi di svariata natura, si innesta il principio del libero
 riutilizzo dei dati della pubblica amministrazione, introdotto dalle
-direttive comunitarie\ :sup:`15` e consolidato nel Codice
-dell’amministrazione digitale\ :sup:`16` (CAD); tali disposizioni
+direttive comunitarie [15]_ e consolidato nel Codice
+dell’amministrazione digitale [16]_ (CAD); tali disposizioni
 sanciscono l’obbligo per il settore pubblico di rilasciare i propri dati
 in modalità aperta (*Open Data*). Questo principio muove dalla
 convinzione che il libero riutilizzo dei dati, anche per fini
@@ -259,8 +259,8 @@ dalle pubbliche amministrazioni, quanto maggiori saranno le probabilità
 che essi vengano riutilizzati nella creazione di servizi innovativi.
 
 Questo percorso rientra in una più ampia strategia europea dei
-dati\ :sup:`17`, che trova nel CAD e nel Piano triennale per
-l’informatica nella pubblica amministrazione\ :sup:`18` la declinazione
+dati [17]_, che trova nel CAD e nel Piano triennale per
+l’informatica nella pubblica amministrazione [18]_ la declinazione
 nel contesto italiano. I dati del patrimonio culturale rientrano appieno
 in tale prospettiva e pertanto vanno trattati in conformità a quanto
 previsto nel quadro legislativo e procedurale tracciato dalle norme
@@ -281,9 +281,9 @@ riflessioni che seguono si intendono applicate:
 
 Analizzando una recente ricerca empirica sull'adozione di politiche di
 **Open Access** presso istituti GLAM (Galleries, Libraries, Archives,
-Museums) di tutto il mondo\ :sup:`19`, è possibile constatare come
+Museums) di tutto il mondo [19]_, è possibile constatare come
 l’apertura dei dati non sia una pratica ancora adottata sistematicamente
-dagli istituti culturali italiani\ :sup:`20`. Per superare questo
+dagli istituti culturali italiani [20]_. Per superare questo
 divario, dovuto a un più lento adeguamento del comparto cultura alle
 nuove opportunità aperte dalla condivisione e circolazioni di dati e
 conoscenze, occorre superare le resistenze ancora esistenti derivanti,
@@ -300,13 +300,13 @@ aumentare la qualità dei dati e dei metadati, aumentare la
 consapevolezza sulle politiche di valorizzazione del patrimonio
 informativo pubblico e su una moderna economia dei dati. A tale scopo,
 riprendendo la schematizzazione del precedente paragrafo
-2.2.a\ :sup:`21`, si individuano le seguenti azioni strategiche:
+2.2.a [21]_, si individuano le seguenti azioni strategiche:
 
 -  Livello 1 (direzioni generali): gestione e sviluppo del sito
    dati.beniculturali.it, inteso quale interfaccia unica rispetto alla
-   “Piattaforma digitale nazionale dati”\ :sup:`22`; identificazione
+   “Piattaforma digitale nazionale dati” [22]_; identificazione
    delle basi dati strategiche del Ministero e pubblicazione del
-   relativo catalogo in coerenza con il profilo DCAT-AP_IT\ :sup:`23`;
+   relativo catalogo in coerenza con il profilo DCAT-AP_IT [23]_;
    identificazione dei sistemi informativi pubblici che espongono API
    coerenti con il modello di interoperabilità e con i modelli di
    riferimento di dati nazionali ed europei; normalizzazione delle
@@ -422,3 +422,19 @@ valutazione della maturità digitale degli istituti culturali* (cfr. par.
 3.5) vengono invece descritti i principali modelli di *Digital Maturity
 Assessment*, le opportunità di applicazione al patrimonio culturale e
 alcuni casi di strumenti esistenti.
+
+.. [11] Nel 2014 sono stati elaborati alcuni principi fondamentali, denominati F.A.I.R. (Findable, Accessible, Interoperable, Re-Usable), per ottimizzare la riutilizzabilità dei dati della ricerca; il testo completo è disponibile all’indirizzo `<https://www.force11.org/group/fairgroup/fairprinciples>`_
+
+.. [12] Per un approfondimento sui dati aperti si veda il documento “FAQ per la pubblicazione di dati aperti” allegato alle *Linee guida per la redazione del piano di gestione dei dati* (*Data Management Plan*).
+
+.. [13] Il sistema di livelli proposto descrive il modello organizzativo del Ministero della cultura ma può essere facilmente adattato anche alle amministrazioni regionali e comunali.
+.. [14] *Creative Commons* è un’organizzazione internazionale senza scopo di lucro che fornisce licenze gratuite, strumenti che i titolari dei diritti d’autore e dei diritti connessi possono utilizzare per consentire ad altri di condividere, riutilizzare e remixare legalmente le proprie opere. Il rilascio di materiale con una delle sei licenze CC chiarisce agli utenti cosa possono o non possono fare. Per approfondimenti cfr. `<https://creativecommons.it/chapterIT/>`_.
+.. [15] La direttiva europea (UE) 2019/1024, relativa all'apertura dei dati e al riutilizzo dell'informazione del settore pubblico, rifonde in un unico testo le precedenti direttive 2003/98/CE e 2013/37/UE.
+.. [16]Il decreto legislativo 7 marzo 2005, n. 82 recante il Codice dell'Amministrazione Digitale (CAD), è un testo unico che riunisce e organizza le norme riguardanti l'informatizzazione della Pubblica Amministrazione nei rapporti con i cittadini e le imprese. Tra le molte disposizioni relative al trattamento dei dati e documenti informatici, il CAD dall’art. 50 all’art. 62 introduce una serie di norme relative ai dati delle pubbliche amministrazioni e alla loro fruizione.
+.. [17] “La strategia europea in materia di dati mira a fare dell'UE un leader in una società basata sui dati. La creazione di un mercato unico dei dati consentirà a questi ultimi di circolare liberamente all'interno dell'UE e in tutti i settori a vantaggio delle imprese, dei ricercatori e delle amministrazioni pubbliche. Le singole persone, le imprese e le organizzazioni dovrebbero essere messe in grado di adottare decisioni migliori sulla base delle informazioni derivate da dati non personali”. `<https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-data-strategy_it>`_.
+.. [18] Il Piano Triennale per l’informatica nella Pubblica Amministrazione è uno strumento elaborato da AgID (Agenzia per l’Italia digitale) per promuovere la trasformazione digitale del Paese e, in particolare, quella della Pubblica Amministrazione italiana. La versione del Piano 2021-2023 è disponibile all’indirizzo `<https://www.agid.gov.it/it/agenzia/piano-triennale>`_.
+.. [19] Douglas McCarthy, Andrea Wallace, Survey of GLAM open access policy and practice, 2018 to present, CC BY 4.0, `<https://docs.google.com/spreadsheets/d/1WPS-KJptUJ-o8SXtg00llcxq0IKJu8eO6Ege_GrLaNc/edit#gid=1216556120>`_.
+.. [20] Su 934 soggetti dell’ecosistema GLAM europeo che mettono a disposizione dati della cultura in accesso aperto per mezzo dei loro siti web e/o di piattaforme esterne, come Europeana e Wikimedia Commons, solo 24 sono italiani, contro 178 della Germania, 89 del Regno Unito, 82 della Svezia, 75 della Polonia, 62 di Francia e Olanda, 45 di Spagna, 39 di Portogallo, 36 di Svizzera e Norvegia, 33 di Belgio.
+.. [21] Il sistema di livelli proposto descrive il modello organizzativo del Ministero della cultura ma può essere facilmente adattato anche alle amministrazioni regionali e comunali.
+.. [22] Art. 53-ter del Codice dell’amministrazione digitale.
+.. [23] Profilo italiano dei metadati richiesti per descrivere tutti i dati disponibili presso la pubblica amministrazione. Il profilo è elaborato dall’Agenzia per l’Italia Digitale (AgID). Il profilo nazionale, denominato anche “Profilo italiano di DCAT-AP” (DCAT-AP_IT), si inserisce nel contesto del framework europeo di interoperabilità. È una estensione della specifica DCAT-AP (Data Catalog Vocabulary – Application Profile) rilasciata a novembre 2015. Per approfondimenti cfr. `<https://dati.gov.it/content/dcat-ap-it-v10-profilo-italiano-dcat-ap-0>`_.

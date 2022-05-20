@@ -86,7 +86,7 @@ presente documento.
 
 La Commissione Europea ha riconosciuto la transizione verde e quella
 digitale quali pilastri dell’evoluzione socio-economica
-comunitaria\ :sup:`4`. La trasformazione digitale coinvolge i diversi
+comunitaria [4]_ . La trasformazione digitale coinvolge i diversi
 settori del Paese in modo differente; in ciascuno di essi si sta
 investendo in tecnologie capaci di adeguare in modo significativo il
 funzionamento degli istituti non limitandosi ad adottare strumenti di
@@ -110,7 +110,7 @@ del cambiamento. Per avviare questo processo sono necessari:
 
 -  Un approccio coerente, valorizzato da idonee competenze digitali.
 
--  La capacità di valutare l’attuale livello di maturità digitale e
+-  La capacità di valutare l’attuale livello di **maturità digitale** e
    l’adeguatezza delle tecnologie da utilizzare.
 
 -  La riconsiderazione dei rapporti da instaurare con i differenti
@@ -227,3 +227,5 @@ efficientamento delle procedure gestionali: l’autosufficienza è molto
 onerosa in termini di investimenti e impieghi di risorse, mentre
 l’interdipendenza è più sostenibile, perché riduce o elimina sprechi e
 ridondanze e accorcia i tempi di intervento.
+
+.. [4] *A European Green Deal*, 2021: `<https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en>` (consultato il 11/01/2022); si veda anche, per gli obiettivi che legano il patrimonio culturale allo sviluppo ecosostenibile, il *Cultural Heritage Green Paper* (2021), `<https://www.europanostra.org/our-work/policy/european-cultural-heritage-green-paper/>`_
