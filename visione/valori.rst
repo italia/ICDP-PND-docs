@@ -10,10 +10,9 @@ prospettiva, la pubblica amministrazione ha un ruolo fondamentale nel
 preservare l’eredità culturale, comunque essa venga declinata, e nel
 renderla accessibile a tutti nel lungo periodo.
 
- 
 
 1.1.a. Contesti come paesaggi culturali
----------------------------------------
+***************************************
 
 Il patrimonio culturale è oggi contraddistinto da due letture
 prevalenti: la prima, di stampo tecnico-amministrativo, è incardinata
@@ -81,7 +80,7 @@ diversi usi sociali, a partire da una corretta ricostruzione del
 contesto di provenienza. (cfr. par. 1.3.a).
 
 1.1.b. Patrimonio culturale digitale
-------------------------------------
+************************************
 
 Il Consiglio dell’Unione Europea [3]_ ha incluso tra le forme del
 patrimonio culturale, oltre ai beni materiali e immateriali, anche le
@@ -150,7 +149,7 @@ digitale: è possibile immaginare il futuro come un ecosistema nel quale
 tutti gli attori e le professionalità del settore possono relazionarsi.
 
 1.1.c. Il capitale semantico delle relazioni
---------------------------------------------
+********************************************
 
 L’ambiente digitale trova la propria essenza costitutiva nelle
 relazioni, ovvero nella possibilità di generare e rigenerare connessioni
