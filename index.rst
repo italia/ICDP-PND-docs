@@ -4,7 +4,9 @@ Piano nazionale di digitalizzazione del patrimonio culturale
 
 |image0|
 
-**Versione n.1 – in consultazione 2022-2023**
+**2022-2023**
+
+**Versione n.1.0 - giugno 2022**
 
 .. toctree::
   :maxdepth: 3
@@ -12,12 +14,18 @@ Piano nazionale di digitalizzazione del patrimonio culturale
 
   crediti.rst
   introduzione.rst
-  scopo-del-piano-e-destinatari.rst
   contesto-di-riferimento.rst
+  scopo-del-piano-e-destinatari.rst
   struttura-del-documento.rst
-  visione.rst
-  strategie-2022-2026.rst
-  linee-guida-per-i-processi-di-digitalizzazione.rst
+
+
+.. toctree::
+  :numbered:
+  :maxdepth: 3
+
+  visione/index.rst
+  strategia/index.rst
+  linee-guida/index.rst
   parole-chiave.rst
   bibliografia.rst
   riferimenti-normativi-essenziali.rst

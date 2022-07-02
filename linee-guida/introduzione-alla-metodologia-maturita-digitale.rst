@@ -1,5 +1,6 @@
-3.5 Introduzione alla metodologia per la valutazione della maturità digitale degli istituti culturali 
-======================================================================================================
+.. _linee_guida_introduzione_metodologia:
+Introduzione alla metodologia per la valutazione della maturità digitale degli istituti culturali 
+==================================================================================================
 
 La capacità di analizzare il proprio livello iniziale di maturità
 digitale è un’opportunità fondamentale per un istituto culturale, poiché
@@ -17,5 +18,6 @@ valutativa più appropriata per consentire alle istituzioni di
 comprendere con chiarezza il proprio livello iniziale e governare più
 efficacemente i processi di transizione digitale.
 
-*Allegato 5: Introduzione alla metodologia per la valutazione della
-maturità digitale degli istituti culturali.*
+.. admonition:: Allegato 5
+
+  Introduzione alla metodologia per la valutazione della maturità digitale degli istituti culturali

@@ -1,7 +1,8 @@
-3.3 Linee guida per l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale 
-==========================================================================================================================
+.. _linee_guida_acquisizione_circolazione_riuso:
+Linee guida per l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale 
+======================================================================================================================
 
-Le linee guida 3 chiariscono le norme che disciplinano l’acquisizione,
+Le Linee guida 3 chiariscono le norme che disciplinano l’acquisizione,
 la circolazione e il riuso delle riproduzioni dei beni culturali in
 ambiente digitale, qui intesi nella loro accezione più ampia. Il
 documento inquadra il contesto normativo di riferimento, fornendo
@@ -15,5 +16,6 @@ mettere le istituzioni e gli utenti nelle condizioni di distinguere
 senza equivoci i limiti e le possibilità di riutilizzo delle
 riproduzioni rese disponibili in rete dagli istituti.
 
-*Allegato 3: Linee guida per l’acquisizione, la circolazione e il riuso
-delle riproduzioni dei beni culturali in ambiente digitale.*
+.. admonition:: Allegato 3
+
+  Linee guida per l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale
