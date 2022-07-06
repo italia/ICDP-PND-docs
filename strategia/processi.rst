@@ -24,6 +24,7 @@ digitali, abilitati dalle tecnologie, non è possibile rendere il
 patrimonio un fattore di crescita sociale, culturale ed economica.
 
 .. _digitalizzazione_ciclo_vita_risorsa_digitale:
+
 Digitalizzazione e ciclo di vita della risorsa digitale
 -------------------------------------------------------
 
@@ -45,7 +46,7 @@ successive fasi di arricchimento, modellazione,
 processamento/normalizzazione, collegamento; attività che rendono
 il dato vivo e in costante evoluzione temporale.
 
-Come già osservato in precedenza (cfr. par. :ref:`1.1.2<patrimonio_culturale_digitale>`, `1.1.3<capitale_semantico_delle_relazioni>`, :ref:`1.2.3<abilitare_ecosistemi_interdipendenti>`),
+Come già osservato in precedenza (cfr. par. :ref:`patrimonio_culturale_digitale`, `capitale_semantico_delle_relazioni`, :ref:`abilitare_ecosistemi_interdipendenti`),
 esistendo una pluralità di soggetti che a vario titolo svolgono un
 ruolo attivo nei processi di creazione delle informazioni sul
 patrimonio culturale, è necessario per questo che i dati siano
@@ -103,7 +104,7 @@ Tale approccio postula un livello di consapevolezza individuale e
 maturità organizzativa che va programmato e governato. A tal fine
 ogni istituto dovrà dotarsi di un Piano di gestione dei dati
 (*Data Management Plan*), per garantire uno sviluppo coerente nel
-tempo dei progetti di digitalizzazione (cfr. par. :ref:`3.2<linee_guida_redazione_piano_gestione_dati>`). Si
+tempo dei progetti di digitalizzazione (cfr. par. :ref:`linee_guida_redazione_piano_gestione_dati`). Si
 tratterà di individuare gli attori che concorrono alla produzione
 del dato e al recupero e normalizzazione di quelli pregressi, alla
 successiva organizzazione e pubblicazione, distinguendo chi è
@@ -182,8 +183,8 @@ Research Data Pilot* di H2020), soprattutto se incentrati sul
 patrimonio culturale.
 
 Nelle *Linee guida per la digitalizzazione del patrimonio
-culturale* (cfr. par. :ref:`3.1<linee_guida_digitalizzazione_patrimonio_culturale>`) e nelle *Linee guida per la redazione
-del Piano di gestione dei dati (Data Management Plan)* (cfr. par. :ref:`3.2<linee_guida_redazione_piano_gestione_dati>`) sono contenute specifiche indicazioni operative per la
+culturale* (cfr. par. :ref:`linee_guida_digitalizzazione_patrimonio_culturale`) e nelle *Linee guida per la redazione
+del Piano di gestione dei dati (Data Management Plan)* (cfr. par. :ref:`linee_guida_redazione_piano_gestione_dati`) sono contenute specifiche indicazioni operative per la
 gestione del processo sopra descritto.
 
 .. admonition:: Azioni previste a breve termine (2022)
@@ -196,7 +197,9 @@ gestione del processo sopra descritto.
 
 .. admonition:: Azioni a medio/lungo termine (2024-2026)
 
-  3) Realizzazione di un programma formativo su vasta scala (cfr. par. :ref:`2.3.1<formazione_crescita_competenze>`)
+  3) Realizzazione di un programma formativo su vasta scala (cfr. par. :ref:`formazione_crescita_competenze`)
+
+.. _politiche_accesso_riuso:
 
 Politiche di accesso e riuso
 ----------------------------
@@ -234,9 +237,9 @@ fondamentale - garanzia di tutela, gestione e fruizione fisica
 delle collezioni, ma si misura con obiettivi di disseminazione
 delle risorse culturali digitali per il soddisfacimento delle
 crescenti istanze di partecipazione, riuso e co-creazione di
-contenuti (cfr. par. :ref:`2.3.2<disseminazione_culturale_condivisione_sociale>` e :ref:`2.3.3<co_creazione_crowdsorcing>`).
+contenuti (cfr. par. :ref:`disseminazione_culturale_condivisione_sociale` e :ref:`co_creazione_crowdsorcing`).
 
-Il patrimonio culturale digitale, esistendo di per sé (cfr. par. :ref:`1.1.2<patrimonio_culturale_digitale>`), ha propri processi di gestione (cfr. par. :ref:`2.2.1<digitalizzazione_ciclo_vita_risorsa_digitale>`); esso è
+Il patrimonio culturale digitale, esistendo di per sé (cfr. par. :ref:`patrimonio_culturale_digitale`), ha propri processi di gestione (cfr. par. :ref:`digitalizzazione_ciclo_vita_risorsa_digitale`); esso è
 tuttavia rappresentativo di beni culturali materiali e
 immateriali, per i quali può costituire forme autonome e
 innovative di fruizione e valorizzazione. Ne consegue che
@@ -265,7 +268,7 @@ necessario distinguere tre dimensioni:
 3. la terza attiene allo scopo per il quale si richiede/ottiene
    una riproduzione, dal momento che usi diversi determinano
    differenti soluzioni. Poiché le tipologie d’uso nell’ambiente
-   digitale si sono moltiplicate ed evolute (cfr. par. :ref:`2.2.3<design_servizi_modelli_creazione_valore>`), è
+   digitale si sono moltiplicate ed evolute (cfr. par. :ref:`design_servizi_modelli_creazione_valore`), è
    inevitabile adeguare le regole ai nuovi scenari, nel rispetto
    dei principi della normativa nazionale e comunitaria.
 
@@ -296,8 +299,7 @@ della conoscenza e allo sviluppo di servizi innovativi.
 
 Con questo obiettivo, nelle *Linee guida per l’acquisizione, la
 circolazione e il riuso delle riproduzioni dei beni culturali in
-ambiente digitale* (cfr. par. :ref:`3.3<linee_guida_acquisizione_circolazione_riuso>`) vengono forniti gli indirizzi
-operativi che, partendo dal quadro normativo vigente, possano
+ambiente digitale* (cfr. par. :ref:`linee_guida_acquisizione_circolazione_riuso`) vengono forniti gli indirizzi operativi che, partendo dal quadro normativo vigente, possano
 cogliere il senso dei cambiamenti in atto, restituendo un contesto
 procedurale chiaro ed omogeneo per l’adozione di opportune
 discipline e licenze d’uso alla pubblicazione online delle
@@ -349,8 +351,8 @@ istituti culturali a confrontarsi con un tema che richiede
 specifiche competenze tecniche.
 
 Il PND, combinando le indicazioni operative contenute nelle Linee
-guida della parte terza (cfr. par. :ref:`3.1<linee_guida_digitalizzazione_patrimonio_culturale>` e :ref:`3.2<linee_guida_redazione_piano_gestione_dati>`) con il programma
-formativo previsto nell’ambito del PNRR (cfr. par. :ref:`2.3.1<formazione_crescita_competenze>`), intende
+guida della parte terza (cfr. par. :ref:`linee_guida_digitalizzazione_patrimonio_culturale` e :ref:`linee_guida_redazione_piano_gestione_dati`) con il programma
+formativo previsto nell’ambito del PNRR (cfr. par. :ref:`formazione_crescita_competenze`), intende
 perseguire diverse finalità: favorire la condivisione e il
 riutilizzo dei dati tra le pubbliche amministrazioni e da parte di
 cittadini e imprese, aumentare la qualità dei dati e dei metadati,
@@ -359,7 +361,7 @@ patrimonio informativo pubblico e su una moderna economia dei
 dati.
 
 Nelle *Linee guida per la redazione del Piano di gestione dei
-dati* (cfr. par. :ref:`3.2<linee_guida_redazione_piano_gestione_dati>`) sono contenute una serie di indicazioni
+dati* (cfr. par. :ref:`linee_guida_redazione_piano_gestione_dati`) sono contenute una serie di indicazioni
 operative volte a facilitare l’adozione di pratiche di apertura
 dei dati come momento qualificante del ciclo di vita della risorsa
 digitale.
@@ -385,7 +387,7 @@ digitale.
   geodati.gov.it), pubblicati sul sito dati.beniculturali.it in
   coerenza con quanto previsto dal quadro normativo nazionale ed
   europeo; attivazione dell’interoperabilità con l’infrastruttura
-  software del patrimonio culturale (cfr. par. :ref:`2.1.1<infrastruttura_nazionale_dati_patrimonio>`) secondo API
+  software del patrimonio culturale (cfr. par. :ref:`infrastruttura_nazionale_dati_patrimonio`) secondo API
   standard; realizzazione di iniziative di coinvolgimento di utenti
   e sviluppatori per il riuso dei dataset rilasciati in formato
   aperto.
@@ -482,15 +484,14 @@ nell’interpretazione del cambiamento.
 
 Tutti questi aspetti troveranno una più approfondita trattazione
 nelle *Linee guida per la classificazione di prodotti e servizi
-digitali, processi e modelli di gestione* (cfr. par. :ref:`3.4<linee_guida_classificazione>`)che
+digitali, processi e modelli di gestione* (cfr. par. :ref:`linee_guida_classificazione`)che
 metteranno a fuoco le tipologie dei beni culturali e il loro
 potenziale di valorizzazione, identificheranno i prodotti
 realizzabili e i servizi erogabili, definiranno i processi
 *end-to-end* e analizzeranno i modelli di gestione applicabili per
 la creazione di valore culturale, sociale ed economico. Nel
 documento *Introduzione alla metodologia per la valutazione della
-maturità digitale degli istituti culturali* (cfr. par.  :ref:`3.5<linee_guida_introduzione_metodologia>`)vengono invece descritti i principali modelli di *Digital
-Maturity Assessment*, le opportunità di applicazione al patrimonio
+maturità digitale degli istituti culturali* (cfr. par.  :ref:`linee_guida_introduzione_metodologia`)vengono invece descritti i principali modelli di *Digital Maturity Assessment*, le opportunità di applicazione al patrimonio
 culturale e alcuni casi di strumenti esistenti.
 
 .. admonition:: Azioni previste a breve termine (2022)
@@ -503,13 +504,13 @@ culturale e alcuni casi di strumenti esistenti.
 
 .. admonition:: Azioni a medio/lungo termine (2024-2026)
 
-  3) Realizzazione di un programma formativo su vasta scala (cfr. par. :ref:`2.3.1<formazione_crescita_competenze>`)
+  3) Realizzazione di un programma formativo su vasta scala (cfr. par. :ref:`formazione_crescita_competenze`)
 
-  4) Creazione del catalogo dei servizi digitali per il patrimonio culturale disponibili sul mercato (cfr. par. :ref:`2.1.3<tecnologie_abilitanti_user_centered_design>`)
+  4) Creazione del catalogo dei servizi digitali per il patrimonio culturale disponibili sul mercato (cfr. par. :ref:`tecnologie_abilitanti_user_centered_design`)
 
 .. [24] Nel 2014 sono stati elaborati alcuni principi fondamentali, denominati F.A.I.R. (Findable, Accessible, Interoperable, Re-Usable), per ottimizzare la riutilizzabilità dei dati della ricerca; il testo completo è disponibile all’indirizzo https://www.force11.org/group/fairgroup/fairprinciples
 
-.. [25] Il IIIF (*International Image Interoperability Framework*) è una tecnologia sviluppata negli ultimi anni che si è diffusa molto rapidamente a livello internazionale e in tutto il mondo GLAM.  Promossa da un consorzio di importanti istituzioni culturali, è supportata da una comunità internazionale che sviluppa e implementa le specifiche delle API (*Application Programming Interface*) che lo costituiscono (cfr. https://iiif.io/). 
+.. [25] Il IIIF (*International Image Interoperability Framework*) è una tecnologia sviluppata negli ultimi anni che si è diffusa molto rapidamente a livello internazionale e in tutto il mondo GLAM.  Promossa da un consorzio di importanti istituzioni culturali, è supportata da una comunità internazionale che sviluppa e implementa le specifiche delle API (*Application Programming Interface*) che lo costituiscono (cfr. https://iiif.io/).
 
 .. [26] Per un approfondimento sui dati aperti si veda il documento “FAQ per la pubblicazione di dati aperti” allegato alle *Linee guida per la redazione del piano di gestione dei dati (Data Management Plan)*.
 

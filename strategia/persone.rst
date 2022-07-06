@@ -27,7 +27,7 @@ volte al costante aggiornamento delle competenze del personale interno e
 abilitando la partecipazione di strati sempre più ampi di cittadinanza
 si potrà favorire la creatività culturale, intesa come processo
 permanente di ri-contestualizzazione e re-interpretazione del patrimonio
-all’interno dei paesaggi culturali (cfr. par. :ref:`1.1.1<contenti_come_paesaggi_culturali>`).
+all’interno dei paesaggi culturali (cfr. par. :ref:`contenti_come_paesaggi_culturali`).
 
 .. _formazione_crescita_competenze:
 Formazione e crescita delle competenze
@@ -115,6 +115,7 @@ digitalizzazione e nel design dei servizi per l’utenza.
   4) Realizzazione del programma formativo nella sua completezza
 
 .. _disseminazione_culturale_condivisione_sociale:
+
 Disseminazione culturale e condivisione sociale
 -----------------------------------------------
 
@@ -146,7 +147,7 @@ territorio in virtù della loro dematerializzazione.
 Le nuove forme di costruzione condivisa dei contesti patrimoniali
 necessitano di una solida architettura informativa che sappia offrire
 dati di qualità e informazioni attendibili. Le politiche culturali
-abilitate dalla costruzione di uno spazio comune dei dati (cfr. par. :ref:`2.1.1<infrastruttura_nazionale_dati_patrimonio>`) dovranno perciò ampliare il pubblico sia a livelloterritoriale
+abilitate dalla costruzione di uno spazio comune dei dati (cfr. par. :ref:`infrastruttura_nazionale_dati_patrimonio`) dovranno perciò ampliare il pubblico sia a livelloterritoriale
 (nello spazio geografico) sia sociale, coinvolgendo segmenti più ampi -
 e in passato esclusi - della popolazione. Il digitale offre inedite
 possibilità per la disseminazione culturale: le piattaforme di accesso
@@ -167,11 +168,11 @@ digitale” (Digital library) possa essere utilizzato in ogni settore del
 patrimonio culturale, per promuovere e diffondere la conoscenza,
 integrare le comunità, erogare servizi digitali. Tale processo evolutivo
 sarà facilitato dai servizi erogati dall’infrastruttura nazionale dei
-dati del patrimonio culturale (cfr. par. :ref:`2.1.1<infrastruttura_nazionale_dati_patrimonio>`), che esporrà le risorse
+dati del patrimonio culturale (cfr. par. :ref:`infrastruttura_nazionale_dati_patrimonio`), che esporrà le risorse
 digitali in modo integrato e strutturato, per essere poi utilizzate
 nelle applicazioni di front-end settoriali o realizzate a livello di
 singolo istituto. Le *Linee guida per la classificazione di prodotti e
-servizi digitali, processi e modelli di gestione* (cfr. par. :ref:`3.4<linee_guida_classificazione>` e
+servizi digitali, processi e modelli di gestione* (cfr. par. :ref:`linee_guida_classificazione` e
 allegato 4) forniscono una guida per individuare i prodotti e servizi
 che possono essere realizzati e integrati nelle diverse Digital Library.
 
@@ -222,6 +223,7 @@ reingegnerizzazione di soluzioni esistenti
   4) Azioni di disseminazione
 
 .. _co_creazione_crowdsorcing:
+
 Co-creazione e crowdsourcing
 ----------------------------
 

@@ -31,11 +31,12 @@ strutturazione di canali digitali permanenti di dialogo con i
 propri pubblici.
 
 .. _estensione_del_patrimonio_culturale_per_nuovi_pubblici:
-Estensione del patrimonio culturale per nuovi pubblici 
+
+Estensione del patrimonio culturale per nuovi pubblici
 ------------------------------------------------------
 
 Il patrimonio culturale digitale è una risorsa che incorpora
-storia e memoria (cfr. par. :ref:`1.1.2<patrimonio_culturale_digitale>`), e che per questo è
+storia e memoria (cfr. par. :ref:`patrimonio_culturale_digitale`), e che per questo è
 in grado di originare informazioni sulle interazioni che gli
 utenti sviluppano con esso. Se adeguatamente promosso all’interno
 di piattaforme digitali progettate sulle necessità dei fruitori,
@@ -52,7 +53,7 @@ digitali di accesso al patrimonio culturale è l’opportunità per
 qualsiasi utente di partecipare, sperimentare, interagire,
 diffondere e riutilizzare il patrimonio culturale pubblico; in
 questa direzione è pensata anche la piattaforma di accesso
-prevista nell’ambito dell’investimento del PNRR (cfr. par. :ref:`2.3.2<disseminazione_culturale_condivisione_sociale>`), che metterà a disposizione contenuti culturali resi
+prevista nell’ambito dell’investimento del PNRR (cfr. par. :ref:`disseminazione_culturale_condivisione_sociale`), che metterà a disposizione contenuti culturali resi
 accessibili ad un bacino di utenti molto ampio, siano essi
 consumatori finali, imprese interessate alla creazione di
 prodotti o servizi oppure qualsiasi altro utilizzatore della
@@ -67,7 +68,7 @@ trasformazione digitale.
 
 Le nuove logiche di produzione contenutistica investono anche le
 attività di **crowdsourcing**\*, quali forme di collaborazione
-generativa di comunità d’interesse (cfr. par. :ref:`2.3.3<co_creazione_crowdsorcing>`). Esse si
+generativa di comunità d’interesse (cfr. par. :ref:`co_creazione_crowdsorcing`). Esse si
 caratterizzano non solo per la partecipazione proattiva del
 pubblico, ma anche perché esplicitano il processo attraverso cui
 si realizzano. Le piattaforme aggregano, raccontano e
@@ -84,7 +85,7 @@ nuove classificazioni dei contenuti, ma anche rinnovate forme di
 documentazione della cultura materiale e immateriale attraverso
 linguaggi nuovi o interventi creativi. In questo modo è possibile
 andare incontro al segmento meno noto (segmento “aperto”) dei
-fruitori del patrimonio culturale digitale (cfr. par. :ref:`1.3.3<capitale_semantico_delle_relazioni>`),
+fruitori del patrimonio culturale digitale (cfr. par. :ref:`capitale_semantico_delle_relazioni`),
 consolidando nuovi pubblici e con essi il potere di generare
 visioni ulteriori del patrimonio culturale.
 
@@ -152,7 +153,7 @@ dopo l’esperienza d’uso -, sulla base di processi pensati
 approfondimento della relazione tra servizi, processi e modelli
 di gestione si rimanda alle indicazioni contenute nelle *Linee
 guida per la classificazione di prodotti e servizi digitali,
-processi e modelli di gestione* (cfr. par. :ref:`3.4<linee_guida_classificazione>`) nella terza
+processi e modelli di gestione* (cfr. par. :ref:`linee_guida_classificazione`) nella terza
 sezione del presente documento.
 
 L’opportunità offerta da questo approccio consiste nel
@@ -165,7 +166,7 @@ qualità dei servizi messi a disposizione della collettività.
 Affinché tale processo sia duraturo e sostenibile, è necessario
 che le risorse digitali siano prodotte in una filiera certificata
 e mantenute nel tempo, rimanendo stabilmente accessibili nel
-lungo periodo (cfr. par. :ref:`2.2.1<digitalizzazione_ciclo_vita_risorsa_digitale>`). In particolare, come evidenziato
+lungo periodo (cfr. par. :ref:`digitalizzazione_ciclo_vita_risorsa_digitale`). In particolare, come evidenziato
 nelle stesse *Linee guida* sopracitate, le risorse digitali
 potranno essere impiegate da utenti e imprese per la creazione e
 la produzione, sia offline che online, di prodotti e servizi a
@@ -241,5 +242,3 @@ straordinaria opportunità per gli istituti culturali.
 .. [10] Per la progettazione di servizi web si rimanda alle *Linee Guida di design per i servizi web delle PA* redatte dall’Agenzia per l’Italia digitale: https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/index.html (Ultima consultazione: 24/06/2022).
 
 .. [11] In riferimento agli enti coinvolti e al team di progetto connessi alle attività di digitalizzazione, si veda l’Allegato tecnico “Linee guida per la Digitalizzazione del patrimonio culturale”, sezione C e l’allegato tecnico “Linee guida per la redazione del Piano di gestione dei dati”, sezione *Data Governance* interna.
-
-

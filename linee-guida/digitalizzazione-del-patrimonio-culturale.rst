@@ -1,4 +1,5 @@
 .. _linee_guida_digitalizzazione_patrimonio_culturale:
+
 Linee guida per la digitalizzazione del patrimonio culturale
 ============================================================
 

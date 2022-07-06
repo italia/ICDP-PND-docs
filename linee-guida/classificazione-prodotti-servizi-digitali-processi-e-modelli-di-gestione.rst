@@ -1,5 +1,6 @@
 .. _linee_guida_classificazione:
-Linee guida per la classificazione di prodotti e servizi digitali, processi e modelli di gestione 
+
+Linee guida per la classificazione di prodotti e servizi digitali, processi e modelli di gestione
 ==================================================================================================
 
 Partendo dalle diverse tipologie dei beni culturali e dal loro

@@ -1,5 +1,6 @@
 .. _linee_guida_redazione_piano_gestione_dati:
-Linee guida per la redazione del Piano di gestione dei dati 
+
+Linee guida per la redazione del Piano di gestione dei dati
 ============================================================
 
 Le Linee guida 2 hanno l’obiettivo di definire il percorso per costruire

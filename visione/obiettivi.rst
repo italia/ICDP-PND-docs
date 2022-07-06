@@ -27,7 +27,7 @@ Quest’ultime dialogano a propria volta con il patrimonio culturale secondo mol
 Le azioni strategiche a livello nazionale sono sviluppate nel
 capitolo 2.
 
-Ampliare le forme di accesso al patrimonio culturale 
+Ampliare le forme di accesso al patrimonio culturale
 -----------------------------------------------------
 
 Richiamando nuovamente le Conclusioni del Consiglio europeo del
@@ -104,13 +104,13 @@ barriere che ne limitano la piena fruibilità.
 
 Per gli aspetti tecnico-operativi correlati a questo obiettivo si
 rimanda alle indicazioni contenute nelle *Linee guida per la
-redazione del Piano di gestione dei dati* (cfr. par. :ref:`3.2<linee_guida_redazione_piano_gestione_dati>`) e nelle
+redazione del Piano di gestione dei dati* (cfr. par. :ref:`linee_guida_redazione_piano_gestione_dati`) e nelle
 *Linee guida per l’acquisizione, la circolazione e il riuso delle
-riproduzioni dei beni culturali in ambiente digitale* (cfr. par. :ref:`3.3<linee_guida_acquisizione_circolazione_riuso>`) alla terza sezione del presente documento.
+riproduzioni dei beni culturali in ambiente digitale* (cfr. par. :ref:`linee_guida_acquisizione_circolazione_riuso` ) alla terza sezione del presente documento.
 
 .. admonition:: Azioni strategiche correlate
 
-  2.1.3 “Tecnologie abilitanti per un *user-centered design*”
+   :ref:`Tecnologie abilitanti per un user-centered design<tecnologie-abilitanti>`
 
 
 Digitalizzare per operare una trasformazione digitale
@@ -212,18 +212,18 @@ ruolo di co-narratori e fruitori.
 
 Per gli aspetti tecnico-operativi connessi a questo obiettivo si
 rimanda alle indicazioni contenute nelle *Linee guida per la
-digitalizzazione del patrimonio culturale* (cfr. par. :ref:`3.1<linee_guida_digitalizzazione_patrimonio_culturale>`) e
+  digitalizzazione del patrimonio culturale* (cfr. par. :ref:`linee_guida_digitalizzazione_patrimonio_culturale`) e
 nelle *Linee guida per la classificazione di prodotti e servizi
-digitali, processi e modelli di gestione* (cfr. par. :ref:`3.4<linee_guida_classificazione>`) della
-sezione terza del PND.
+digitali, processi e modelli di gestione* (cfr. par. :ref:`linee_guida_classificazione`) della sezione terza del PND.
 
 .. admonition:: Azioni strategiche correlate
 
-  2.3.2 “Politiche di accesso e riuso”
+   :ref:`Politiche di accesso e riuso<politiche_accesso_riuso>`
 
-  2.3.3 “Disseminazione culturale e condivisione sociale”
+   :ref:`Disseminazione culturale e condivisione sociale<disseminazione_culturale_condivisione_sociale>`
 
 .. _abilitare_ecosistemi_interdipendenti:
+
 Abilitare ecosistemi interdipendenti
 ------------------------------------
 
@@ -306,4 +306,3 @@ accorcia i tempi di intervento.
 .. [7] A *European Green Deal*, 2021: https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en (consultato il 11/01/2022); si veda anche, per gli obiettivi che legano il patrimonio culturale allo sviluppo ecosostenibile, il *Cultural Heritage Green Paper* (2021),https://www.europanostra.org/our-work/policy/european-cultural-heritage-green-paper/
 
 .. [8] ” Il patrimonio culturale è costituto dalle risorse ereditate dal passato, in tutte le forme e gli aspetti — materiali, immateriali e digitali (prodotti originariamente in formato digitale e digitalizzati), ivi inclusi i monumenti, i siti, i paesaggi, le competenze, le prassi, le conoscenze e le espressioni della creatività umana, nonché le collezioni conservate e gestite da organismi pubblici e privati quali musei, biblioteche e archivi”.  Conclusioni del Consiglio del 21 maggio 2014 relative al patrimonio culturale come risorsa strategica per un’Europa sostenibile (2014/C 183/08). https://culture.ec.europa.eu/it/cultural-heritage/eu-policy-for-cultural-heritage
-

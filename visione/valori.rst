@@ -1,4 +1,4 @@
-Valori 
+Valori
 ======
 
 I valori fondativi della visione del PND ruotano attorno ai
@@ -24,6 +24,7 @@ l’obiettivo del PND è la disseminazione culturale presso un
 pubblico vasto.
 
 .. _contenti_come_paesaggi_culturali:
+
 Contesti come paesaggi culturali
 --------------------------------
 
@@ -99,7 +100,7 @@ si contraddistingue per le seguenti caratteristiche:  
    solida comunità di professionisti del patrimonio e di studiosi,
    aggiornatasi nel tempo.  Essa rappresenta tuttora la colonna
    vertebrale che regge l’impianto della ricerca, soprattutto in
-   ambito umanistico; 
+   ambito umanistico;
 
 -  riconoscibilità: i prodotti della creatività italiana vantano
    forti radici storico-culturali, tanto da essere riconoscibili
@@ -114,10 +115,10 @@ connessioni storicamente profonde e geograficamente ampie del
 patrimonio italiano, da cui derivano interpretazioni e
 costruzioni di senso rispondenti a diversi usi sociali, a partire
 da una corretta “ricostruzione digitale” del **contesto**\* di
-provenienza (cfr. par.
-:ref:`1.3.1<estensione_del_patrimonio_culturale_per_nuovi_pubblici>`).
+provenienza (cfr. par. :ref:`estensione_del_patrimonio_culturale_per_nuovi_pubblici` ).
 
 .. _patrimonio_culturale_digitale:
+
 Patrimonio culturale digitale
 -----------------------------
 

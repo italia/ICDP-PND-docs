@@ -1,3 +1,5 @@
+.. _tecnologie-abilitanti:
+
 Tecnologie abilitanti
 =====================
 
@@ -5,7 +7,7 @@ La prima serie di azioni strategiche è volta alla creazione di un
 contesto tecnologico abilitante, su cui fondare il processo di
 digitalizzazione di beni, prodotti, servizi e processi destinati a
 migliorare la gestione e la conservazione del patrimonio e al
-contempo a soddisfare i bisogni degli utenti (cfr. par. :ref:`1.2.2<digitalizzazione_ciclo_vita_risorsa_digitale>`);
+contempo a soddisfare i bisogni degli utenti (cfr. par. :ref:`digitalizzazione_ciclo_vita_risorsa_digitale` );
 questo dovrà avvenire secondo diverse prospettive:
 
 -  lato strategico, adottando tecnologie digitali per ottenere un
@@ -65,11 +67,11 @@ digitali e piattaforme per il patrimonio culturale” il Ministero
 ha inserito alcuni interventi che mirano a creare un livello
 infrastrutturale hardware e software a disposizione di tutto
 l’ecosistema digitale della cultura, sia attraverso la creazione
-di piattaforme di servizio che operano a livello nazionale (cfr.  par. :ref:`2.1.1<infrastruttura_nazionale_dati_patrimonio>`, :ref:`2.1.2<sistema_certificazione_identita_digitale>`, :ref:`2.3.2<disseminazione_culturale_condivisione_sociale>`, :ref:`2.3.3<co_creazione_crowdsorcing>`), sia stimolando e sostenendo gli
-operatori economici per lo sviluppo di servizi digitali da
-diffondere sul mercato (cfr. par. :ref:`2.1.3<tecnologie_abilitanti_user_centered_design>`).
+di piattaforme di servizio che operano a livello nazionale (cfr.  par. :ref:`infrastruttura_nazionale_dati_patrimonio`, :ref:`sistema_certificazione_identita_digitale`, :ref:`disseminazione_culturale_condivisione_sociale`, :ref:`co_creazione_crowdsorcing`), sia stimolando e sostenendo gli operatori economici per lo sviluppo di servizi digitali da
+diffondere sul mercato (cfr. par. :ref:`tecnologie_abilitanti_user_centered_design`).
 
 .. _infrastruttura_nazionale_dati_patrimonio:
+
 Infrastruttura nazionale dei dati del patrimonio culturale
 ----------------------------------------------------------
 
@@ -117,7 +119,7 @@ quanto più ampio possibile di utenti/sistemi [17]_. In questo modo
 derivanti da una vasta comunità *cross domain*, processati e
 integrati, preservati in sicurezza e resi disponibili per la
 creazione di applicazioni che rispondano alle esigenze di utenze
-sempre più eterogenee e sofisticate (cfr. par. :ref:`2.1.3<tecnologie_abilitanti_user_centered_design>`).
+sempre più eterogenee e sofisticate (cfr. par. :ref:`tecnologie_abilitanti_user_centered_design`).
 
 L’infrastruttura software del patrimonio culturale sarà
 caratterizzata dalla flessibilità dei **modelli**\* concettuali
@@ -191,7 +193,7 @@ logica applicativa a micro-servizi, contribuirà a diminuire i
 costi di gestione. L’infrastruttura software costituirà, dunque,
 il nucleo centrale di una rete di sistemi, anche esterni, la cui
 interconnessione aggiunge valore ai diversi sistemi singolarmente
-considerati (cfr. par. :ref:`2.3.2<disseminazione_culturale_condivisione_sociale>`).
+considerati (cfr. par. :ref:`disseminazione_culturale_condivisione_sociale`).
 
 Inoltre, l’infrastruttura software del patrimonio culturale
 incorpora nel suo disegno logiche di processo conformi ai modelli
@@ -240,8 +242,7 @@ implementazioni.
 Sistema di certificazione dell'identità digitale dei beni culturali
 -------------------------------------------------------------------
 
-Come definito in precedenza (cfr. par. :ref:`1.1.2<patrimonio_culturale_digitale>`), il patrimonio
-culturale digitale è correlato al sistema dei beni culturali,
+Come definito in precedenza (cfr. par. :ref:`patrimonio_culturale_digitale`), il patrimonio culturale digitale è correlato al sistema dei beni culturali,
 materiali e immateriali, ma non coincide con essi; non esiste
 infatti una relazione “1 a 1” (a un bene culturale non corrisponde
 una sola risorsa digitale): piuttosto si generano relazioni “molti
@@ -388,7 +389,7 @@ tecnologica deve arrecare benefici su due piani:
    logiche che non siano basate sulla scelta a priori di una
    determinata tecnologia ma che seguano un processo di
    *user-centered design,* focalizzato cioè sui comportamenti e
-   sulle aspettative degli utenti (cfr. par. :ref:`2.3.3<co_creazione_crowdsorcing>`).
+   sulle aspettative degli utenti (cfr. par. :ref:`co_creazione_crowdsorcing`).
 
 Per abilitare lo sviluppo di queste applicazioni tecnologiche,
 nell’ambito del PNRR è prevista la realizzazione di una
@@ -409,7 +410,7 @@ ricerca, la gestione innovativa, la fruizione avanzata e la
 valorizzazione del patrimonio culturale digitale, coerentemente
 con la classificazione proposta nelle *Linee guida per la
 classificazione di prodotti e servizi digitali, processi e modelli
-di gestione* (cfr. par. :ref:`3.4<linee_guida_classificazione>`).
+di gestione* (cfr. par. :ref:`linee_guida_classificazione`).
 
 .. admonition:: Azioni previste a breve termine (2022)
 
@@ -438,4 +439,3 @@ di gestione* (cfr. par. :ref:`3.4<linee_guida_classificazione>`).
 .. [22] Cfr.  https://www.agid.gov.it/it/infrastrutture/sistema-pubblico-connettivita/il-nuovo-modello-interoperabilita
 
 .. [23] Il Sistema Pubblico di Identità Digitale (SPID) è la chiave di accesso semplice, veloce e sicura ai servizi digitali delle amministrazioni locali e centrali. Un’unica credenziale (username e password) che rappresenta l’identità digitale e personale di ogni cittadino, con cui è riconosciuto dalla Pubblica Amministrazione per utilizzare in maniera personalizzata e sicura i servizi digitali. Per approfondimenti si rimanda al sito dedicato https://www.spid.gov.it/
-
