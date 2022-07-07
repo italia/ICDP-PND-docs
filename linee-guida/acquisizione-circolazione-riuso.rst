@@ -17,6 +17,8 @@ mettere le istituzioni e gli utenti nelle condizioni di distinguere
 senza equivoci i limiti e le possibilità di riutilizzo delle
 riproduzioni rese disponibili in rete dagli istituti.
 
+.. _Linee guida per l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale: https://docs.italia.it/italia/icdp/icdp-pnd-circolazione-riuso-docs/
+
 .. admonition:: Allegato 3
 
-  Linee guida per l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale
+  `Linee guida per l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale`_

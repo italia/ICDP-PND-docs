@@ -21,6 +21,7 @@ grado di maturità digitale e dopo aver attentamente valutato alcuni
 aspetti-chiave (es. target utenti e profilazione *audience*, base dati a
 disposizione, ecc.).
 
+.. _Linee guida per la classificazione di prodotti e servizi digitali, processi e modelli di gestione: https://docs.italia.it/italia/icdp/icdp-pnd-servizi-docs/
 .. admonition:: Allegato 4
 
-  Linee guida per la classificazione di prodotti e servizi digitali, processi e modelli di gestione
+  `Linee guida per la classificazione di prodotti e servizi digitali, processi e modelli di gestione`_

@@ -23,6 +23,8 @@ recupero del pregresso, alle competenze necessarie per il gruppo di
 lavoro di digitalizzazione ed esempi concreti di applicazione delle
 Linee guida.
 
+.. _Linee guida per la digitalizzazione del patrimonio culturale: https://docs.italia.it/italia/icdp/icdp-pnd-digitalizzazione-docs/
+
 .. admonition:: Allegato 1
 
-  Linee guida per la digitalizzazione del patrimonio culturale
+  `Linee guida per la digitalizzazione del patrimonio culturale`_

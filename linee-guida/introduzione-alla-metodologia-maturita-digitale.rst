@@ -19,6 +19,8 @@ valutativa più appropriata per consentire alle istituzioni di
 comprendere con chiarezza il proprio livello iniziale e governare più
 efficacemente i processi di transizione digitale.
 
+.. _Introduzione alla metodologia per la valutazione della maturità digitale degli istituti culturali: https://docs.italia.it/italia/icdp/icdp-pnd-maturita-docs/
+
 .. admonition:: Allegato 5
 
-  Introduzione alla metodologia per la valutazione della maturità digitale degli istituti culturali
+  `Introduzione alla metodologia per la valutazione della maturità digitale degli istituti culturali`_

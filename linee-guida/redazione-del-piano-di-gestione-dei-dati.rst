@@ -24,6 +24,8 @@ strumenti operativi per rendere la compilazione dei DMP un metodo
 sistematico per presentare e accompagnare i progetti di
 digitalizzazione.
 
+.. _Linee guida per la redazione del piano di gestione dei dati: https://docs.italia.it/italia/icdp/icdp-pnd-dmp-docs/
+
 .. admonition:: Allegato 2
 
-  Linee guida per la redazione del Piano di gestione dei dati (Data Management Plan)
+  `Linee guida per la redazione del piano di gestione dei dati`_
