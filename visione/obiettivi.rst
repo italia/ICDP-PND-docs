@@ -1,4 +1,5 @@
 .. _visione-obiettivi:
+
 Obiettivi
 =========
 
@@ -25,7 +26,7 @@ istituzioni culturali persegue obiettivi di cambiamento specifici:
 Quest’ultime dialogano a propria volta con il patrimonio culturale secondo molteplici approcci e discipline differenti, perseguendo strategie proprie di disseminazione e interazione con diverse categorie di utenti. Il percorso per raggiungere questi obiettivi esige la disponibilità delle istituzioni a migliorare le prassi operative e organizzative impiegate sino ad oggi, in una logica di evoluzione continua.
 
 Le azioni strategiche a livello nazionale sono sviluppate nel
-capitolo 2.
+capitolo :ref:`strategie`.
 
 Ampliare le forme di accesso al patrimonio culturale
 -----------------------------------------------------
@@ -102,11 +103,7 @@ rappresentazione della conoscenza anche il punto di vista delle
 persone che accedono ai dati o che vorrebbero farlo senza
 barriere che ne limitano la piena fruibilità.
 
-Per gli aspetti tecnico-operativi correlati a questo obiettivo si
-rimanda alle indicazioni contenute nelle *Linee guida per la
-redazione del Piano di gestione dei dati* (cfr. par. :ref:`linee_guida_redazione_piano_gestione_dati`) e nelle
-*Linee guida per l’acquisizione, la circolazione e il riuso delle
-riproduzioni dei beni culturali in ambiente digitale* (cfr. par. :ref:`linee_guida_acquisizione_circolazione_riuso` ) alla terza sezione del presente documento.
+Per gli aspetti tecnico-operativi correlati a questo obiettivo si rimanda alle indicazioni contenute nelle *Linee guida per la redazione del Piano di gestione dei dati* (cfr. par. :ref:`linee_guida_redazione_piano_gestione_dati`) e nelle *Linee guida per l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale* (cfr. par. :ref:`linee_guida_acquisizione_circolazione_riuso` ) alla terza sezione del presente documento.
 
 .. admonition:: Azioni strategiche correlate
 
@@ -290,19 +287,19 @@ accorcia i tempi di intervento.
 
 .. admonition:: Azioni strategiche correlate
 
-  2.1.1 “Infrastruttura nazionale dei dati del patrimonio culturale”
+  :ref:`infrastruttura_nazionale_dati_patrimonio`
 
-  2.1.2 “Sistema di certificazione dell’identità digitale dei beni culturali”
+  :ref:`sistema_certificazione_identita_digitale`
 
 
 .. [3] Si vedano le Linee guida per il superamento delle barriere architettoniche nei luoghi di interesse culturale, https://www.beniculturali.it/mibac/multimedia/MiBAC/documents/1311244354128_plugin-LINEE_GUIDA_PER_IL_SUPERAMENTO_DELLE_BARRIERE_ARCHITETTONICHE.pdf, pubblicate nel 2008.
 
 .. [4] Ministero dei beni e delle attività culturali e del turismo e le Linee guida per la redazione del Piano di eliminazione delle barriere architettoniche (P.E.B.A) nei musei, complessi museali, aree e parchi archeologici: http://musei.beniculturali.it/wp-content/uploads/2015/11/Linee-guida-per-la-redazione-del-Piano-di-eliminazione-delle-barriere-architettoniche-P.E.B.A-nei-musei-complessi-monumentali-aree-e-parchi-archeologici.pdf
 
-.. [5] Cfr. *Linee guida per la redazione del Piano di gestione dei dati* (par. 7.5.5) *e Linee guida per l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale* (cap. 5).
+.. [5] Cfr. *Linee guida per la redazione del Piano di gestione dei dati* (par. :ref:`linee_guida_redazione_piano_gestione_dati`) *e Linee guida per l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale* (par. :ref:`linee_guida_acquisizione_circolazione_riuso`).
 
 .. [6] Per *universal design* o progettazione universale si intende la progettazione di prodotti, strutture, programmi e servizi utilizzabili da tutte le persone, nella misura più estesa possibile, senza il bisogno di adattamenti o di progettazioni specializzate. La progettazione universale non esclude dispositivi di sostegno per particolari gruppi di persone con disabilità ove siano necessari (Convenzione ONU, art. 2, anno 2006).
 
 .. [7] A *European Green Deal*, 2021: https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en (consultato il 11/01/2022); si veda anche, per gli obiettivi che legano il patrimonio culturale allo sviluppo ecosostenibile, il *Cultural Heritage Green Paper* (2021),https://www.europanostra.org/our-work/policy/european-cultural-heritage-green-paper/
 
-.. [8] ” Il patrimonio culturale è costituto dalle risorse ereditate dal passato, in tutte le forme e gli aspetti — materiali, immateriali e digitali (prodotti originariamente in formato digitale e digitalizzati), ivi inclusi i monumenti, i siti, i paesaggi, le competenze, le prassi, le conoscenze e le espressioni della creatività umana, nonché le collezioni conservate e gestite da organismi pubblici e privati quali musei, biblioteche e archivi”.  Conclusioni del Consiglio del 21 maggio 2014 relative al patrimonio culturale come risorsa strategica per un’Europa sostenibile (2014/C 183/08). https://culture.ec.europa.eu/it/cultural-heritage/eu-policy-for-cultural-heritage
+.. [8] "Il patrimonio culturale è costituto dalle risorse ereditate dal passato, in tutte le forme e gli aspetti — materiali, immateriali e digitali (prodotti originariamente in formato digitale e digitalizzati), ivi inclusi i monumenti, i siti, i paesaggi, le competenze, le prassi, le conoscenze e le espressioni della creatività umana, nonché le collezioni conservate e gestite da organismi pubblici e privati quali musei, biblioteche e archivi”.  Conclusioni del Consiglio del 21 maggio 2014 relative al patrimonio culturale come risorsa strategica per un’Europa sostenibile (2014/C 183/08). https://culture.ec.europa.eu/it/cultural-heritage/eu-policy-for-cultural-heritage

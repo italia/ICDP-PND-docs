@@ -1,5 +1,6 @@
 .. _linee_guida_introduzione_metodologia:
-Introduzione alla metodologia per la valutazione della maturità digitale degli istituti culturali 
+
+Introduzione alla metodologia per la valutazione della maturità digitale degli istituti culturali
 ==================================================================================================
 
 La capacità di analizzare il proprio livello iniziale di maturità

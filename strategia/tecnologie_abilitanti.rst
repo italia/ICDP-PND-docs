@@ -68,7 +68,7 @@ ha inserito alcuni interventi che mirano a creare un livello
 infrastrutturale hardware e software a disposizione di tutto
 l’ecosistema digitale della cultura, sia attraverso la creazione
 di piattaforme di servizio che operano a livello nazionale (cfr.  par. :ref:`infrastruttura_nazionale_dati_patrimonio`, :ref:`sistema_certificazione_identita_digitale`, :ref:`disseminazione_culturale_condivisione_sociale`, :ref:`co_creazione_crowdsorcing`), sia stimolando e sostenendo gli operatori economici per lo sviluppo di servizi digitali da
-diffondere sul mercato (cfr. par. :ref:`tecnologie_abilitanti_user_centered_design`).
+diffondere sul mercato (cfr. par. :ref:`tecnologie_abilitanti_user_centered_design` ).
 
 .. _infrastruttura_nazionale_dati_patrimonio:
 
@@ -119,7 +119,7 @@ quanto più ampio possibile di utenti/sistemi [17]_. In questo modo
 derivanti da una vasta comunità *cross domain*, processati e
 integrati, preservati in sicurezza e resi disponibili per la
 creazione di applicazioni che rispondano alle esigenze di utenze
-sempre più eterogenee e sofisticate (cfr. par. :ref:`tecnologie_abilitanti_user_centered_design`).
+sempre più eterogenee e sofisticate (cfr. par. :ref:`tecnologie_abilitanti_user_centered_design` ).
 
 L’infrastruttura software del patrimonio culturale sarà
 caratterizzata dalla flessibilità dei **modelli**\* concettuali
@@ -239,6 +239,7 @@ implementazioni.
   5) Integrare/federare n. 50 sistemi a livello territoriale
 
 .. _sistema_certificazione_identita_digitale:
+
 Sistema di certificazione dell'identità digitale dei beni culturali
 -------------------------------------------------------------------
 
@@ -342,6 +343,7 @@ prospettiva al momento non è in fase di sviluppo.
   3) Realizzazione e messa in produzione del sistema
 
 .. _tecnologie_abilitanti_user_centered_design:
+
 Tecnologie abilitanti per un *user-centered design*
 ---------------------------------------------------
 

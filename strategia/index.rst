@@ -1,3 +1,5 @@
+.. _strategie:
+
 Strategia 2022-2026
 ===================
 
@@ -70,7 +72,7 @@ transizione digitale, al pari di ogni altra pubblica
 amministrazione, e dall’altro vuole stabilizzare alcuni processi
 avviati negli anni passati e accelerati durante la pandemia, per
 raggiungere quegli obiettivi di cambiamento descritti in
-precedenza (cfr. par. :ref:`1.2<visione-obiettivi>`). Data l’ampiezza del programma
+precedenza (cfr. par. :ref:`visione-obiettivi`). Data l’ampiezza del programma
 PNRR e il potenziale trasformativo delle azioni che saranno
 introdotte in tale contesto, l’investimento è articolato in 12
 misure tra loro correlate che, come evidenziato dal grafico di
@@ -89,9 +91,9 @@ patrimonio culturale [16]_.
 
 .. |image0| image:: ../media/image4.png
 
-Figura 3. Sistema di relazioni tra gli stream progettuali
+Figura 3. *Sistema di relazioni tra gli stream progettuali
 dell’investimento M1C3 1.1 “Strategie e piattaforme digitali per
-il patrimonio culturale” del PNRR.
+il patrimonio culturale” del PNRR*.
 
 Si tratta di un programma pensato per facilitare e accelerare i
 cambiamenti strutturali che l’innovazione tecnologica abilita in
@@ -147,7 +149,7 @@ sezione (Figura 4).
 
 .. |image1| image:: ../media/image5.png
 
-Figura 4. Schema dei contenuti della sezione Strategia del PND
+Figura 4. *Schema dei contenuti della sezione Strategia del PND*
 
 I capitoli “Tecnologie abilitanti” e “Persone” fanno riferimento
 per la parte operativa alle piattaforme abilitanti previste nel
@@ -174,8 +176,8 @@ da tutte le istituzioni ai vari livelli di governo.
 
 .. [13] Cfr.  https://italiadomani.gov.it/content/dam/sogei-ng/documenti/PNRR%20Aggiornato.pdf
 
-.. [14] :sup:`7` Per un approfondimento dell’investimento PNRR 1.1 “Strategie e piattaforma digitali per il patrimonio culturale” si rimanda ai seguenti link: https://pnrr.cultura.gov.it/
+.. [14] Per un approfondimento dell’investimento PNRR 1.1 “Strategie e piattaforma digitali per il patrimonio culturale” si rimanda ai seguenti link: https://pnrr.cultura.gov.it/
 
 .. [15] Raccomandazione (UE) 2021/1970 della Commissione del 10 novembre 2021 relativa a uno spazio comune europeo di dati per il patrimonio culturale (OJ L 401 12.11.2021, p. 5, CELEX: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021H1970).
 
-.. [16] Cfr. note 5 e 6.
+.. [16] Cfr. note 5 e 6 :ref:`contesto` .

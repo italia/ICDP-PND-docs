@@ -46,7 +46,7 @@ successive fasi di arricchimento, modellazione,
 processamento/normalizzazione, collegamento; attività che rendono
 il dato vivo e in costante evoluzione temporale.
 
-Come già osservato in precedenza (cfr. par. :ref:`patrimonio_culturale_digitale`, `capitale_semantico_delle_relazioni`, :ref:`abilitare_ecosistemi_interdipendenti`),
+Come già osservato in precedenza (cfr. par. :ref:`patrimonio_culturale_digitale`, :ref:`capitale_semantico_delle_relazioni`, :ref:`abilitare_ecosistemi_interdipendenti`),
 esistendo una pluralità di soggetti che a vario titolo svolgono un
 ruolo attivo nei processi di creazione delle informazioni sul
 patrimonio culturale, è necessario per questo che i dati siano
@@ -94,7 +94,7 @@ l’annotazione e la manipolazione.
 Per raggiungere un adeguato livello di qualità nella produzione,
 gestione e pubblicazione dei dati è necessario investire
 nell’aggiornamento delle competenze di quanti operano nei luoghi
-della cultura (cfr. par. :ref:`2.3.1<formazione_crescita_competenze>`), dal momento che aspetti così
+della cultura (cfr. par. :ref:`formazione_crescita_competenze` ), dal momento che aspetti così
 importanti non possono essere delegati esclusivamente a
 specialisti esterni alle amministrazioni o rimandati a momenti
 successivi, ma debbono essere parte integrante della creazione del
@@ -268,7 +268,7 @@ necessario distinguere tre dimensioni:
 3. la terza attiene allo scopo per il quale si richiede/ottiene
    una riproduzione, dal momento che usi diversi determinano
    differenti soluzioni. Poiché le tipologie d’uso nell’ambiente
-   digitale si sono moltiplicate ed evolute (cfr. par. :ref:`design_servizi_modelli_creazione_valore`), è
+   digitale si sono moltiplicate ed evolute (cfr. par. :ref:`design_servizi_modelli_creazione_valore` ), è
    inevitabile adeguare le regole ai nuovi scenari, nel rispetto
    dei principi della normativa nazionale e comunitaria.
 
@@ -443,7 +443,7 @@ la definizione di processi *end-to-end*. Questi vanno progettati
 nel contesto di una strategia circolare - che muove dal gestore
 all’utente e viceversa - e poi implementati a seconda dei
 potenziali utilizzatori: le istituzioni (modello B2I
-*Business-to-Institutions*), le imprese (modelloB2B
+*Business-to-Institutions*), le imprese (modello B2B
 *Business-to-Business*), gli utenti (modello B2C
 *Business-to-Consumer*); ciò indipendentemente dal fatto che
 vengano sviluppati a livello centrale o territoriale.
@@ -484,14 +484,14 @@ nell’interpretazione del cambiamento.
 
 Tutti questi aspetti troveranno una più approfondita trattazione
 nelle *Linee guida per la classificazione di prodotti e servizi
-digitali, processi e modelli di gestione* (cfr. par. :ref:`linee_guida_classificazione`)che
+digitali, processi e modelli di gestione* (cfr. par. :ref:`linee_guida_classificazione`) che
 metteranno a fuoco le tipologie dei beni culturali e il loro
 potenziale di valorizzazione, identificheranno i prodotti
 realizzabili e i servizi erogabili, definiranno i processi
 *end-to-end* e analizzeranno i modelli di gestione applicabili per
 la creazione di valore culturale, sociale ed economico. Nel
 documento *Introduzione alla metodologia per la valutazione della
-maturità digitale degli istituti culturali* (cfr. par.  :ref:`linee_guida_introduzione_metodologia`)vengono invece descritti i principali modelli di *Digital Maturity Assessment*, le opportunità di applicazione al patrimonio
+maturità digitale degli istituti culturali* (cfr. par. :ref:`linee_guida_introduzione_metodologia` ) vengono invece descritti i principali modelli di *Digital Maturity Assessment*, le opportunità di applicazione al patrimonio
 culturale e alcuni casi di strumenti esistenti.
 
 .. admonition:: Azioni previste a breve termine (2022)

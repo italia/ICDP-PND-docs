@@ -53,7 +53,7 @@ digitali di accesso al patrimonio culturale è l’opportunità per
 qualsiasi utente di partecipare, sperimentare, interagire,
 diffondere e riutilizzare il patrimonio culturale pubblico; in
 questa direzione è pensata anche la piattaforma di accesso
-prevista nell’ambito dell’investimento del PNRR (cfr. par. :ref:`disseminazione_culturale_condivisione_sociale`), che metterà a disposizione contenuti culturali resi
+prevista nell’ambito dell’investimento del PNRR (cfr. par. :ref:`disseminazione_culturale_condivisione_sociale` ), che metterà a disposizione contenuti culturali resi
 accessibili ad un bacino di utenti molto ampio, siano essi
 consumatori finali, imprese interessate alla creazione di
 prodotti o servizi oppure qualsiasi altro utilizzatore della
@@ -85,7 +85,7 @@ nuove classificazioni dei contenuti, ma anche rinnovate forme di
 documentazione della cultura materiale e immateriale attraverso
 linguaggi nuovi o interventi creativi. In questo modo è possibile
 andare incontro al segmento meno noto (segmento “aperto”) dei
-fruitori del patrimonio culturale digitale (cfr. par. :ref:`capitale_semantico_delle_relazioni`),
+fruitori del patrimonio culturale digitale (cfr. par. :ref:`capitale_semantico_delle_relazioni` ),
 consolidando nuovi pubblici e con essi il potere di generare
 visioni ulteriori del patrimonio culturale.
 
@@ -154,7 +154,7 @@ approfondimento della relazione tra servizi, processi e modelli
 di gestione si rimanda alle indicazioni contenute nelle *Linee
 guida per la classificazione di prodotti e servizi digitali,
 processi e modelli di gestione* (cfr. par. :ref:`linee_guida_classificazione`) nella terza
-sezione del presente documento.
+sezione del presente documento :ref:`linee_guida` .
 
 L’opportunità offerta da questo approccio consiste nel
 coinvolgimento nella catena di produzione del valore di soggetti

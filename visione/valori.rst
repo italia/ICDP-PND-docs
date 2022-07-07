@@ -199,6 +199,7 @@ ecosistema nel quale tutti gli attori e le professionalità del
 settore possano relazionarsi.
 
 .. _capitale_semantico_delle_relazioni:
+
 Il capitale semantico delle relazioni
 -------------------------------------
 

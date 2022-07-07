@@ -30,6 +30,7 @@ permanente di ri-contestualizzazione e re-interpretazione del patrimonio
 all’interno dei paesaggi culturali (cfr. par. :ref:`contenti_come_paesaggi_culturali`).
 
 .. _formazione_crescita_competenze:
+
 Formazione e crescita delle competenze
 --------------------------------------
 

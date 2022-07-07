@@ -5,13 +5,14 @@ La presente versione del PND #2022-2023 è articolata in tre
 sezioni, tra loro collegate in una dimensione di processo (Figura
 1):
 
-1. Visione: prefigura le traiettorie e le opportunità di cambiamento, indicando gli obiettivi a lungo termine (cap.1);
+1. Visione: prefigura le traiettorie e le opportunità di cambiamento, indicando gli obiettivi a lungo termine (cap. :ref:`visione` );
 
-2. Strategia: definisce i fattori necessari per implementare e conseguire gli obiettivi di cambiamento e specifica le azioni che verranno intraprese dal Ministero per assicurare il contesto abilitante comune (cap. 2);
+2. Strategia: definisce i fattori necessari per implementare e conseguire gli obiettivi di cambiamento e specifica le azioni che verranno intraprese dal Ministero per assicurare il contesto abilitante comune (cap. :ref:`strategie` );
 
-3. Linee guida: strumenti operativi che supportano la pianificazione e l'esecuzione delle attività legate alla digitalizzazione del patrimonio e alla trasformazione digitale dei luoghi della cultura (cap. 3).
+3. Linee guida: strumenti operativi che supportano la pianificazione e l'esecuzione delle attività legate alla digitalizzazione del patrimonio e alla trasformazione digitale dei luoghi della cultura (cap. :ref:`linee_guida`).
 
 |image0|
+
 *Figura 1. Schema grafico che sintetizza la struttura del PND*
 
 Nel testo che segue, le parole evidenziate con asterisco e
