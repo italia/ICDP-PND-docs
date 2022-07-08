@@ -153,8 +153,8 @@ dopo l’esperienza d’uso -, sulla base di processi pensati
 approfondimento della relazione tra servizi, processi e modelli
 di gestione si rimanda alle indicazioni contenute nelle *Linee
 guida per la classificazione di prodotti e servizi digitali,
-processi e modelli di gestione* (cfr. par. :ref:`linee_guida_classificazione`) nella terza
-sezione del presente documento :ref:`linee_guida` .
+processi e modelli di gestione* (cfr. par. :ref:`linee_guida_classificazione`) nella
+sezione :ref:`linee_guida` del presente documento.
 
 L’opportunità offerta da questo approccio consiste nel
 coinvolgimento nella catena di produzione del valore di soggetti

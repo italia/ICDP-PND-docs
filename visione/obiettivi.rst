@@ -103,7 +103,7 @@ rappresentazione della conoscenza anche il punto di vista delle
 persone che accedono ai dati o che vorrebbero farlo senza
 barriere che ne limitano la piena fruibilità.
 
-Per gli aspetti tecnico-operativi correlati a questo obiettivo si rimanda alle indicazioni contenute nelle *Linee guida per la redazione del Piano di gestione dei dati* (cfr. par. :ref:`linee_guida_redazione_piano_gestione_dati`) e nelle *Linee guida per l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale* (cfr. par. :ref:`linee_guida_acquisizione_circolazione_riuso` ) alla terza sezione del presente documento.
+Per gli aspetti tecnico-operativi correlati a questo obiettivo si rimanda alle indicazioni contenute nelle *Linee guida per la redazione del Piano di gestione dei dati* (cfr. par. :ref:`linee_guida_redazione_piano_gestione_dati`) e nelle *Linee guida per l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale* (cfr. par. :ref:`linee_guida_acquisizione_circolazione_riuso` ) alla sezione :ref:`linee_guida` del presente documento.
 
 .. admonition:: Azioni strategiche correlate
 
@@ -208,7 +208,7 @@ patrimonio culturale, degli istituti e degli utenti, nel duplice
 ruolo di co-narratori e fruitori.
 
 Per gli aspetti tecnico-operativi connessi a questo obiettivo si
-rimanda alle indicazioni contenute nelle *Linee guida per la digitalizzazione del patrimonio culturale* (cfr. par. :ref:`linee_guida_digitalizzazione_patrimonio_culturale`) e nelle *Linee guida per la classificazione di prodotti e servizi digitali, processi e modelli di gestione* (cfr. par. :ref:`linee_guida_classificazione`) della sezione terza del PND.
+rimanda alle indicazioni contenute nelle *Linee guida per la digitalizzazione del patrimonio culturale* (cfr. par. :ref:`linee_guida_digitalizzazione_patrimonio_culturale`) e nelle *Linee guida per la classificazione di prodotti e servizi digitali, processi e modelli di gestione* (cfr. par. :ref:`linee_guida_classificazione`) della sezione :ref:`linee_guida` del PND.
 
 .. admonition:: Azioni strategiche correlate
 
