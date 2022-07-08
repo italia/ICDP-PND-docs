@@ -408,6 +408,7 @@ digitale.
   aperto.
 
 .. _design_servizi_modelli_creazione_valore:
+
 Design dei servizi e modelli per la creazione di valore
 -------------------------------------------------------
 

@@ -208,10 +208,7 @@ patrimonio culturale, degli istituti e degli utenti, nel duplice
 ruolo di co-narratori e fruitori.
 
 Per gli aspetti tecnico-operativi connessi a questo obiettivo si
-rimanda alle indicazioni contenute nelle *Linee guida per la
-  digitalizzazione del patrimonio culturale* (cfr. par. :ref:`linee_guida_digitalizzazione_patrimonio_culturale`) e
-nelle *Linee guida per la classificazione di prodotti e servizi
-digitali, processi e modelli di gestione* (cfr. par. :ref:`linee_guida_classificazione`) della sezione terza del PND.
+rimanda alle indicazioni contenute nelle *Linee guida per la digitalizzazione del patrimonio culturale* (cfr. par. :ref:`linee_guida_digitalizzazione_patrimonio_culturale`) e nelle *Linee guida per la classificazione di prodotti e servizi digitali, processi e modelli di gestione* (cfr. par. :ref:`linee_guida_classificazione`) della sezione terza del PND.
 
 .. admonition:: Azioni strategiche correlate
 
@@ -302,4 +299,4 @@ accorcia i tempi di intervento.
 
 .. [7] A *European Green Deal*, 2021: https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en (consultato il 11/01/2022); si veda anche, per gli obiettivi che legano il patrimonio culturale allo sviluppo ecosostenibile, il *Cultural Heritage Green Paper* (2021),https://www.europanostra.org/our-work/policy/european-cultural-heritage-green-paper/
 
-.. [8] "Il patrimonio culturale è costituto dalle risorse ereditate dal passato, in tutte le forme e gli aspetti — materiali, immateriali e digitali (prodotti originariamente in formato digitale e digitalizzati), ivi inclusi i monumenti, i siti, i paesaggi, le competenze, le prassi, le conoscenze e le espressioni della creatività umana, nonché le collezioni conservate e gestite da organismi pubblici e privati quali musei, biblioteche e archivi”.  Conclusioni del Consiglio del 21 maggio 2014 relative al patrimonio culturale come risorsa strategica per un’Europa sostenibile (2014/C 183/08). https://culture.ec.europa.eu/it/cultural-heritage/eu-policy-for-cultural-heritage
+.. [8] "Il patrimonio culturale è costituto dalle risorse ereditate dal passato, in tutte le forme e gli aspetti — materiali, immateriali e digitali (prodotti originariamente in formato digitale e digitalizzati), ivi inclusi i monumenti, i siti, i paesaggi, le competenze, le prassi, le conoscenze e le espressioni della creatività umana, nonché le collezioni conservate e gestite da organismi pubblici e privati quali musei, biblioteche e archivi".  Conclusioni del Consiglio del 21 maggio 2014 relative al patrimonio culturale come risorsa strategica per un’Europa sostenibile (2014/C 183/08). https://culture.ec.europa.eu/it/cultural-heritage/eu-policy-for-cultural-heritage
