@@ -123,8 +123,8 @@ processi generativi capaci non solo di accogliere e indicizzare i
 contenuti, ma di valorizzarne le relazioni, che rappresentano la
 vera ricchezza del patrimonio informativo del sistema dei beni
 culturali.  Tali servizi dovranno essere progettati per un’utenza
-ampliata, rispettando i criteri di accessibilità [9]_ e usabilità
-[10]_, utilizzando una pluralità di modalità comunicative che
+ampliata, rispettando i criteri di accessibilità [20]_ e usabilità
+[21]_, utilizzando una pluralità di modalità comunicative che
 facciano ricorso alla multi-sensorialità, all’interattività, ad
 ausili e/o supporti tecnologici assistivi o con configurazioni
 particolari.
@@ -228,7 +228,7 @@ dell’innovazione digitale.
 
 Il presidio delle fasi dei progetti di digitalizzazione palesa la
 necessità di definire una struttura organizzativa interna
-composta di diverse unità operative [11]_, che possono anche non
+composta di diverse unità operative [22]_, che possono anche non
 essere permanentemente internalizzate o compresenti, ma che
 devono comunque essere attivate all’avvio dei progetti di
 innovazione. Di fronte a un quadro tecnologico in costante e
@@ -237,8 +237,8 @@ necessariamente rispondere dinamicamente alle sollecitazioni
 dell’ambiente; ciò rappresenta la più grande sfida, ma anche una
 straordinaria opportunità per gli istituti culturali.
 
-.. [9] Si rimanda alla parola “accessibilità" definita all‘interno del paragrafo ”Parole chiave” posta in coda al documento, dove è presente anche la relativa rispondenza normativa.
+.. [20] Si rimanda alla parola “accessibilità" definita all‘interno del paragrafo ”Parole chiave” posta in coda al documento, dove è presente anche la relativa rispondenza normativa.
 
-.. [10] Per la progettazione di servizi web si rimanda alle *Linee Guida di design per i servizi web delle PA* redatte dall’Agenzia per l’Italia digitale: https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/index.html (Ultima consultazione: 24/06/2022).
+.. [21] Per la progettazione di servizi web si rimanda alle *Linee Guida di design per i servizi web delle PA* redatte dall’Agenzia per l’Italia digitale: https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/index.html (Ultima consultazione: 24/06/2022).
 
-.. [11] In riferimento agli enti coinvolti e al team di progetto connessi alle attività di digitalizzazione, si veda l’Allegato tecnico “Linee guida per la Digitalizzazione del patrimonio culturale”, sezione C e l’allegato tecnico “Linee guida per la redazione del Piano di gestione dei dati”, sezione *Data Governance* interna.
+.. [22] In riferimento agli enti coinvolti e al team di progetto connessi alle attività di digitalizzazione, si veda l’Allegato tecnico “Linee guida per la Digitalizzazione del patrimonio culturale”, sezione C e l’allegato tecnico “Linee guida per la redazione del Piano di gestione dei dati”, sezione *Data Governance* interna.

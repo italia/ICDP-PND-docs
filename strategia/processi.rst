@@ -55,7 +55,7 @@ condivisione e il riuso per generare ulteriore conoscenza. Per
 raggiungere questo obiettivo bisogna agire su due piani, ovvero
 nella produzione e nella gestione dei dati.
 
-Nella produzione è opportuno richiamare i principi FAIR [24]_,
+Nella produzione è opportuno richiamare i principi FAIR [35]_,
 ormai riconosciuti a livello internazionale, che descrivono le
 caratteristiche che le risorse digitali debbono avere per essere
 usate e riutilizzate a fini scientifici, educativi e divulgativi,
@@ -83,7 +83,7 @@ automatizzati:
    espressi con linguaggi riconosciuti e comprensibili dalla
    comunità scientifica del dominio di riferimento.
 
-La tecnologia IIIF [25]_, per esempio, permette l’esposizione e la
+La tecnologia IIIF [36]_, per esempio, permette l’esposizione e la
 gestione dei dati seguendo i principi FAIR, facilitando così
 l’interoperabilità e il riuso delle riproduzioni di un bene.
 Questo strumento, infatti, nasce dall’esigenza di alcune
@@ -119,22 +119,22 @@ interni dell’amministrazione e che prevede un costante
 aggiornamento, monitoraggio e coinvolgimento degli utenti finali.
 Inoltre, esso consente di verificare il rispetto dei principi e la
 corretta applicazione della normativa nazionale per la produzione
-e pubblicazione dei **dati aperti**\* (*Open Data*) [26]_.
+e pubblicazione dei **dati aperti**\* (*Open Data*) [37]_.
 
 Il primo elemento per una corretta gestione dei processi di
 digitalizzazione, è l’individuazione dei diversi livelli di
-responsabilità [27]_ nel ciclo di creazione, gestione,
+responsabilità [38]_ nel ciclo di creazione, gestione,
 archiviazione, pubblicazione e valorizzazione delle risorse
 digitali:
 
--  Livello 1 (direzioni generali [28]_): responsabili
+-  Livello 1 (direzioni generali [39]_): responsabili
    dell’attuazione della strategia, della governance dei processi,
    dell’allocazione delle risorse e della gestione delle
    infrastrutture hardware e software centralizzate; le direzioni
    generali svolgono inoltre le funzioni di monitoraggio
    sull’attuazione di programmi e progetti;
 
--  Livello 2 (istituti centrali [29]_): responsabili della
+-  Livello 2 (istituti centrali [40]_): responsabili della
    definizione delle metodologie, dei processi, del monitoraggio
    della qualità dei dati e della gestione dei sistemi e servizi
    informativi nazionali nel dominio di competenza; a livello
@@ -142,7 +142,7 @@ digitali:
    affiancata da quella di enti o istituti appositamente creati a
    livello regionale;
 
--  Livello 3 (istituti culturali [30]_): responsabili della
+-  Livello 3 (istituti culturali [41]_): responsabili della
    gestione e conservazione del patrimonio, svolgono un ruolo
    attivo nella produzione, nella gestione della qualità, e nella
    valorizzazione dei dati. È infatti a livello del singolo
@@ -283,7 +283,7 @@ della libera fruizione (si pensi al fruttuoso dibattito
 anglosassone sulla disciplina dei *fair use* per scopi didattici e
 formativi) e dell’apertura inclusiva e democratica delle risorse
 digitali (testimoniata dal successo delle licenze Creative Commons
-[31]_) conviva armoniosamente con gli obiettivi di valorizzazione,
+[42]_) conviva armoniosamente con gli obiettivi di valorizzazione,
 anche economica, del patrimonio culturale digitalizzato, tanto da
 parte degli istituti pubblici che dei soggetti privati. L'attuale
 sistema di autorizzazione/concessione sulla singola immagine od
@@ -309,11 +309,11 @@ Accanto al tema delle riproduzioni dei beni culturali, che impatta
 evidentemente sulla crescente domanda di “immagini” e materiali
 audiovisivi di svariata natura, si innesta il principio del libero
 riutilizzo dei dati della pubblica amministrazione, introdotto
-dalle direttive comunitarie [32]_ e consolidato nel Codice
-dell’amministrazione digitale [33]_; tali disposizioni sanciscono
+dalle direttive comunitarie [43]_ e consolidato nel Codice
+dell’amministrazione digitale [44]_; tali disposizioni sanciscono
 l’obbligo per il settore pubblico di rilasciare i propri dati in
-modalità aperta (*Open Data*) [34]_. Questo principio, pilastro
-della strategia europea dei dati [35]_, muove dalla convinzione
+modalità aperta (*Open Data*) [45]_. Questo principio, pilastro
+della strategia europea dei dati [46]_, muove dalla convinzione
 che il libero riutilizzo dei dati, anche per fini commerciali,
 contribuisca alla creazione di valore per la società grazie alle
 potenzialità connesse allo sviluppo di servizi connessi: tanto più
@@ -339,10 +339,10 @@ norme sovraordinate; in particolare si fa qui riferimento:
 
 Analizzando una recente ricerca empirica sull'adozione di
 politiche di **Open Access**\* presso istituti GLAM (*Galleries,
-Libraries, Archives, Museums*) di tutto il mondo [36]_, è
+Libraries, Archives, Museums*) di tutto il mondo [47]_, è
 possibile constatare come l’apertura dei dati non sia una pratica
 ancora adottata sistematicamente dagli istituti culturali italiani
-[37]_. Per superare questo divario, dovuto a un più lento
+[48]_. Per superare questo divario, dovuto a un più lento
 adeguamento del comparto cultura alle nuove opportunità aperte
 dalla condivisione e circolazioni di dati e conoscenze, occorre
 superare le resistenze ancora esistenti derivanti, più che da
@@ -366,20 +366,20 @@ operative volte a facilitare l’adozione di pratiche di apertura
 dei dati come momento qualificante del ciclo di vita della risorsa
 digitale.
 
-.. admonition:: Azioni previste dal livello 1 (direzioni generali [38]_)
+.. admonition:: Azioni previste dal livello 1 (direzioni generali [49]_)
 
   Gestione e sviluppo del sito dei dati aperti della cultura
   **dati.beniculturali.it**, inteso quale interfaccia unica rispetto
-  alla “Piattaforma digitale nazionale dati” [39]_; identificazione
+  alla “Piattaforma digitale nazionale dati” [50]_; identificazione
   delle basi dati strategiche del Ministero e pubblicazione del
-  relativo catalogo in coerenza con il profilo DCAT-AP_IT [40]_;
+  relativo catalogo in coerenza con il profilo DCAT-AP_IT [51]_;
   identificazione dei sistemi informativi pubblici che espongono API
   coerenti con il modello di interoperabilità e con i modelli di
   riferimento di dati nazionali ed europei; normalizzazione delle
   licenze d’uso aperte utilizzate; promozione di iniziative di
   formazione e divulgazione sul tema.
 
-.. admonition:: Azioni previste dal livello 2 (istituti centrali [41]_)
+.. admonition:: Azioni previste dal livello 2 (istituti centrali [52]_)
 
   Aumento del numero di dataset aperti di tipo dinamico e del numero
   di dataset con metadati di qualità conformi agli standard di
@@ -392,7 +392,7 @@ digitale.
   e sviluppatori per il riuso dei dataset rilasciati in formato
   aperto.
 
-.. admonition:: Azioni previste dal livello 3 (istituti culturali  [42]_)
+.. admonition:: Azioni previste dal livello 3 (istituti culturali  [53]_)
 
   Produzione e gestione dei dati, sulla base delle proprie finalità
   istituzionali, conformemente gli standard nazionali e alle
@@ -509,40 +509,40 @@ culturale e alcuni casi di strumenti esistenti.
 
   4) Creazione del catalogo dei servizi digitali per il patrimonio culturale disponibili sul mercato (cfr. par. :ref:`tecnologie_abilitanti_user_centered_design`)
 
-.. [24] Nel 2014 sono stati elaborati alcuni principi fondamentali, denominati F.A.I.R. (Findable, Accessible, Interoperable, Re-Usable), per ottimizzare la riutilizzabilità dei dati della ricerca; il testo completo è disponibile all’indirizzo https://www.force11.org/group/fairgroup/fairprinciples
+.. [35] Nel 2014 sono stati elaborati alcuni principi fondamentali, denominati F.A.I.R. (Findable, Accessible, Interoperable, Re-Usable), per ottimizzare la riutilizzabilità dei dati della ricerca; il testo completo è disponibile all’indirizzo https://www.force11.org/group/fairgroup/fairprinciples
 
-.. [25] Il IIIF (*International Image Interoperability Framework*) è una tecnologia sviluppata negli ultimi anni che si è diffusa molto rapidamente a livello internazionale e in tutto il mondo GLAM.  Promossa da un consorzio di importanti istituzioni culturali, è supportata da una comunità internazionale che sviluppa e implementa le specifiche delle API (*Application Programming Interface*) che lo costituiscono (cfr. https://iiif.io/).
+.. [36] Il IIIF (*International Image Interoperability Framework*) è una tecnologia sviluppata negli ultimi anni che si è diffusa molto rapidamente a livello internazionale e in tutto il mondo GLAM.  Promossa da un consorzio di importanti istituzioni culturali, è supportata da una comunità internazionale che sviluppa e implementa le specifiche delle API (*Application Programming Interface*) che lo costituiscono (cfr. https://iiif.io/).
 
-.. [26] Per un approfondimento sui dati aperti si veda il documento “FAQ per la pubblicazione di dati aperti” allegato alle *Linee guida per la redazione del piano di gestione dei dati (Data Management Plan)*.
+.. [37] Per un approfondimento sui dati aperti si veda il documento “FAQ per la pubblicazione di dati aperti” allegato alle *Linee guida per la redazione del piano di gestione dei dati (Data Management Plan)*.
 
-.. [27] Il sistema di livelli proposto descrive il modello organizzativo del Ministero della cultura ma può essere facilmente adattato anche alle amministrazioni regionali e comunali.
+.. [38] Il sistema di livelli proposto descrive il modello organizzativo del Ministero della cultura ma può essere facilmente adattato anche alle amministrazioni regionali e comunali.
 
-.. [28] Per gli enti locali questo livello può essere svolto dalle direzioni generali dell’ente Regione.
+.. [39] Per gli enti locali questo livello può essere svolto dalle direzioni generali dell’ente Regione.
 
-.. [29] Per quanto riguarda il Ministero della cultura, si fa riferimento agli Istituti centrali identificati all’art. 33 comma 2 del dpcm 169/2019 per i profili di rispettiva competenza, ed in particolare: l’Archivio centrale dello Stato, l’Istituto centrale per gli archivi, l’Istituto centrale per i beni sonori e audiovisivi, l’Istituto centrale per il catalogo e la documentazione, l’Istituto centrale per il catalogo unico delle biblioteche italiane, l’Istituto centrale per il patrimonio immateriale, l’Istituto centrale per il restauro, l’Istituto centrale per la patologia degli archivi e del libro, l’Istituto centrale per la grafica, l’Istituto centrale per l’archeologia. Per gli enti locali questo livello può essere svolto dai “Servizi cultura” dell’ente Regione se ha specifiche deleghe in materia o da enti regionali dedicati al patrimonio culturale.
+.. [40] Per quanto riguarda il Ministero della cultura, si fa riferimento agli Istituti centrali identificati all’art. 33 comma 2 del dpcm 169/2019 per i profili di rispettiva competenza, ed in particolare: l’Archivio centrale dello Stato, l’Istituto centrale per gli archivi, l’Istituto centrale per i beni sonori e audiovisivi, l’Istituto centrale per il catalogo e la documentazione, l’Istituto centrale per il catalogo unico delle biblioteche italiane, l’Istituto centrale per il patrimonio immateriale, l’Istituto centrale per il restauro, l’Istituto centrale per la patologia degli archivi e del libro, l’Istituto centrale per la grafica, l’Istituto centrale per l’archeologia. Per gli enti locali questo livello può essere svolto dai “Servizi cultura” dell’ente Regione se ha specifiche deleghe in materia o da enti regionali dedicati al patrimonio culturale.
 
-.. [30] Tutti gli uffici, gli istituti culturali e i luoghi della cultura, come definiti nei rispettivi ordinamenti, che conservano e valorizzano beni culturali, indipendentemente dai livelli di autonomia.
+.. [41] Tutti gli uffici, gli istituti culturali e i luoghi della cultura, come definiti nei rispettivi ordinamenti, che conservano e valorizzano beni culturali, indipendentemente dai livelli di autonomia.
 
-.. [31] `Creative Commons <https://creativecommons.org/>`__ è un’organizzazione internazionale senza scopo di lucro che fornisce licenze gratuite, strumenti che i titolari dei diritti d’autore e dei diritti connessi possono utilizzare per consentire ad altri di condividere, riutilizzare e remixare legalmente le proprie opere. Il rilascio di materiale con una delle sei licenze CC chiarisce agli utenti cosa possono o non possono fare. Per approfondimenti cfr. https://creativecommons.it/chapterIT/.
+.. [42] `Creative Commons <https://creativecommons.org/>`__ è un’organizzazione internazionale senza scopo di lucro che fornisce licenze gratuite, strumenti che i titolari dei diritti d’autore e dei diritti connessi possono utilizzare per consentire ad altri di condividere, riutilizzare e remixare legalmente le proprie opere. Il rilascio di materiale con una delle sei licenze CC chiarisce agli utenti cosa possono o non possono fare. Per approfondimenti cfr. https://creativecommons.it/chapterIT/.
 
-.. [32] La direttiva europea (UE) 2019/1024, relativa all'apertura dei dati e al riutilizzo dell'informazione del settore pubblico, rifonde in un unico testo le precedenti direttive 2003/98/CE e 2013/37/UE; la norma italiana di recepimento è il decreto legislativo 24 gennaio 2006, n.  36.
+.. [43] La direttiva europea (UE) 2019/1024, relativa all'apertura dei dati e al riutilizzo dell'informazione del settore pubblico, rifonde in un unico testo le precedenti direttive 2003/98/CE e 2013/37/UE; la norma italiana di recepimento è il decreto legislativo 24 gennaio 2006, n.  36.
 
-.. [33] Il decreto legislativo 7 marzo 2005, n. 82 recante il Codice dell'Amministrazione Digitale (CAD), è un testo unico che riunisce e organizza le norme riguardanti l'informatizzazione della Pubblica Amministrazione nei rapporti con i cittadini e le imprese. Tra le molte disposizioni relative al trattamento dei dati e documenti informatici, il CAD dall’art. 50 all’art. 62 introduce una serie di norme relative ai dati delle pubbliche amministrazioni e alla loro fruizione.
+.. [44] Il decreto legislativo 7 marzo 2005, n. 82 recante il Codice dell'Amministrazione Digitale (CAD), è un testo unico che riunisce e organizza le norme riguardanti l'informatizzazione della Pubblica Amministrazione nei rapporti con i cittadini e le imprese. Tra le molte disposizioni relative al trattamento dei dati e documenti informatici, il CAD dall’art. 50 all’art. 62 introduce una serie di norme relative ai dati delle pubbliche amministrazioni e alla loro fruizione.
 
-.. [34] Alla data di emanazione delle presenti Linee guida, sono in corso di redazione da parte di AgID le nuove *Linee Guida recanti regole tecniche per l’attuazione del decreto legislativo 24 gennaio 2006, n.  36 e s.m.i. relativo all’apertura dei dati e al riutilizzo dell’informazione del settore pubblico, disponibili* in consultazione all’indirizzo https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/index.html
+.. [45] Alla data di emanazione delle presenti Linee guida, sono in corso di redazione da parte di AgID le nuove *Linee Guida recanti regole tecniche per l’attuazione del decreto legislativo 24 gennaio 2006, n.  36 e s.m.i. relativo all’apertura dei dati e al riutilizzo dell’informazione del settore pubblico, disponibili* in consultazione all’indirizzo https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/index.html
 
-.. [35] “La strategia europea in materia di dati mira a fare dell'UE un leader in una società basata sui dati. La creazione di un mercato unico dei dati consentirà a questi ultimi di circolare liberamente all'interno dell'UE e in tutti i settori a vantaggio delle imprese, dei ricercatori e delle amministrazioni pubbliche. Le singole persone, le imprese e le organizzazioni dovrebbero essere messe in grado di adottare decisioni migliori sulla base delle informazioni derivate da dati non personali”.  https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-data-strategy_it
+.. [46] “La strategia europea in materia di dati mira a fare dell'UE un leader in una società basata sui dati. La creazione di un mercato unico dei dati consentirà a questi ultimi di circolare liberamente all'interno dell'UE e in tutti i settori a vantaggio delle imprese, dei ricercatori e delle amministrazioni pubbliche. Le singole persone, le imprese e le organizzazioni dovrebbero essere messe in grado di adottare decisioni migliori sulla base delle informazioni derivate da dati non personali”.  https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-data-strategy_it
 
-.. [36] Douglas McCarthy, Andrea Wallace, *Survey of GLAM open access policy and practice*, 2018 to present, CC BY 4.0, https://docs.google.com/spreadsheets/d/1WPS-KJptUJ-o8SXtg00llcxq0IKJu8eO6Ege_GrLaNc/edit#gid=1216556120
+.. [47] Douglas McCarthy, Andrea Wallace, *Survey of GLAM open access policy and practice*, 2018 to present, CC BY 4.0, https://docs.google.com/spreadsheets/d/1WPS-KJptUJ-o8SXtg00llcxq0IKJu8eO6Ege_GrLaNc/edit#gid=1216556120
 
-.. [37] Su 934 soggetti dell’ecosistema GLAM europeo che mettono a disposizione dati della cultura in accesso aperto per mezzo dei loro siti web e/o di piattaforme esterne, come Europeana e Wikimedia Commons, solo 24 sono italiani, contro 178 della Germania, 89 del Regno Unito, 82 della Svezia, 75 della Polonia, 62 di Francia e Olanda, 45 di Spagna, 39 di Portogallo, 36 di Svizzera e Norvegia, 33 di Belgio.
+.. [48] Su 934 soggetti dell’ecosistema GLAM europeo che mettono a disposizione dati della cultura in accesso aperto per mezzo dei loro siti web e/o di piattaforme esterne, come Europeana e Wikimedia Commons, solo 24 sono italiani, contro 178 della Germania, 89 del Regno Unito, 82 della Svezia, 75 della Polonia, 62 di Francia e Olanda, 45 di Spagna, 39 di Portogallo, 36 di Svizzera e Norvegia, 33 di Belgio.
 
-.. [38] Cfr. nota 39.
+.. [49] Cfr. nota 39.
 
-.. [39] Art. 53 *-ter* del Codice dell’amministrazione digitale.
+.. [50] Art. 53 *-ter* del Codice dell’amministrazione digitale.
 
-.. [40] Profilo italiano dei metadati richiesti per descrivere tutti i dati disponibili presso la pubblica amministrazione.  Il profilo è elaborato dall’Agenzia per l’Italia Digitale (AgID). Il profilo nazionale, denominato anche “Profilo italiano di DCAT-AP” (DCAT-AP_IT), si inserisce nel contesto del framework europeo di interoperabilità. È una estensione della specifica DCAT-AP (*Data Catalog Vocabulary – Application Profile*) rilasciata a novembre 2015. Per approfondimenti cfr. https://dati.gov.it/content/dcat-ap-it-v10-profilo-italiano-dcat-ap-0.
+.. [51] Profilo italiano dei metadati richiesti per descrivere tutti i dati disponibili presso la pubblica amministrazione.  Il profilo è elaborato dall’Agenzia per l’Italia Digitale (AgID). Il profilo nazionale, denominato anche “Profilo italiano di DCAT-AP” (DCAT-AP_IT), si inserisce nel contesto del framework europeo di interoperabilità. È una estensione della specifica DCAT-AP (*Data Catalog Vocabulary – Application Profile*) rilasciata a novembre 2015. Per approfondimenti cfr. https://dati.gov.it/content/dcat-ap-it-v10-profilo-italiano-dcat-ap-0.
 
-.. [41] Cfr. nota 40.
+.. [52] Cfr. nota 40.
 
-.. [42] Cfr. nota 41.
+.. [53] Cfr. nota 41.

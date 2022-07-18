@@ -114,7 +114,7 @@ logicamente che fisicamente, dalle applicazioni di *front-end*
 destinate al pubblico; queste utilizzeranno i dati esposti
 dall’infrastruttura software attraverso specifiche API
 (**Application Programming Interface**\*) fruibili da un numero
-quanto più ampio possibile di utenti/sistemi [17]_. In questo modo
+quanto più ampio possibile di utenti/sistemi [28]_. In questo modo
 è possibile per tutti i sistemi partecipanti accedere ai dati
 derivanti da una vasta comunità *cross domain*, processati e
 integrati, preservati in sicurezza e resi disponibili per la
@@ -206,17 +206,17 @@ tutte le fasi. Per la preservazione a lungo termine e la
 conservazione digitale a norma (o “conservazione sostitutiva”) di
 determinate tipologie documentarie, l’Infrastruttura colloquierà,
 integrandosi opportunamente, con sistemi come Magazzini digitali
-[18]_ e il Polo di Conservazione digitale [19]_, parte integrante
+[29]_ e il Polo di Conservazione digitale [30]_, parte integrante
 dell’ecosistema di servizi del Ministero.
 
-In coerenza con la strategia del cloud nazionale [20]_, la
+In coerenza con la strategia del cloud nazionale [31]_, la
 piattaforma software sarà integrata nel Polo strategico nazionale
-[21]_, l’infrastruttura progettata per l’erogazione di servizi
+[32]_, l’infrastruttura progettata per l’erogazione di servizi
 cloud della pubblica amministrazione, beneficiando così di
 notevoli vantaggi in termini di efficienza, sicurezza,
 semplificazione gestionale e costi di manutenzione. Inoltre, sarà
 sviluppata seguendo le regole tecniche stabilite da AgID per
-l’interoperabilità tecnica [22]_, in modo da garantire la
+l’interoperabilità tecnica [33]_, in modo da garantire la
 collaborazione tra pubbliche amministrazioni e tra queste e
 soggetti terzi, per mezzo di soluzioni tecnologiche che assicurano
 l’interazione e lo scambio di informazioni senza vincoli sulle
@@ -264,7 +264,7 @@ attraverso servizi di interoperabilità.
 
 Prendendo come esempio intuitivo – e non tecnico – quanto avviene
 per le persone fisiche nel Sistema Pubblico di identità Digitale
-(SPiD) [23]_, il certificato d’identità digitale dei beni
+(SPiD) [34]_, il certificato d’identità digitale dei beni
 culturali rappresenta la chiave abilitante affinché un bene
 culturale sia riconosciuto univocamente nei diversi sistemi
 informativi, sia amministrativi (gestione dei procedimenti) che
@@ -428,16 +428,16 @@ di gestione* (cfr. par. :ref:`linee_guida_classificazione`).
 
   4) Erogazione contributi e realizzazione servizi
 
-.. [17] Si predilige questo approccio quando il dato originale lo consente.  Esistono infatti delle eccezioni, come nel caso di dati lacunosi che possono essere ri-creati solo mediante le applicazioni.
+.. [28] Si predilige questo approccio quando il dato originale lo consente.  Esistono infatti delle eccezioni, come nel caso di dati lacunosi che possono essere ri-creati solo mediante le applicazioni.
 
-.. [18] Magazzini Digitali è il servizio nazionale di conservazione e accesso ai documenti digitali **di interesse** culturale, curato dalla Biblioteca nazionale centrale di Firenze (BNCF), in collaborazione con la Biblioteca nazionale centrale di Roma (BNCR) e la Biblioteca nazionale Marciana di Venezia (BNM). Per i dettagli del servizio consulta il sito https://www.bncf.firenze.sbn.it/biblioteca/magazzini-digitali/
+.. [29] Magazzini Digitali è il servizio nazionale di conservazione e accesso ai documenti digitali **di interesse** culturale, curato dalla Biblioteca nazionale centrale di Firenze (BNCF), in collaborazione con la Biblioteca nazionale centrale di Roma (BNCR) e la Biblioteca nazionale Marciana di Venezia (BNM). Per i dettagli del servizio consulta il sito https://www.bncf.firenze.sbn.it/biblioteca/magazzini-digitali/
 
-.. [19] Nell’ambito delle azioni finanziate con il PNRR, il Ministero ha avviato la realizzazione del “Polo di conservazione digitale” (sub-investimento M1C3 1.1.8, periodo di realizzazione 2022-2026), la cui realizzazione è affidata all’Archivio centrale dello Stato.  L’obiettivo generale del progetto è quello di regolamentare, in modo chiaro e uniforme, dalla fase di *pre-ingestion* a quella della *dissemination*, la policy conservativa del Ministero sia interna (Sistema di conservazione di medio-lungo periodo in house per le strutture del Ministero), sia nei confronti delle Amministrazioni statali che dovranno procedere al versamento dei loro archivi digitali nativi (o digitalizzati “a norma”) agli Archivi di Stato, secondo quanto disposto dalla vigente normativa sui beni culturali (Sistema di conservazione permanente degli Archivi di Stato), contribuendo, per quest’ultimo caso, a definire, in ragioni delle funzioni di tutela sugli archivi pubblici (quali beni culturali ab origine) esclusivamente in capo al Ministero, i requisiti e la policy che devono essere adottate dai sistemi conservativi delle PA statali (e, di riflesso, delle PA non statali), sia in house che in outsourcing, che custodiranno gli archivi digitali oggetto del successivo versamento al Sistema di conservazione permanente degli Archivi di Stato.
+.. [30] Nell’ambito delle azioni finanziate con il PNRR, il Ministero ha avviato la realizzazione del “Polo di conservazione digitale” (sub-investimento M1C3 1.1.8, periodo di realizzazione 2022-2026), la cui realizzazione è affidata all’Archivio centrale dello Stato.  L’obiettivo generale del progetto è quello di regolamentare, in modo chiaro e uniforme, dalla fase di *pre-ingestion* a quella della *dissemination*, la policy conservativa del Ministero sia interna (Sistema di conservazione di medio-lungo periodo in house per le strutture del Ministero), sia nei confronti delle Amministrazioni statali che dovranno procedere al versamento dei loro archivi digitali nativi (o digitalizzati “a norma”) agli Archivi di Stato, secondo quanto disposto dalla vigente normativa sui beni culturali (Sistema di conservazione permanente degli Archivi di Stato), contribuendo, per quest’ultimo caso, a definire, in ragioni delle funzioni di tutela sugli archivi pubblici (quali beni culturali ab origine) esclusivamente in capo al Ministero, i requisiti e la policy che devono essere adottate dai sistemi conservativi delle PA statali (e, di riflesso, delle PA non statali), sia in house che in outsourcing, che custodiranno gli archivi digitali oggetto del successivo versamento al Sistema di conservazione permanente degli Archivi di Stato.
 
-.. [20] Cfr.  https://innovazione.gov.it/dipartimento/focus/strategia-cloud-italia/
+.. [31] Cfr.  https://innovazione.gov.it/dipartimento/focus/strategia-cloud-italia/
 
-.. [21] Cfr.  https://innovazione.gov.it/dipartimento/focus/polo-strategico-nazionale/
+.. [32] Cfr.  https://innovazione.gov.it/dipartimento/focus/polo-strategico-nazionale/
 
-.. [22] Cfr.  https://www.agid.gov.it/it/infrastrutture/sistema-pubblico-connettivita/il-nuovo-modello-interoperabilita
+.. [33] Cfr.  https://www.agid.gov.it/it/infrastrutture/sistema-pubblico-connettivita/il-nuovo-modello-interoperabilita
 
-.. [23] Il Sistema Pubblico di Identità Digitale (SPID) è la chiave di accesso semplice, veloce e sicura ai servizi digitali delle amministrazioni locali e centrali. Un’unica credenziale (username e password) che rappresenta l’identità digitale e personale di ogni cittadino, con cui è riconosciuto dalla Pubblica Amministrazione per utilizzare in maniera personalizzata e sicura i servizi digitali. Per approfondimenti si rimanda al sito dedicato https://www.spid.gov.it/
+.. [34] Il Sistema Pubblico di Identità Digitale (SPID) è la chiave di accesso semplice, veloce e sicura ai servizi digitali delle amministrazioni locali e centrali. Un’unica credenziale (username e password) che rappresenta l’identità digitale e personale di ogni cittadino, con cui è riconosciuto dalla Pubblica Amministrazione per utilizzare in maniera personalizzata e sicura i servizi digitali. Per approfondimenti si rimanda al sito dedicato https://www.spid.gov.it/

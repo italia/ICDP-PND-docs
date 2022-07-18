@@ -39,7 +39,7 @@ selezione, gerarchizzazione e legittimazione; la seconda si fonda
 sui processi di riconoscimento sociale e di patrimonializzazione
 condivisa operati dalle comunità su scala tanto locale quanto
 globale.  L’Italia ha recepito la convenzione di Faro solo nel
-settembre del 2020 [1]_, a testimonianza delle difficoltà
+settembre del 2020 [12]_, a testimonianza delle difficoltà
 incontrate nell’armonizzarne l’inquadramento giuridico con la
 gestione dell'espansione dei processi di patrimonializzazione,
 intrapresi liberamente a livello territoriale dalle
@@ -122,7 +122,7 @@ provenienza (cfr. par. :ref:`estensione_del_patrimonio_culturale_per_nuovi_pubbl
 Patrimonio culturale digitale
 -----------------------------
 
-Il Consiglio dell’Unione Europea [2]_ ha incluso tra le forme del
+Il Consiglio dell’Unione Europea [13]_ ha incluso tra le forme del
 patrimonio culturale, oltre ai beni materiali e immateriali,
 anche le **risorse digitali\***, nella duplice accezione di
 **digitale nativo**\* e di prodotti/servizi derivati dai processi
@@ -231,7 +231,7 @@ dati trasversali ai diversi domini; sul piano comunicativo, per
 poter costruire efficaci architetture dell’informazione adeguate
 alla restituzione.
 
-.. [1] La *Convenzione quadro del Consiglio d’Europa sul valore del patrimonio culturale per la società*, siglata a Faro il 27 ottobre 2005, è stata ratificata con la legge 1° ottobre 2020, n.  133 (Gazzetta Ufficiale, Serie generale, Anno 161° - Numero 263).
+.. [12] La *Convenzione quadro del Consiglio d’Europa sul valore del patrimonio culturale per la società*, siglata a Faro il 27 ottobre 2005, è stata ratificata con la legge 1° ottobre 2020, n.  133 (Gazzetta Ufficiale, Serie generale, Anno 161° - Numero 263).
 
-.. [2] Conclusioni del Consiglio europeo sul patrimonio culturale del 21 maggio 2014 (2014/C 183/08): “*2. Il patrimonio culturale è costituito dalle risorse ereditate dal passato, in tutte le forme e gli aspetti - materiali, immateriali e digitali (prodotti originariamente in formato digitale e digitalizzati), ivi inclusi i monumenti, i siti, i paesaggi, le competenze, le prassi, le conoscenze e le espressioni della creatività umana, nonché le collezioni conservate e gestite da organismi pubblici e privati quali musei, biblioteche e archivi. Esso ha origine dall'interazione nel tempo fra le persone e i luoghi ed è in costante evoluzione. Dette risorse rivestono grande valore per la società dal punto di vista culturale, ambientale, sociale ed economico e la loro gestione sostenibile rappresenta pertanto una scelta strategica per il XXI secolo*”;
+.. [13] Conclusioni del Consiglio europeo sul patrimonio culturale del 21 maggio 2014 (2014/C 183/08): “*2. Il patrimonio culturale è costituito dalle risorse ereditate dal passato, in tutte le forme e gli aspetti - materiali, immateriali e digitali (prodotti originariamente in formato digitale e digitalizzati), ivi inclusi i monumenti, i siti, i paesaggi, le competenze, le prassi, le conoscenze e le espressioni della creatività umana, nonché le collezioni conservate e gestite da organismi pubblici e privati quali musei, biblioteche e archivi. Esso ha origine dall'interazione nel tempo fra le persone e i luoghi ed è in costante evoluzione. Dette risorse rivestono grande valore per la società dal punto di vista culturale, ambientale, sociale ed economico e la loro gestione sostenibile rappresenta pertanto una scelta strategica per il XXI secolo*”;
    https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:52014XG0614(08)&from=PL

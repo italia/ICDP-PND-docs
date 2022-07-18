@@ -53,7 +53,7 @@ termini di adeguamento organizzativo, assicurando una gestione del
 cambiamento (*Change Management*) in tutte le sue fasi. L’intervento
 formativo tenderà alla creazione di un patrimonio condiviso di
 competenze, in linea con quanto già stabilito nel Piano per l’Educazione
-al Patrimonio [1]_, che possa favorire l’ibridazione degli ambiti
+al Patrimonio [54]_, che possa favorire l’ibridazione degli ambiti
 disciplinari e operativi e l’integrazione dei livelli di conoscenza.
 
 Affinché la progettazione formativa possa rispondere alle istanze di
@@ -297,4 +297,4 @@ riconoscibilità e con esse le persone da cui originano.
 
   4) Azioni di disseminazione
 
-.. [1] Sul Piano per l’Educazione al Patrimonio 2021: https://dger.beniculturali.it/wp-content/uploads/2021/11/Piano-Nazionale-per-lEducazione-al-patrimonio-2021.pdf
+.. [54] Sul Piano per l’Educazione al Patrimonio 2021: https://dger.beniculturali.it/wp-content/uploads/2021/11/Piano-Nazionale-per-lEducazione-al-patrimonio-2021.pdf

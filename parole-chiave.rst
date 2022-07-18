@@ -10,7 +10,7 @@ elenco di definizioni, ma una disambiguazione dei termini e
 approfondimento dei concetti per aiutare il lettore nella comprensione
 del significato complessivo del Piano.
 
-.. glossary::
+.. Glossary::
 
   Accessibilità
     L’accessibilità è considerata, in generale, come il facile accesso da
@@ -23,7 +23,7 @@ del significato complessivo del Piano.
     già nell’ Art. 27 della Dichiarazione universale dei diritti umani del
     1948, dove si legge: “Ogni individuo ha diritto di prendere parte
     liberamente alla vita culturale della comunità, di godere delle arti e
-    di partecipare al progresso scientifico e ai suoi benefici” [1]_. La
+    di partecipare al progresso scientifico e ai suoi benefici” [55]_. La
     cultura, l’arte e la scienza appaiono già in questa definizione come
     beni necessari per la comunità. L’accessibilità culturale significa
     dunque garantire pari opportunità di accesso alla cultura tramite
@@ -43,7 +43,7 @@ del significato complessivo del Piano.
     barriere linguistiche e del divario scolastico; il coinvolgimento di
     diverse fasce di pubblico e target generazionali e multiculturali;
     l’accesso, sia allo spazio fisico che a quello digitale, da parte di
-    persone con esigenze di accesso specifiche [2]_; la disponibilità di
+    persone con esigenze di accesso specifiche [56]_; la disponibilità di
     risorse culturali; l’usabilità e l’accessibilità a lungo termine degli
     oggetti digitali attraverso l’adozione di nuove strategie di
     conservazione (approccio cloud); un’adeguata metadatazione attraverso
@@ -52,7 +52,7 @@ del significato complessivo del Piano.
     L’obiettivo è quello di considerare l’accessibilità in ogni forma, così
     da avviare un cambio di paradigma sia culturale che sociale, attuando i
     principi espressi nella Convenzione delle Nazioni Unite sui diritti
-    delle persone con disabilità del 2006 [3]_. La Convenzione, fondata sul
+    delle persone con disabilità del 2006 [57]_. La Convenzione, fondata sul
     concetto non solo di accessibilità ma anche di inclusività, ha
     introdotto il concetto di “utenza ampliata” secondo cui è necessario
     considerare le differenti caratteristiche individuali, dal bambino
@@ -149,7 +149,7 @@ del significato complessivo del Piano.
     esempio reti, server, memoria, applicazioni e servizi) che possono
     essere acquisite e rilasciate rapidamente e con minimo sforzo di
     gestione o di interazione con il fornitore di servizi (Grance e Mell,
-    2011) [4]_. Le risorse condivise, elaborate in server cloud situati in
+    2011) [58]_. Le risorse condivise, elaborate in server cloud situati in
     un *datacenter*, sono caratterizzate da rapida scalabilità e dalla
     misurabilità puntuale dei livelli di performance.
 
@@ -171,7 +171,7 @@ del significato complessivo del Piano.
     In coerenza con gli obiettivi del Piano nazionale di ripresa e
     resilienza, è stata elaborata dal Dipartimento per la trasformazione
     digitale e dall'Agenzia per la Cybersicurezza Nazionale (ACN) la
-    Strategia Cloud Italia [5]_. Tale strategia, che ha avviato la
+    Strategia Cloud Italia [59]_. Tale strategia, che ha avviato la
     migrazione dei dati della Pubblica Amministrazione verso il cloud dei
     dati nazionale e i servizi digitali, risponde a tre sfide principali: 1.
     assicurare l’autonomia tecnologica del Paese; 2. garantire il controllo
@@ -228,7 +228,7 @@ del significato complessivo del Piano.
     dei software, all’incompatibilità dei formati e alla duplicazione dei
     file. Secondo la definizione dell’Agenzia per l’Italia Digitale, la
     conservazione è “l'attività volta a proteggere e custodire nel tempo gli
-    archivi di documenti e dati informatici” [6]_.
+    archivi di documenti e dati informatici” [60]_.
 
     Nella lingua inglese è invece più diffuso il termine “*digital
     preservation*”, che talvolta viene tradotto in italiano con il
@@ -237,7 +237,7 @@ del significato complessivo del Piano.
     alcuni casi d’uso concreti, che di fatto pongono “conservazione
     digitale” e “preservazione digitale” sul piano dei sinonimi (si veda, a
     tal proposito, il par. 7.7.3 “Preservazione dei dati” delle *Linee guida
-    per la redazione del piano di gestione dei dati)* [7]_.
+    per la redazione del piano di gestione dei dati)* [61]_.
 
     Diverso è il caso della conservazione digitale “a norma” (detta anche
     “conservazione sostitutiva”), procedura informatica regolamentata dalla
@@ -295,7 +295,7 @@ del significato complessivo del Piano.
     in cui compiti molto complessi, tradizionalmente svolti da studiosi,
     sono stati affidati a persone non esperte, producendo così un cambio di
     approccio e di valore ai documenti del patrimonio culturale. Un esempio
-    è *Transcribe Bentham [8]_* un progetto sviluppato presso l'University
+    è *Transcribe Bentham [62]_* un progetto sviluppato presso l'University
     College London (UCL) sui manoscritti del filosofo inglese, per il quale
     è stata richiesta la collaborazione degli utenti nella correzione delle
     trascrizioni prodotte attraverso l’ausilio di software HTR (vedi *Linee
@@ -368,7 +368,7 @@ del significato complessivo del Piano.
 
     Per avere una panoramica completa delle regole tecniche e del riutilizzo
     dei dati aperti nel contesto della pubblica amministrazione, è possibile
-    consultare le Linee guida “Open Data” redatte da Agid [9]_.
+    consultare le Linee guida “Open Data” redatte da Agid [63]_.
 
   Digital library
     Il termine *digital library*, utilizzato per la prima volta nel 1987,
@@ -409,7 +409,7 @@ del significato complessivo del Piano.
     In ambito italiano si richiama infine il *Nuovo manifesto delle
     biblioteche digitali* redatto nel 2020 dal Gruppo di lavoro sulle
     biblioteche digitali (GBDIG) dell’Associazione italiana
-    biblioteche [10]_.
+    biblioteche [64]_.
 
   Digitale nativo
     Si dicono digitali nativi i documenti che hanno origine in una forma
@@ -447,7 +447,7 @@ del significato complessivo del Piano.
     di oggi devono essere interpretabili anche da un elaboratore di domani);
     autenticità (considerare metadati specifici per assicurare identità e
     integrità delle risorse); fruibilità (considerare metadati specifici per
-    garantire l’accesso nel lungo periodo) [11]_.
+    garantire l’accesso nel lungo periodo) [65]_.
 
   Ecosistema digitale
     Il termine ecosistema ha diversi significati a seconda delle
@@ -714,7 +714,7 @@ del significato complessivo del Piano.
     relativamente secondaria; basti pensare alla faticosa gestazione di una
     nozione standardizzata di museo, che in parte trova un punto di arrivo
     nella costituzione del Sistema museale nazionale, ed alla attenzione
-    posta al tema dei rapporti tra museo e territorio [12]_. Dalla
+    posta al tema dei rapporti tra museo e territorio [66]_. Dalla
     Convenzione di Faro (2005) in poi (Gualdani A., 2020), l’interesse delle
     istituzioni internazionali è ulteriormente slittato verso i contesti,
     mettendo in luce la natura fluida e negoziale (su base “comunitaria”)
@@ -960,27 +960,27 @@ del significato complessivo del Piano.
     esperienza di un utente per costruire e garantire la fruizione del
     prodotto digitale (che sarà dinamico e cambierà a seconda dell’utente).
 
-.. [1] Per la dichiarazione universale dei diritti umani cfr. https://www.senato.it/application/xmanager/projects/leg18/file/DICHIARAZIONE_diritti_umani_4lingue.pdf; per la convenzione ONU cfr. https://www.esteri.it/mae/resource/doc/2016/07/c_01_convenzione_onu_ita.pdf
+.. [55] Per la dichiarazione universale dei diritti umani cfr. https://www.senato.it/application/xmanager/projects/leg18/file/DICHIARAZIONE_diritti_umani_4lingue.pdf; per la convenzione ONU cfr. https://www.esteri.it/mae/resource/doc/2016/07/c_01_convenzione_onu_ita.pdf
 
-.. [2] Come ad esempio utenti con disabilità fisiche, cognitive o sensoriali. In merito all’accessibilità fisica in Italia sono stati emanati numerosi decreti e leggi, come il D.P.R. 384/1978, la Legge 41/1986, il D.L. 371/1987, la Legge Quadro 13/1989, il D.M. 236/1989, la Legge Quadro 104/1992, il D.P.R. 380/2001, il D.Lgs. 156/2006, infine anche le Linee Guida per il superamento delle barriere architettoniche nei luoghi di interesse culturale, pubblicate dal Ministero per i Beni e le Attività Culturali nel 2008 (MiBAC, 2008), e le Linee guida per la redazione del Piano di eliminazione delle barriere architettoniche (P.E.B.A) nei musei, complessi museali, aree e parchi archeologici, pubblicate nel 2018 dalla Direzione Generali Musei. In merito alle disabilità sensoriali e rimozione delle barriere comunicative, in Italia è stata approvata la Legge 136/2021.  Di recente redazione è anche la Legge delega sulla disabilità 227/2021 che ha “*L’obiettivo principale di modificare la legislazione sulle disabilità e promuovere la deistituzionalizzazione (vale a dire il trasferimento dalle istituzioni pubbliche o private alla famiglia o alle case della comunità) e l’autonomia delle persone con disabilità*”.
+.. [56] Come ad esempio utenti con disabilità fisiche, cognitive o sensoriali. In merito all’accessibilità fisica in Italia sono stati emanati numerosi decreti e leggi, come il D.P.R. 384/1978, la Legge 41/1986, il D.L. 371/1987, la Legge Quadro 13/1989, il D.M. 236/1989, la Legge Quadro 104/1992, il D.P.R. 380/2001, il D.Lgs. 156/2006, infine anche le Linee Guida per il superamento delle barriere architettoniche nei luoghi di interesse culturale, pubblicate dal Ministero per i Beni e le Attività Culturali nel 2008 (MiBAC, 2008), e le Linee guida per la redazione del Piano di eliminazione delle barriere architettoniche (P.E.B.A) nei musei, complessi museali, aree e parchi archeologici, pubblicate nel 2018 dalla Direzione Generali Musei. In merito alle disabilità sensoriali e rimozione delle barriere comunicative, in Italia è stata approvata la Legge 136/2021.  Di recente redazione è anche la Legge delega sulla disabilità 227/2021 che ha “*L’obiettivo principale di modificare la legislazione sulle disabilità e promuovere la deistituzionalizzazione (vale a dire il trasferimento dalle istituzioni pubbliche o private alla famiglia o alle case della comunità) e l’autonomia delle persone con disabilità*”.
 
-.. [3] Per quanto riguarda le regole tecniche cfr."Linee Guida sull’Accessibilità degli strumenti informatici" redatte da Agid nel 2020, che indirizzano la Pubblica Amministrazione all’erogazione di servizi accessibili ed informazioni fruibili, https://www.agid.gov.it/it/design-servizi/accessibilita
+.. [57] Per quanto riguarda le regole tecniche cfr."Linee Guida sull’Accessibilità degli strumenti informatici" redatte da Agid nel 2020, che indirizzano la Pubblica Amministrazione all’erogazione di servizi accessibili ed informazioni fruibili, https://www.agid.gov.it/it/design-servizi/accessibilita
 
-.. [4] Per la definizione di cloud computing fornita dalla *National Institute of Standards and Technology* si veda
+.. [58] Per la definizione di cloud computing fornita dalla *National Institute of Standards and Technology* si veda
    https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-145.pdf.
 
-.. [5] Per un approfondimento sulla strategia cloud nazionale si rimanda a quanto pubblicato dal Dipartimento per la trasformazione digitale: https://innovazione.gov.it/dipartimento/focus/strategia-cloud-italia/.  
+.. [59] Per un approfondimento sulla strategia cloud nazionale si rimanda a quanto pubblicato dal Dipartimento per la trasformazione digitale: https://innovazione.gov.it/dipartimento/focus/strategia-cloud-italia/.
 
-.. [6] https://www.agid.gov.it/it/piattaforme/conservazione
+.. [60] https://www.agid.gov.it/it/piattaforme/conservazione
 
-.. [7] https://bibliotecadigitale.cab.unipd.it/biblioteca-digitale/archivi-istituzionali/digital-preservation-preservazione-digitale
+.. [61] https://bibliotecadigitale.cab.unipd.it/biblioteca-digitale/archivi-istituzionali/digital-preservation-preservazione-digitale
 
-.. [8] http://transcribe-bentham.ucl.ac.uk/td/Transcribe_Bentham
+.. [62] http://transcribe-bentham.ucl.ac.uk/td/Transcribe_Bentham
 
-.. [9] Linee Guida recanti regole tecniche per l’attuazione del decreto legislativo 24 gennaio 2006, n. 36 e s.m.i. relativo all’apertura dei dati e al riutilizzo dell’informazione del settore pubblico. Le linee guida in consultazione fino al 17 luglio 2022: https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/index.html.  Per aggiornamenti le pagine delle Linee guida Agid: https://www.agid.gov.it/it/argomenti/linee-guida.
+.. [63] Linee Guida recanti regole tecniche per l’attuazione del decreto legislativo 24 gennaio 2006, n. 36 e s.m.i. relativo all’apertura dei dati e al riutilizzo dell’informazione del settore pubblico. Le linee guida in consultazione fino al 17 luglio 2022: https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/index.html.  Per aggiornamenti le pagine delle Linee guida Agid: https://www.agid.gov.it/it/argomenti/linee-guida.
 
-.. [10] https://www.aib.it/struttura/commissioni-e-gruppi/gruppo-di-lavoro-biblioteche-digitali/2020/82764-nuovo-manifesto-per-le-biblioteche-digitali/
+.. [64] https://www.aib.it/struttura/commissioni-e-gruppi/gruppo-di-lavoro-biblioteche-digitali/2020/82764-nuovo-manifesto-per-le-biblioteche-digitali/
 
-.. [11] Un approfondimento sul progetto ”Magazzini Digitali” è disponibile al seguente indirizzo: https://www.bncf.firenze.sbn.it/biblioteca/magazzini-digitali/
+.. [65] Un approfondimento sul progetto ”Magazzini Digitali” è disponibile al seguente indirizzo: https://www.bncf.firenze.sbn.it/biblioteca/magazzini-digitali/
 
-.. [12] Decreto ministeriale 21 febbraio 2018, rep. 113 “Adozione dei livelli minimi uniformi di qualità per i musei e i luoghi della cultura di appartenenza pubblica e attivazione del Sistema museale nazionale”, ed in particolare l’allegato “Livelli uniformi di qualità per i musei”, Ambito III” Comunicazione e rapporti con il territorio”; documentazione disponibile all’indirizzo internet http://musei.beniculturali.it/progetti/sistema-museale-nazionale.  
+.. [66] Decreto ministeriale 21 febbraio 2018, rep. 113 “Adozione dei livelli minimi uniformi di qualità per i musei e i luoghi della cultura di appartenenza pubblica e attivazione del Sistema museale nazionale”, ed in particolare l’allegato “Livelli uniformi di qualità per i musei”, Ambito III” Comunicazione e rapporti con il territorio”; documentazione disponibile all’indirizzo internet http://musei.beniculturali.it/progetti/sistema-museale-nazionale.

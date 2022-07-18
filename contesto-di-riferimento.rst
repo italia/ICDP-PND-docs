@@ -111,8 +111,7 @@ L’esigenza di dotarsi di un Piano è quindi anche funzionale alla
 piena adesione da parte italiana, quale Stato membro dell’Unione,
 all’impianto della cooperazione culturale a livello europeo. La
 costruzione di un patrimonio culturale digitale nazionale,
-composto da oggetti collocabili nello spazio informativo dell’\
-**infosfera**\, può rappresentare per l’Italia l'occasione per
+composto da oggetti collocabili nello spazio informativo dell’\ :term:`infosfera` *, può rappresentare per l’Italia l'occasione per
 recuperare e interpretare un ruolo rilevante sulla scena
 culturale globale, senza rinunciare alla propria storica
 tradizione di tutela.

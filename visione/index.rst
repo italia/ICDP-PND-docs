@@ -13,7 +13,7 @@ sociale e culturale in cui viviamo, di un **ecosistema
 digitale**\* fondato sulle relazioni. Occorre quindi condurre
 un’attenta analisi della domanda e delle aspettative generate
 dall’opportunità che il digitale offre nel creare nuovi
-**servizi**\*  [1]_,assistere e favorire la nascita di imprese
+**servizi**\*  [11]_,assistere e favorire la nascita di imprese
 innovative e intercettare bisogni emergenti, sia dal punto di
 vista dei visitatori/utenti (i.e. ridisegnando le modalità di
 interazione interne ed esterne) che dal punto di vista dei luoghi
@@ -58,4 +58,4 @@ piani di lettura (i capitoli in cui si articola il testo) (Figura
   obiettivi.rst
   opportunita.rst
 
-.. [1] La parola “servizio" verrà utilizzata in contesti molto diversi dei vari componenti che andranno a costituire il piano nazionale di digitalizzazione (cfr. sezione :ref:`Parole chiave<parole_chiave>`). In questo caso, con l’espressione “nuovi servizi” si fa riferimento alle diverse tipologie di attività o prestazioni erogabili in formato digitale da parte dei luoghi della cultura, nell’ambito dello sviluppo della strategia di digitalizzazione del patrimonio culturale elaborata nel presente documento.
+.. [11] La parola “servizio" verrà utilizzata in contesti molto diversi dei vari componenti che andranno a costituire il piano nazionale di digitalizzazione (cfr. sezione :ref:`Parole chiave<parole_chiave>`). In questo caso, con l’espressione “nuovi servizi” si fa riferimento alle diverse tipologie di attività o prestazioni erogabili in formato digitale da parte dei luoghi della cultura, nell’ambito dello sviluppo della strategia di digitalizzazione del patrimonio culturale elaborata nel presente documento.

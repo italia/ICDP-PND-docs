@@ -55,7 +55,7 @@ esprimendosi su un doppio fronte:
 -  a livello verticale, migliorando da un lato la qualità
    dell’accesso, le modalità di fruizione e di riuso, dall’altro
    superando le barriere fisiche, culturali, cognitive e
-   psicosensoriali [3]_, così da rendere il patrimonio culturale
+   psicosensoriali [14]_, così da rendere il patrimonio culturale
    una risorsa sempre a disposizione di singoli, gruppi e
    comunità rappresentative dell‘intera società.
 
@@ -74,7 +74,7 @@ indipendentemente dalle sue competenze, dalle tecnologie usate,
 dai contesti d’uso e da eventuali disabilità. La tecnologia può
 fornire perciò la chiave per abbattere le barriere derivanti
 dalla lingua, dalla diversità dei background educativi e dalla
-presenza di disabilità motorie [4]_, cognitive e/o sensoriali.
+presenza di disabilità motorie [15]_, cognitive e/o sensoriali.
 Per conseguire tale obiettivo sarà dunque necessario:
 
 -  rendere liberamente disponibili online i patrimoni informativi
@@ -82,7 +82,7 @@ Per conseguire tale obiettivo sarà dunque necessario:
    e sistemi collaborativi;
 
 -  associare alle risorse digitali **licenze d’uso**\* chiare e
-   in grado di garantire il riuso dei contenuti [5]_;
+   in grado di garantire il riuso dei contenuti [16]_;
 
 -  consentire la riproducibilità dei dati per poterli combinare
    con altri dati, al fine di creare nuovi contenuti;
@@ -90,7 +90,7 @@ Per conseguire tale obiettivo sarà dunque necessario:
 -  garantire la permanenza nel tempo dei dati resi accessibili;
 
 -  Progettare soluzioni insieme agli utenti, secondo i principi
-   dello *universal design* (progettazione universale) [6]_,
+   dello *universal design* (progettazione universale) [17]_,
    dello **user-centered design**\* (progettazione centrata
    sull’utente) e della progettazione partecipativa.
 
@@ -115,7 +115,7 @@ Digitalizzare per operare una trasformazione digitale
 
 La Commissione Europea ha riconosciuto la transizione verde e
 quella digitale quali pilastri dell’evoluzione socio-economica
-comunitaria [7]_. La trasformazione digitale coinvolge i diversi
+comunitaria [18]_. La trasformazione digitale coinvolge i diversi
 settori del Paese in modo differente; in ciascuno di essi si sta
 investendo in tecnologie capaci di adeguare in modo significativo
 il funzionamento degli istituti non limitandosi ad adottare
@@ -177,7 +177,7 @@ scenario estremamente frammentato. I dati digitali e i loro
 insiemi, siano essi *digital twins* (gemelli digitali) o digitali
 nativi, in tutte le evidenze con cui sono creati, materializzati
 e fruiti, sono a pieno titolo parte dell’identità sociale e
-culturale dell’epoca contemporanea [8]_.
+culturale dell’epoca contemporanea [19]_.
 
 Nel tentativo di strutturare e omogeneizzare i processi di
 digitalizzazione, l’Unione europea ha ripensato tale
@@ -289,14 +289,14 @@ accorcia i tempi di intervento.
   :ref:`sistema_certificazione_identita_digitale`
 
 
-.. [3] Si vedano le Linee guida per il superamento delle barriere architettoniche nei luoghi di interesse culturale, https://www.beniculturali.it/mibac/multimedia/MiBAC/documents/1311244354128_plugin-LINEE_GUIDA_PER_IL_SUPERAMENTO_DELLE_BARRIERE_ARCHITETTONICHE.pdf, pubblicate nel 2008.
+.. [14] Si vedano le Linee guida per il superamento delle barriere architettoniche nei luoghi di interesse culturale, https://www.beniculturali.it/mibac/multimedia/MiBAC/documents/1311244354128_plugin-LINEE_GUIDA_PER_IL_SUPERAMENTO_DELLE_BARRIERE_ARCHITETTONICHE.pdf, pubblicate nel 2008.
 
-.. [4] Ministero dei beni e delle attività culturali e del turismo e le Linee guida per la redazione del Piano di eliminazione delle barriere architettoniche (P.E.B.A) nei musei, complessi museali, aree e parchi archeologici: http://musei.beniculturali.it/wp-content/uploads/2015/11/Linee-guida-per-la-redazione-del-Piano-di-eliminazione-delle-barriere-architettoniche-P.E.B.A-nei-musei-complessi-monumentali-aree-e-parchi-archeologici.pdf
+.. [15] Ministero dei beni e delle attività culturali e del turismo e le Linee guida per la redazione del Piano di eliminazione delle barriere architettoniche (P.E.B.A) nei musei, complessi museali, aree e parchi archeologici: http://musei.beniculturali.it/wp-content/uploads/2015/11/Linee-guida-per-la-redazione-del-Piano-di-eliminazione-delle-barriere-architettoniche-P.E.B.A-nei-musei-complessi-monumentali-aree-e-parchi-archeologici.pdf
 
-.. [5] Cfr. *Linee guida per la redazione del Piano di gestione dei dati* (par. :ref:`linee_guida_redazione_piano_gestione_dati`) *e Linee guida per l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale* (par. :ref:`linee_guida_acquisizione_circolazione_riuso`).
+.. [16] Cfr. *Linee guida per la redazione del Piano di gestione dei dati* (par. :ref:`linee_guida_redazione_piano_gestione_dati`) *e Linee guida per l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale* (par. :ref:`linee_guida_acquisizione_circolazione_riuso`).
 
-.. [6] Per *universal design* o progettazione universale si intende la progettazione di prodotti, strutture, programmi e servizi utilizzabili da tutte le persone, nella misura più estesa possibile, senza il bisogno di adattamenti o di progettazioni specializzate. La progettazione universale non esclude dispositivi di sostegno per particolari gruppi di persone con disabilità ove siano necessari (Convenzione ONU, art. 2, anno 2006).
+.. [17] Per *universal design* o progettazione universale si intende la progettazione di prodotti, strutture, programmi e servizi utilizzabili da tutte le persone, nella misura più estesa possibile, senza il bisogno di adattamenti o di progettazioni specializzate. La progettazione universale non esclude dispositivi di sostegno per particolari gruppi di persone con disabilità ove siano necessari (Convenzione ONU, art. 2, anno 2006).
 
-.. [7] A *European Green Deal*, 2021: https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en (consultato il 11/01/2022); si veda anche, per gli obiettivi che legano il patrimonio culturale allo sviluppo ecosostenibile, il *Cultural Heritage Green Paper* (2021),https://www.europanostra.org/our-work/policy/european-cultural-heritage-green-paper/
+.. [18] A *European Green Deal*, 2021: https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en (consultato il 11/01/2022); si veda anche, per gli obiettivi che legano il patrimonio culturale allo sviluppo ecosostenibile, il *Cultural Heritage Green Paper* (2021),https://www.europanostra.org/our-work/policy/european-cultural-heritage-green-paper/
 
-.. [8] "Il patrimonio culturale è costituto dalle risorse ereditate dal passato, in tutte le forme e gli aspetti — materiali, immateriali e digitali (prodotti originariamente in formato digitale e digitalizzati), ivi inclusi i monumenti, i siti, i paesaggi, le competenze, le prassi, le conoscenze e le espressioni della creatività umana, nonché le collezioni conservate e gestite da organismi pubblici e privati quali musei, biblioteche e archivi".  Conclusioni del Consiglio del 21 maggio 2014 relative al patrimonio culturale come risorsa strategica per un’Europa sostenibile (2014/C 183/08). https://culture.ec.europa.eu/it/cultural-heritage/eu-policy-for-cultural-heritage
+.. [19] "Il patrimonio culturale è costituto dalle risorse ereditate dal passato, in tutte le forme e gli aspetti — materiali, immateriali e digitali (prodotti originariamente in formato digitale e digitalizzati), ivi inclusi i monumenti, i siti, i paesaggi, le competenze, le prassi, le conoscenze e le espressioni della creatività umana, nonché le collezioni conservate e gestite da organismi pubblici e privati quali musei, biblioteche e archivi".  Conclusioni del Consiglio del 21 maggio 2014 relative al patrimonio culturale come risorsa strategica per un’Europa sostenibile (2014/C 183/08). https://culture.ec.europa.eu/it/cultural-heritage/eu-policy-for-cultural-heritage

@@ -18,7 +18,7 @@ l’ecosistema.
 
 Nel contesto storico attuale, tutte le amministrazioni stanno
 investendo gran parte delle loro energie nell’attuazione del Piano
-Nazionale di Ripresa e Resilienza [12]_, un programma “di portata
+Nazionale di Ripresa e Resilienza [23]_, un programma “di portata
 e ambizione inedite, che prevede investimenti e riforme per
 accelerare la transizione ecologica e digitale; migliorare la
 formazione delle lavoratrici e dei lavoratori e conseguire una
@@ -31,14 +31,14 @@ povertà, all’esclusione sociale e alle disuguaglianze. Il Next
 Generation EU può essere l’occasione per riprendere un percorso di
 crescita economica sostenibile e duraturo rimuovendo gli ostacoli
 che hanno bloccato la crescita italiana negli ultimi decenni”
-[13]_.
+[24]_.
 
 In coerenza con gli obiettivi del PNRR, nell’ambito della Missione
 1 “Digitalizzazione, innovazione, competitività, cultura e
 turismo”, Componente 3 “Turismo e Cultura 4.0” il Ministero della
 cultura ha previsto uno specifico investimento denominato
 “Strategie e piattaforme digitali per il patrimonio culturale”
-[14]_ con lo scopo di attuare un progetto organico e strutturato
+[25]_ con lo scopo di attuare un progetto organico e strutturato
 per:
 
 1. sviluppare il potenziale delle banche dati culturali e delle
@@ -82,10 +82,10 @@ andando a creare quelle infrastrutture nazionali abilitanti
 nell’ottica di concorrere al conseguimento degli obiettivi di
 digitalizzazione previsti dalla “Raccomandazione della Commissione
 EU sulla creazione di uno spazio dei dati europeo per il
-patrimonio culturale” del novembre 2021 [15]_ nei termini
+patrimonio culturale” del novembre 2021 [26]_ nei termini
 cronologici indicati e a partecipare, come già ricordato
 nell’incipit del Piano, al Cloud collaborativo europeo per il
-patrimonio culturale [16]_.
+patrimonio culturale [27]_.
 
 |image0|
 
@@ -172,12 +172,12 @@ da tutte le istituzioni ai vari livelli di governo.
   processi.rst
   persone.rst
 
-.. [12] Per una visione complessiva del PNRR si rimanda al sito informativo della Presidenza del Consiglio dei Ministri https://italiadomani.gov.it/it/home.html
+.. [23] Per una visione complessiva del PNRR si rimanda al sito informativo della Presidenza del Consiglio dei Ministri https://italiadomani.gov.it/it/home.html
 
-.. [13] Cfr.  https://italiadomani.gov.it/content/dam/sogei-ng/documenti/PNRR%20Aggiornato.pdf
+.. [24] Cfr.  https://italiadomani.gov.it/content/dam/sogei-ng/documenti/PNRR%20Aggiornato.pdf
 
-.. [14] Per un approfondimento dell’investimento PNRR 1.1 “Strategie e piattaforma digitali per il patrimonio culturale” si rimanda ai seguenti link: https://pnrr.cultura.gov.it/
+.. [25] Per un approfondimento dell’investimento PNRR 1.1 “Strategie e piattaforma digitali per il patrimonio culturale” si rimanda ai seguenti link: https://pnrr.cultura.gov.it/
 
-.. [15] Raccomandazione (UE) 2021/1970 della Commissione del 10 novembre 2021 relativa a uno spazio comune europeo di dati per il patrimonio culturale (OJ L 401 12.11.2021, p. 5, CELEX: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021H1970).
+.. [26] Raccomandazione (UE) 2021/1970 della Commissione del 10 novembre 2021 relativa a uno spazio comune europeo di dati per il patrimonio culturale (OJ L 401 12.11.2021, p. 5, CELEX: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021H1970).
 
-.. [16] Cfr. note 5 e 6 :ref:`contesto` .
+.. [27] Cfr. note 5 e 6 :ref:`contesto` .
