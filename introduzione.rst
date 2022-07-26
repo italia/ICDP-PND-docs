@@ -28,8 +28,7 @@ intrattenere relazioni fisiche con il patrimonio culturale e i
 suoi fruitori, ha evidenziato la necessità di accelerare i
 processi di trasformazione digitale già in atto nei luoghi della
 cultura; inoltre, ha dimostrato che per traguardare la
-straordinarietà dell’emergenza occorrono strategie lungimiranti.
-Superata la fase più acuta della crisi sanitaria, rimane la
+straordinarietà dell’emergenza occorrono strategie lungimiranti. Superata la fase più acuta della crisi sanitaria, rimane la
 consapevolezza che il digitale non è solo un’alternativa
 congiunturale, ma rappresenta una grande opportunità per creare
 un ecosistema della cultura capace di incrementare la domanda

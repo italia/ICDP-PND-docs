@@ -10,8 +10,8 @@ istituzioni culturali persegue obiettivi di cambiamento specifici:
    migliorare l’inclusione culturale;
 
 -  ampliare le pratiche di digitalizzazione includendo oltre ai
-   beni culturali anche i servizi all’utenza in **processi
-   end-to-end**\*, in modo da monitorare l’efficacia e
+   beni culturali anche i servizi all’utenza in :term:`processi
+   end-to-end` *, in modo da monitorare l’efficacia e
    l’efficienza delle singole funzioni o attività, nonché
    dell’organizzazione nel suo complesso implementando azioni di
    tempestiva risoluzione di problemi e di miglioramento continuo
@@ -44,7 +44,7 @@ patrimonio culturale.
 
 Questi obiettivi possono essere raggiunti garantendo un accesso
 al patrimonio culturale più ampio e stabile;
-l’**accessibilità**\*, quindi, non rappresenta solo un diritto
+l’:term:`accessibilità` *, quindi, non rappresenta solo un diritto
 dei cittadini ma il dovere di ogni istituto culturale,
 esprimendosi su un doppio fronte:
 
@@ -81,7 +81,7 @@ Per conseguire tale obiettivo sarà dunque necessario:
    secondo formati standard dei dati, prediligendo formati aperti
    e sistemi collaborativi;
 
--  associare alle risorse digitali **licenze d’uso**\* chiare e
+-  associare alle risorse digitali :term:`licenze d’uso` * chiare e
    in grado di garantire il riuso dei contenuti [16]_;
 
 -  consentire la riproducibilità dei dati per poterli combinare
@@ -91,7 +91,7 @@ Per conseguire tale obiettivo sarà dunque necessario:
 
 -  Progettare soluzioni insieme agli utenti, secondo i principi
    dello *universal design* (progettazione universale) [17]_,
-   dello **user-centered design**\* (progettazione centrata
+   dello :term:`user-centered design` * (progettazione centrata
    sull’utente) e della progettazione partecipativa.
 
 Si tratta di utilizzare metodi e tecnologie concepiti per
@@ -142,8 +142,8 @@ sono necessari:
 -  un approccio coerente, valorizzato da idonee competenze
    digitali;
 
--  la capacità di valutare l’attuale livello di **maturità
-   digitale**\* e l’adeguatezza delle tecnologie da utilizzare;
+-  la capacità di valutare l’attuale livello di :term:`maturità
+   digitale` * e l’adeguatezza delle tecnologie da utilizzare;
 
 -  la riconsiderazione dei rapporti da instaurare con i
    differenti segmenti di pubblico, in qualità di co-creatori di
@@ -245,8 +245,8 @@ il superamento di schemi operativi e prassi organizzative
 consolidatesi nel tempo, muovendo:
 
 -  dai sistemi verticali indipendenti e auto-conclusi - i
-   cosiddetti **silos di dati**\* - a un’infrastruttura comune
-   distribuita, costituita da servizi e **sistemi federati**\*,
+   cosiddetti :term:`silos di dati` * - a un’infrastruttura comune
+   distribuita, costituita da servizi e :term:`sistemi federati` *,
    con l’obiettivo di far evolvere progressivamente i
    tradizionali sistemi integrati verticali verso nuovi sistemi
    orizzontali e stratificati, che coinvolgono una pluralità di

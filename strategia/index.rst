@@ -49,8 +49,8 @@ per:
 
 2. garantire l'uso e l'accessibilità a lungo termine degli archivi
    digitali e dei prodotti di digitalizzazione del patrimonio
-   culturale, adottando le nuove strategie di **conservazione**\*
-   (approccio **cloud**\*) e capitalizzando i vantaggi che offrono
+   culturale, adottando le nuove strategie di :term:`conservazione` *
+   (approccio :term:`cloud` *) e capitalizzando i vantaggi che offrono
    in termini di sicurezza e durata nel tempo;
 
 3. semplificare i rapporti con i cittadini e le imprese,

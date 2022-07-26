@@ -119,7 +119,7 @@ interni dell’amministrazione e che prevede un costante
 aggiornamento, monitoraggio e coinvolgimento degli utenti finali.
 Inoltre, esso consente di verificare il rispetto dei principi e la
 corretta applicazione della normativa nazionale per la produzione
-e pubblicazione dei **dati aperti**\* (*Open Data*) [37]_.
+e pubblicazione dei :term:`dati aperti` * (*Open Data*) [37]_.
 
 Il primo elemento per una corretta gestione dei processi di
 digitalizzazione, è l’individuazione dei diversi livelli di
@@ -288,8 +288,8 @@ anche economica, del patrimonio culturale digitalizzato, tanto da
 parte degli istituti pubblici che dei soggetti privati. L'attuale
 sistema di autorizzazione/concessione sulla singola immagine od
 oggetto audio-video, è destinato nel tempo ad essere sostituito
-dalla gestione (anche **machine to machine**\*) degli accessi alle
-risorse contenute nelle **Digital Library**\* locali e nazionali,
+dalla gestione (anche :term:`machine to machine` *) degli accessi alle
+risorse contenute nelle :term:`Digital Library` * locali e nazionali,
 applicando politiche di licenzamirate al concetto di “servizio”
 piuttosto che sull’anacronistica nozione di “prodotto”. In questo
 modo il processo di gestione dei riusi commerciali può essere
@@ -338,7 +338,7 @@ norme sovraordinate; in particolare si fa qui riferimento:
    diritto d’autore.
 
 Analizzando una recente ricerca empirica sull'adozione di
-politiche di **Open Access**\* presso istituti GLAM (*Galleries,
+politiche di :term:`Open Access` * presso istituti GLAM (*Galleries,
 Libraries, Archives, Museums*) di tutto il mondo [47]_, è
 possibile constatare come l’apertura dei dati non sia una pratica
 ancora adottata sistematicamente dagli istituti culturali italiani

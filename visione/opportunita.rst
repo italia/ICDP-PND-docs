@@ -67,7 +67,7 @@ processo di co-creazione che rende concreta la prospettiva della
 trasformazione digitale.
 
 Le nuove logiche di produzione contenutistica investono anche le
-attività di **crowdsourcing**\*, quali forme di collaborazione
+attività di :term:`crowdsourcing` *, quali forme di collaborazione
 generativa di comunità d’interesse (cfr. par. :ref:`co_creazione_crowdsorcing`). Esse si
 caratterizzano non solo per la partecipazione proattiva del
 pubblico, ma anche perché esplicitano il processo attraverso cui
@@ -98,7 +98,7 @@ L’obiettivo perseguito sino ad oggi è stato rendere visibile e
 accessibile l’imponente messe di informazioni prodotte negli anni
 dalle istituzioni culturali relativamente ai patrimoni
 conservati; un approccio basato evidentemente sui dati intesi
-come prodotto offerto (**data as a service**\*). La
+come prodotto offerto (:term:`data as a service` *). La
 trasformazione digitale dei luoghi della cultura offre
 l’opportunità di invertire la prospettiva basata sulla quantità
 delle risorse pubblicate online, per concentrarsi invece sulla
@@ -110,7 +110,7 @@ sistematico, ma percepiti come riflessi di altri ambiti.
 All’interno dell’ecosistema digitale, è fondamentale progettare
 servizi capaci di offrire agli individui processi di conoscenza
 intesi come un’autentica esperienza di crescita culturale
-(**knowledge as a service**\*).
+(:term:`knowledge as a service` *).
 
 Un design esperienziale, dunque, deve soddisfare il desiderio
 degli utenti di sentirsi protagonisti attivi e non spettatori
@@ -137,7 +137,7 @@ approccio inclusivo.
 
 In questo contesto, l’erogazione di servizi progettati secondo le
 evidenze delle tecniche di studio dei percorsi che l’utente fa
-nell’esperire un servizio (**user journey**\*) e fruibili
+nell’esperire un servizio (:term:`user journey` *) e fruibili
 indifferentemente su diversi dispositivi rispettando i criteri di
 accessibilità, offre ai singoli istituti potenzialità infinite
 per rinnovare le modalità di relazione con i propri pubblici.
