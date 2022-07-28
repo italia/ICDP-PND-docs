@@ -132,7 +132,7 @@ o commerciali, a una elaborazione collettiva più matura e partecipata,
 tendente a rimuovere le repliche tecnologicamente aggiornate di visioni
 tradizionali, ideologiche o stereotipate.
 
-Le pratiche e i :term:`processi di patrimonializzazione` * che stanno
+Le pratiche e i **processi di patrimonializzazione\*** che stanno
 spontaneamente emergendo nelle comunità territoriali, sociali e
 politiche possono prosperare nell’ambiente digitale: si tratta di un
 percorso già individuato dalla Convenzione di Faro come indicativo di un

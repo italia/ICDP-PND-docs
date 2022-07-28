@@ -49,7 +49,7 @@ interessi dell'individuo, in conformità con i valori, i diritti
 fondamentali e le normative europee, oltre ai dettami di quella
 nazionale. Allo stesso tempo, il volume crescente di dati prodotti
 dagli istituti e dai cittadini nelle loro interazioni con il
-patrimonio culturale (:term:`big data:` *), combinato con il
+patrimonio culturale (**big data**\*), combinato con il
 cambiamento tecnologico delle relative modalità di archiviazione
 ed elaborazione, costituirà una fonte di crescita e innovazione
 che sarebbe colpevole non sfruttare.  Questo significa che i dati
@@ -113,7 +113,7 @@ spazio dei dati che si andrà generando è pensato separato, sia
 logicamente che fisicamente, dalle applicazioni di *front-end*
 destinate al pubblico; queste utilizzeranno i dati esposti
 dall’infrastruttura software attraverso specifiche API
-(:term:`Application Programming Interface` *) fruibili da un numero
+(**Application Programming Interface**\*) fruibili da un numero
 quanto più ampio possibile di utenti/sistemi [28]_. In questo modo
 è possibile per tutti i sistemi partecipanti accedere ai dati
 derivanti da una vasta comunità *cross domain*, processati e
@@ -122,7 +122,7 @@ creazione di applicazioni che rispondano alle esigenze di utenze
 sempre più eterogenee e sofisticate (cfr. par. :ref:`tecnologie_abilitanti_user_centered_design` ).
 
 L’infrastruttura software del patrimonio culturale sarà
-caratterizzata dalla flessibilità dei :term:`modelli` * concettuali
+caratterizzata dalla flessibilità dei **modelli**\* concettuali
 per l’integrazione dei dati, così da restituire molteplici e
 diverse interpretazioni, senza rinunciare allo spazio di
 conoscenza dei domini specialistici codificati negli standard di
@@ -327,7 +327,7 @@ culturali, in analogia con i progressi compiuti in termini di
 semplificazione, sicurezza ed efficienza al pari di altri servizi
 abilitanti come lo SPiD, la Carta Nazionale dei Servizi o PagoPA.
 Inoltre, potrà aprire la strada all’applicazione in futuro degli
-:term:`smart contract` * nell’ambito dei beni culturali, anche se tale
+**smart contract**\* nell’ambito dei beni culturali, anche se tale
 prospettiva al momento non è in fase di sviluppo.
 
 .. admonition:: Azioni previste a breve termine (2022)
@@ -360,7 +360,7 @@ sviluppi di prodotti e servizi interattivi (*interaction design*)e
 delle tecnologie di visualizzazione immersiva - come la realtà
 virtuale, aumentata e mista - ammettono sguardi inediti sulle
 collezioni e consegnano agli operatori culturali potenti strumenti
-per l’:term:`edutainment` * (educazione e intrattenimento), la
+per l’**edutainment**\* (educazione e intrattenimento), la
 comunicazione, e lo studio e il godimento dei beni e del
 patrimonio di conoscenze che li accompagnano; i *big data*,
 sebbene non siano ancora pienamente sfruttati nel settore

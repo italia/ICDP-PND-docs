@@ -2,8 +2,8 @@ Valori
 ======
 
 I valori fondativi della visione del PND ruotano attorno ai
-concetti chiave di :term:`paesaggio culturale` *, :term:`patrimonio
-culturale digitale` * e :term:`relazioni` *. Questi valori creano un
+concetti chiave di **paesaggio culturale**\*, **patrimonio
+culturale digitale**\* e **relazioni\***. Questi valori creano un
 terreno comune su cui operare e costituiscono la premessa per il
 raggiungimento di specifici obiettivi di cambiamento all’interno
 di un progetto di ampio respiro. In questa prospettiva, la
@@ -114,7 +114,7 @@ digitali, possano convivere con visioni differenti e con
 connessioni storicamente profonde e geograficamente ampie del
 patrimonio italiano, da cui derivano interpretazioni e
 costruzioni di senso rispondenti a diversi usi sociali, a partire
-da una corretta “ricostruzione digitale” del :term:`contesto:` * di
+da una corretta “ricostruzione digitale” del **contesto**\* di
 provenienza (cfr. par. :ref:`estensione_del_patrimonio_culturale_per_nuovi_pubblici` ).
 
 .. _patrimonio_culturale_digitale:
@@ -124,8 +124,8 @@ Patrimonio culturale digitale
 
 Il Consiglio dell’Unione Europea [13]_ ha incluso tra le forme del
 patrimonio culturale, oltre ai beni materiali e immateriali,
-anche le :term:`risorse digitali` *, nella duplice accezione di
-:term:`digitale nativo` * e di prodotti/servizi derivati dai processi
+anche le **risorse digitali\***, nella duplice accezione di
+**digitale nativo**\* e di prodotti/servizi derivati dai processi
 di digitalizzazione. Si tratta di un passaggio importante, perché
 supera la funzione ancillare del bene digitale come replica o
 copia dell’originale fisico e afferma la legittimità di un
@@ -148,7 +148,7 @@ pluralità. Gli oggetti del patrimonio culturale digitale,
 inoltre, ambiscono a saldare tradizione, storia e memoria secondo
 formule variabili, determinate dall’intenzione creatrice o dalle
 successive interpolazioni favorite dai processi di
-:term:`co-creazione` *.  Infine, uniscono tempi, beni (materiali o
+**co-creazione**\*.  Infine, uniscono tempi, beni (materiali o
 immateriali), luoghi e persone, perché l’originale significato
 patrimoniale di cui sono latori si situa sempre all’interno di
 percorsi concettuali e di senso.
