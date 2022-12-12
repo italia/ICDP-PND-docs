@@ -52,7 +52,7 @@ pubblici”: ciò che ci si attende quindi oggi dalle applicazioni
 digitali di accesso al patrimonio culturale è l’opportunità per
 qualsiasi utente di partecipare, sperimentare, interagire,
 diffondere e riutilizzare il patrimonio culturale pubblico; in
-questa direzione è pensata anche la piattaforma di accesso
+questa direzione è pensata anche la *piattaforma* di accesso
 prevista nell’ambito dell’investimento del PNRR (cfr. par. :ref:`disseminazione_culturale_condivisione_sociale` ), che metterà a disposizione contenuti culturali resi
 accessibili ad un bacino di utenti molto ampio, siano essi
 consumatori finali, imprese interessate alla creazione di
@@ -148,7 +148,7 @@ tipologie di utenza, con l’obiettivo di offrire un’esperienza
 fluida e soddisfacente; un approccio, dunque, non solo
 tecnologico, ma ispirato alla qualità dei servizi, verificata
 sull’intero percorso di fruizione dell’utente - prima, durante e
-dopo l’esperienza d’uso -, sulla base di processi pensati
+dopo l’esperienza d’uso -, sulla base di *processi* pensati
 *end-to-end* (dal gestore al fruitore e viceversa). Per un
 approfondimento della relazione tra servizi, processi e modelli
 di gestione si rimanda alle indicazioni contenute nelle *Linee
@@ -237,8 +237,8 @@ necessariamente rispondere dinamicamente alle sollecitazioni
 dell’ambiente; ciò rappresenta la più grande sfida, ma anche una
 straordinaria opportunità per gli istituti culturali.
 
-.. [20] Si rimanda alla parola “accessibilità" definita all‘interno del paragrafo ”Parole chiave” posta in coda al documento, dove è presente anche la relativa rispondenza normativa.
+.. [20] Si rimanda alla parola "accessibilità" definita all‘interno del paragrafo "Parole chiave” posta in coda al documento, dove è presente anche la relativa rispondenza normativa.
 
-.. [21] Per la progettazione di servizi web si rimanda alle *Linee Guida di design per i servizi web delle PA* redatte dall’Agenzia per l’Italia digitale: https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/index.html (Ultima consultazione: 24/06/2022).
+.. [21] Per la progettazione di servizi web si rimanda alle *Linee Guida di design per i servizi web delle PA* redatte dall’Agenzia per l’Italia digitale: https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/index.html.
 
 .. [22] In riferimento agli enti coinvolti e al team di progetto connessi alle attività di digitalizzazione, si veda l’Allegato tecnico “Linee guida per la Digitalizzazione del patrimonio culturale”, sezione C e l’allegato tecnico “Linee guida per la redazione del Piano di gestione dei dati”, sezione *Data Governance* interna.

@@ -1,8 +1,9 @@
 Struttura del documento
 =======================
 
-La presente versione del PND #2022-2023 è articolata in tre
-sezioni, tra loro collegate in una dimensione di processo (Figura
+La presente versione 1.1 del PND #2022-2023 sostituisce la versione 1.0 approvata con decreto direttoriale 30 giugno 2022, rep. 12.
+
+Il Piano è articolato in tre sezioni, tra loro collegate in una dimensione di processo (Figura
 1):
 
 1. Visione: prefigura le traiettorie e le opportunità di cambiamento, indicando gli obiettivi a lungo termine (cap. :ref:`visione` );

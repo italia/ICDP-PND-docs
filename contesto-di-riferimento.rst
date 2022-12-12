@@ -49,7 +49,7 @@ considerare come sia possibile garantire più facilmente
 profondità scientifica in contesti circoscritti e omogenei
 disciplinarmente.
 
-Tuttavia oggi un tale sistema così granularmente articolato
+Tuttavia oggi un sistema articolato in modo così granularmente
 mostra alcuni punti di debolezza che vanno affrontati con una
 strategia che sia in grado di mitigarne i limiti connessi:
 

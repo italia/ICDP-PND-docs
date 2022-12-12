@@ -13,7 +13,7 @@ livello nazionale, come pre-condizione abilitante per lo sviluppo
 di un ecosistema digitale della cultura. Questo ovviamente non
 esaurisce né sostituisce le azioni che ciascun comparto
 istituzionale o settore disciplinare metterà in campo a partire da
-ciò che viene realizzato dal Ministero a servizio di tutto
+ciò che viene realizzato dal Ministero, d'intesa con le Regioni, a servizio di tutto
 l’ecosistema.
 
 Nel contesto storico attuale, tutte le amministrazioni stanno
@@ -74,9 +74,9 @@ avviati negli anni passati e accelerati durante la pandemia, per
 raggiungere quegli obiettivi di cambiamento descritti in
 precedenza (cfr. par. :ref:`visione-obiettivi`). Data l’ampiezza del programma
 PNRR e il potenziale trasformativo delle azioni che saranno
-introdotte in tale contesto, l’investimento è articolato in 12
-misure tra loro correlate che, come evidenziato dal grafico di
-fig.  3, tengono conto di tutte le componenti dell’ecosistema
+introdotte in tale contesto, l’investimento è articolato in
+misure progettuali tra loro correlate che, come evidenziato dal grafico della
+figura  3, tengono conto di tutte le componenti dell’ecosistema
 andando a creare quelle infrastrutture nazionali abilitanti
 (hardware, software e di governance) oggi mancanti. Questo anche
 nell’ottica di concorrere al conseguimento degli obiettivi di
@@ -147,14 +147,14 @@ sezione (Figura 4).
 
 |image1|
 
-.. |image1| image:: ../media/image5.png
+.. |image1| image:: ../media/fig-01.jpg
 
 Figura 4. *Schema dei contenuti della sezione Strategia del PND*
 
 I capitoli “Tecnologie abilitanti” e “Persone” fanno riferimento
 per la parte operativa alle piattaforme abilitanti previste nel
 PNRR; il capitolo “Processi”, invece, fa riferimento a quanto
-approfondito nelle Linee guida allegate al Piano.
+approfondito nelle linee guida allegate al Piano.
 
 Per ciascuna linea strategica individuata in questa prima versione
 del PND vengono individuate le azioni a breve, medio e lungo
