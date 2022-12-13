@@ -90,7 +90,7 @@ scienza co-creativa e dalla partecipazione di un’ampia gamma di
 stakeholder. Il risvolto concettuale di questo cambio di
 paradigma è l'attuale nozione di patrimonio culturale, che
 integra la diversità del secolare patrimonio culturale europeo
-(storico-artistica, naturale, immateriale, ecc.) con i diversi
+(storico-artistico, naturale, immateriale, ecc.) con i diversi
 livelli di governo (locale, regionale, nazionale, europeo,
 universale). In virtù di questa nozione che si sta configurando,
 il patrimonio culturale: 1) fornisce le prospettive per
@@ -98,9 +98,7 @@ abbracciare la transizione verde, reinterpretando il rapporto tra
 patrimonio culturale e naturale; 2) sostiene la coesione sociale
 coinvolgendo cittadini, ricercatori ed esperti all'interno delle
 comunità del patrimonio; 3) tutela e trasmette al futuro i beni
-culturali materiali. In altre parole, questo patrimonio culturale
-europeo è verde (sostenibile), innovativo (che fornisce
-occupazione nelle ICC – Imprese Culturali e Creative) e digitale.
+culturali materiali. In altre parole, questo patrimonio culturale europeo è verde (sostenibile), innovativo (che fornisce occupazione nelle ICC – Imprese Culturali e Creative) e digitale.
 Il patrimonio culturale digitale contemporaneo non è solo
 tecnologicamente prevalente, ma apre anche la strada a un nuovo
 mondo digitale incentrato sull'uomo, in cui il Cloud
@@ -111,8 +109,7 @@ L’esigenza di dotarsi di un Piano è quindi anche funzionale alla
 piena adesione da parte italiana, quale Stato membro dell’Unione,
 all’impianto della cooperazione culturale a livello europeo. La
 costruzione di un patrimonio culturale digitale nazionale,
-composto da oggetti collocabili nello spazio informativo dell’\ :term:`infosfera` *, può rappresentare per l’Italia l'occasione per
-recuperare e interpretare un ruolo rilevante sulla scena
+composto da oggetti collocabili nello spazio informativo dell’\ :term:`infosfera` *, può rappresentare per l’Italia l'occasione per recuperare e interpretare un ruolo rilevante sulla scena
 culturale globale, senza rinunciare alla propria storica
 tradizione di tutela.
 
@@ -132,7 +129,7 @@ un’operazione temporanea, più o meno efficace.
    https://www.istat.it/it/cultura-comunicazione-viaggi?dati;
    https://www.istat.it/it/archivio/cultura.
 
-.. [2] Cfr. le diverse fonti del MiC suddivise per settore: DB
+.. [2] Cfr. Le diverse fonti del MiC suddivise per settore: DB
    Unico dei luoghi della cultura (https://dati.beniculturali.it/lodview/resource/datasetLuoghiDellaCultura.html); SAN – Sistema archivistico nazionale (http://san.beniculturali.it/web/san/ricerca-negli-archivi); ICCU - Istituto centrale per il catalogo unico delle biblioteche, Anagrafe delle biblioteche italiane https://anagrafe.iccu.sbn.it/it/statistiche/statistiche-al-31-12-2020).
 
 .. [3] Secondo il Codice dei Beni culturali e del paesaggio si definiscono *Istituti e Luoghi della Cultura* le seguenti tipologie: *Museo* “una struttura permanente che acquisisce, cataloga, conserva, ordina ed espone beni culturali per finalità di educazione e di studio”; *Biblioteca* “una struttura permanente che raccoglie, cataloga e conserva un insieme organizzato di libri, materiali e informazioni, comunque editi o pubblicati su qualunque supporto, e ne assicura la consultazione al fine di promuovere la lettura e lo studio”; *Archivio* “una struttura permanente che raccoglie, inventaria e conserva documenti originali di interesse storico e ne assicura la consultazione per finalità di studio e di ricerca\ \ *”; Area archeologica*: “un sito caratterizzato dalla presenza di resti di natura fossile o di manufatti o strutture preistorici o di età antica”; *Parco archeologico* “un ambito territoriale caratterizzato da importanti evidenze archeologiche e dalla compresenza di valori

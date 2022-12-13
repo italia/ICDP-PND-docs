@@ -83,11 +83,15 @@ catene di produzione e distribuzione dei contenuti, consentendo
 così agli utenti di produrre, modificare e proporre non solo
 nuove classificazioni dei contenuti, ma anche rinnovate forme di
 documentazione della cultura materiale e immateriale attraverso
-linguaggi nuovi o interventi creativi. In questo modo è possibile
-andare incontro al segmento meno noto (segmento “aperto”) dei
-fruitori del patrimonio culturale digitale (cfr. par. :ref:`capitale_semantico_delle_relazioni` ),
+linguaggi nuovi o interventi creativi. In questo modo è possibile andare incontro al segmento meno noto (segmento “aperto”) dei fruitori del patrimonio culturale digitale (cfr. par. :ref:`capitale_semantico_delle_relazioni` ),
 consolidando nuovi pubblici e con essi il potere di generare
 visioni ulteriori del patrimonio culturale.
+
+|image0|
+
+.. |image0| image:: ../media/fig-03.jpg
+*Figura 3. Traiettoria 1 – dagli oggetti alle relazioni: il passaggio concettuale da sistemi chiusi autosufficienti a sistemi aperti interdipendenti"
+
 
 Processi per il design di nuovi servizi
 ---------------------------------------
@@ -122,8 +126,7 @@ Progettare servizi basati su questi criteri significa sviluppare
 processi generativi capaci non solo di accogliere e indicizzare i
 contenuti, ma di valorizzarne le relazioni, che rappresentano la
 vera ricchezza del patrimonio informativo del sistema dei beni
-culturali.  Tali servizi dovranno essere progettati per un’utenza
-ampliata, rispettando i criteri di accessibilità [20]_ e usabilità
+culturali.  Tali servizi dovranno essere progettati per un’utenza ampliata, rispettando i criteri di accessibilità [20]_ e usabilità
 [21]_, utilizzando una pluralità di modalità comunicative che
 facciano ricorso alla multi-sensorialità, all’interattività, ad
 ausili e/o supporti tecnologici assistivi o con configurazioni
@@ -177,6 +180,11 @@ online, soluzioni di *gamification*, edizioni digitali in serie
 limitata, app, podcast, audiolibri, chatbot, modelli
 tridimensionali, ecc.).
 
+|image1|
+
+.. |image1| image:: ../media/fig-04.jpg
+*Figura 4. Traiettoria 2 – dall’informatizzazione alla trasformazione digitale: i vari aspetti della digitalizzazione*
+
 Modelli di conoscenza per nuove organizzazioni
 ----------------------------------------------
 
@@ -215,16 +223,7 @@ questo universo possiamo infatti individuare in modo schematico:
 
 Per creare catene di valore in un ecosistema così strutturato,
 occorre trovare linguaggi, forme comunicative e soluzioni
-tecnologiche capaci di rappresentare la stratificazione semantica
-degli oggetti digitali, limitando il potere dispersivo della
-rete. Il principale rischio connesso alla veicolazione di
-informazioni complesse e di dati collegati reciprocamente, è
-quello di disorientare gli utenti e disperdere i nessi logici fra
-le risorse nell’oceano informativo del web. Arginare tale
-pericolo è il compito di un sistema organizzativo costruito
-attorno a nuove figure professionali che possiedano le competenze
-necessarie per guidare le traiettorie di cambiamento
-dell’innovazione digitale.
+tecnologiche capaci di rappresentare la stratificazione semantica degli oggetti digitali, limitando il potere dispersivo della rete. Il principale rischio connesso alla veicolazione di informazioni complesse e di dati collegati reciprocamente, è quello di disorientare gli utenti e disperdere i nessi logici fra le risorse nell’oceano informativo del web. Arginare tale pericolo è il compito di un sistema organizzativo costruito attorno a nuove figure professionali che possiedano le competenze necessarie per guidare le traiettorie di cambiamento dell’innovazione digitale.
 
 Il presidio delle fasi dei progetti di digitalizzazione palesa la
 necessità di definire una struttura organizzativa interna
@@ -236,6 +235,11 @@ rapido mutamento, i nuovi modelli organizzativi devono
 necessariamente rispondere dinamicamente alle sollecitazioni
 dell’ambiente; ciò rappresenta la più grande sfida, ma anche una
 straordinaria opportunità per gli istituti culturali.
+
+|image2|
+
+.. |image2| image:: ../media/fig-05.jpg
+*Figura 5. Traiettoria 3 – dalla produzione di dati alla creazione di contenuti: le componenti dell’ecosistema digitale culturale"
 
 .. [20] Si rimanda alla parola "accessibilità" definita all‘interno del paragrafo "Parole chiave” posta in coda al documento, dove è presente anche la relativa rispondenza normativa.
 

@@ -1,8 +1,6 @@
 Struttura del documento
 =======================
 
-La presente versione 1.1 del PND #2022-2023 sostituisce la versione 1.0 approvata con decreto direttoriale 30 giugno 2022, rep. 12.
-
 Il Piano è articolato in tre sezioni, tra loro collegate in una dimensione di processo (Figura
 1):
 
@@ -14,7 +12,7 @@ Il Piano è articolato in tre sezioni, tra loro collegate in una dimensione di p
 
 |image0|
 
-*Figura 1. Schema grafico che sintetizza la struttura del PND*
+*Figura 1. Rappresentazione grafica della struttura e dei contenuti del PND*.
 
 Nel testo che segue, le parole evidenziate con asterisco e
 **grassetto\*** trovano un approfondimento nel capitolo “Parole
@@ -50,7 +48,7 @@ dell’informazione e della comunicazione. Tuttavia l’insieme di
 testo, linee guida, approfondimenti, note, bibliografia e
 riferimenti normativi si ritiene possa consentire la comprensione
 complessiva dei contenuti ed essere di ausilio per incrementare
-alcune conoscenze. Saranno comunque divulgate sintesi e tutorial
-per una miglior metabolizzazione dei contenuti.
+alcune conoscenze. Saranno comunque divulgate sintesi e strumenti
+per facilitare la comprensione e fruizione dei contenuti.
 
-.. |image0| image:: ./media/image2.png
+.. |image0| image:: ./media/fig-01.png

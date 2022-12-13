@@ -289,7 +289,7 @@ accorcia i tempi di intervento.
   :ref:`sistema_certificazione_identita_digitale`
 
 
-.. [14] Si vedano le Linee guida per il superamento delle barriere architettoniche nei luoghi di interesse culturale, https://www.beniculturali.it/mibac/multimedia/MiBAC/documents/1311244354128_plugin-LINEE_GUIDA_PER_IL_SUPERAMENTO_DELLE_BARRIERE_ARCHITETTONICHE.pdf, pubblicate nel 2008.
+.. [14] Si vedano le Linee guida per il superamento delle barriere architettoniche nei luoghi di interesse culturale, pubblicate nel 2008 https://www.beniculturali.it/mibac/multimedia/MiBAC/documents/1311244354128_plugin-LINEE_GUIDA_PER_IL_SUPERAMENTO_DELLE_BARRIERE_ARCHITETTONICHE.pdf.
 
 .. [15] Ministero dei beni e delle attività culturali e del turismo e le Linee guida per la redazione del Piano di eliminazione delle barriere architettoniche (P.E.B.A) nei musei, complessi museali, aree e parchi archeologici: http://musei.beniculturali.it/wp-content/uploads/2015/11/Linee-guida-per-la-redazione-del-Piano-di-eliminazione-delle-barriere-architettoniche-P.E.B.A-nei-musei-complessi-monumentali-aree-e-parchi-archeologici.pdf
 

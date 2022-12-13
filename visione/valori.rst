@@ -30,8 +30,7 @@ Contesti come paesaggi culturali
 
 Accanto alla concezione attuale di patrimonio culturale, che
 scaturisce dal sistema di tutela così come si è consolidato
-dall’inizio del secolo scorso nel sistema statale - e *latu
-sensu* “pubblico” - è cresciuta negli ultimi anni una visione
+dall’inizio del secolo scorso nel sistema statale - e in senso lato “pubblico” - è cresciuta negli ultimi anni una visione
 incentrata sulle pratiche sociali sotto l’impulso di organismi
 sovranazionali (Unesco e ICOM prima, Commissione Europea poi). La
 prima lettura si focalizza sui beni culturali, sulla loro

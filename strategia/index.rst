@@ -89,7 +89,7 @@ patrimonio culturale [27]_.
 
 |image0|
 
-.. |image0| image:: ../media/image4.png
+.. |image0| image:: ../media/fig-03.jpg
 
 Figura 3. *Sistema di relazioni tra gli stream progettuali
 dell’investimento M1C3 1.1 “Strategie e piattaforme digitali per
