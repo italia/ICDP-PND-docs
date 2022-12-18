@@ -90,7 +90,7 @@ visioni ulteriori del patrimonio culturale.
 |image0|
 
 .. |image0| image:: ../media/fig-03.jpg
-*Figura 3. Traiettoria 1 – dagli oggetti alle relazioni: il passaggio concettuale da sistemi chiusi autosufficienti a sistemi aperti interdipendenti"
+Figura 3. *Traiettoria 1 – dagli oggetti alle relazioni: il passaggio concettuale da sistemi chiusi autosufficienti a sistemi aperti interdipendenti*.
 
 
 Processi per il design di nuovi servizi
@@ -99,7 +99,7 @@ Processi per il design di nuovi servizi
 La gestione di una crescente quantità di dati riguardanti i beni
 culturali rappresenta una sfida per gli operatori del patrimonio.
 L’obiettivo perseguito sino ad oggi è stato rendere visibile e
-accessibile l’imponente messe di informazioni prodotte negli anni
+accessibile l’imponente masse di informazioni prodotte negli anni
 dalle istituzioni culturali relativamente ai patrimoni
 conservati; un approccio basato evidentemente sui dati intesi
 come prodotto offerto (**data as a service**\*). La
@@ -170,7 +170,7 @@ Affinché tale processo sia duraturo e sostenibile, è necessario
 che le risorse digitali siano prodotte in una filiera certificata
 e mantenute nel tempo, rimanendo stabilmente accessibili nel
 lungo periodo (cfr. par. :ref:`digitalizzazione_ciclo_vita_risorsa_digitale`). In particolare, come evidenziato
-nelle stesse *Linee guida* sopracitate, le risorse digitali
+nelle stesse *linee guida* sopracitate, le risorse digitali
 potranno essere impiegate da utenti e imprese per la creazione e
 la produzione, sia offline che online, di prodotti e servizi a
 valore aggiunto di forme molto diverse (testi, video, visite
@@ -183,7 +183,7 @@ tridimensionali, ecc.).
 |image1|
 
 .. |image1| image:: ../media/fig-04.jpg
-*Figura 4. Traiettoria 2 – dall’informatizzazione alla trasformazione digitale: i vari aspetti della digitalizzazione*
+Figura 4. *Traiettoria 2 – dall’informatizzazione alla trasformazione digitale: i vari aspetti della digitalizzazione*.
 
 Modelli di conoscenza per nuove organizzazioni
 ----------------------------------------------
@@ -196,16 +196,13 @@ possibilità di creare nuovi modelli di conoscenza, collocati nel
 cuore dell’organizzazione degli istituti della cultura. Portare
 il patrimonio culturale al centro delle politiche per i
 cittadini, ponendo al cuore dell’ecosistema digitale non più le
-risorse, ma gli utenti e le relazioni che essi instaurano con gli
-oggetti digitali, è un processo che riscrive la catena del valore
-culturale e ridefinisce i modelli organizzativi delle
+risorse, ma gli utenti e le relazioni che essi instaurano con gli oggetti digitali, è un processo che riscrive la catena del valore culturale e ridefinisce i modelli organizzativi delle
 istituzioni, affermando il primato della conoscenza e della
 rilevanza sociale della diffusione dei saperi.
 
 Non si tratta di una questione esclusivamente tecnologica: le
 entità dell’ecosistema del patrimonio culturale che popolano
-l’ambiente digitale sono molteplici, e solo in parte delimitate e
-delimitabili nell’acronimo MAB (Musei, Archivi, Biblioteche) o
+l’ambiente digitale sono molteplici, e solo in parte delimitate e delimitabili nell’acronimo MAB (Musei, Archivi, Biblioteche) o
 GLAM (*Galleries, Libraries, Archives, Museum*). All’interno di
 questo universo possiamo infatti individuare in modo schematico:
 
@@ -225,8 +222,7 @@ Per creare catene di valore in un ecosistema così strutturato,
 occorre trovare linguaggi, forme comunicative e soluzioni
 tecnologiche capaci di rappresentare la stratificazione semantica degli oggetti digitali, limitando il potere dispersivo della rete. Il principale rischio connesso alla veicolazione di informazioni complesse e di dati collegati reciprocamente, è quello di disorientare gli utenti e disperdere i nessi logici fra le risorse nell’oceano informativo del web. Arginare tale pericolo è il compito di un sistema organizzativo costruito attorno a nuove figure professionali che possiedano le competenze necessarie per guidare le traiettorie di cambiamento dell’innovazione digitale.
 
-Il presidio delle fasi dei progetti di digitalizzazione palesa la
-necessità di definire una struttura organizzativa interna
+Il presidio delle fasi dei progetti di digitalizzazione palesa la necessità di definire una struttura organizzativa interna
 composta di diverse unità operative [22]_, che possono anche non
 essere permanentemente internalizzate o compresenti, ma che
 devono comunque essere attivate all’avvio dei progetti di
@@ -239,9 +235,9 @@ straordinaria opportunità per gli istituti culturali.
 |image2|
 
 .. |image2| image:: ../media/fig-05.jpg
-*Figura 5. Traiettoria 3 – dalla produzione di dati alla creazione di contenuti: le componenti dell’ecosistema digitale culturale"
+Figura 5. *Traiettoria 3 – dalla produzione di dati alla creazione di contenuti: le componenti dell’ecosistema digitale culturale*.
 
-.. [20] Si rimanda alla parola "accessibilità" definita all‘interno del paragrafo "Parole chiave” posta in coda al documento, dove è presente anche la relativa rispondenza normativa.
+.. [20] Si rimanda alla parola «accessibilità» definita all‘interno del paragrafo "Parole chiave” posta in coda al documento, dove è presente anche la relativa rispondenza normativa.
 
 .. [21] Per la progettazione di servizi web si rimanda alle *Linee Guida di design per i servizi web delle PA* redatte dall’Agenzia per l’Italia digitale: https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/index.html.
 

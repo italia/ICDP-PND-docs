@@ -48,7 +48,7 @@ piani di lettura (i capitoli in cui si articola il testo) (Figura
 |image0|
 
 .. |image0| image:: ../media/fig-02.jpg
-*Figura 2. Contenuti della sezione visione del pnd: in evidenza le relazioni fra i paragrafi*
+Figura 2. *Contenuti della sezione visione del pnd: in evidenza le relazioni fra i paragrafi*.
 
 .. toctree::
   :maxdepth: 3
@@ -58,4 +58,4 @@ piani di lettura (i capitoli in cui si articola il testo) (Figura
   obiettivi.rst
   opportunita.rst
 
-.. [11] La parola "servizio" verrà utilizzata in contesti molto diversi dei vari componenti che andranno a costituire il Piano nazionale di digitalizzazione (cfr. sezione :ref:`Parole chiave<parole_chiave>`). In questo caso, con l’espressione “nuovi servizi” si fa riferimento alle diverse tipologie di attività o prestazioni erogabili in formato digitale da parte dei luoghi della cultura, nell’ambito dello sviluppo della strategia di digitalizzazione del patrimonio culturale elaborata nel presente documento.
+.. [11] La parola «servizio» verrà utilizzata in contesti molto diversi dei vari componenti che andranno a costituire il Piano nazionale di digitalizzazione (cfr. sezione :ref:`Parole chiave<parole_chiave>`). In questo caso, con l’espressione “nuovi servizi” si fa riferimento alle diverse tipologie di attività o prestazioni erogabili in formato digitale da parte dei luoghi della cultura, nell’ambito dello sviluppo della strategia di digitalizzazione del patrimonio culturale elaborata nel presente documento.

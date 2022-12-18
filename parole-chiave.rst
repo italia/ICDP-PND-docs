@@ -56,7 +56,7 @@ del significato complessivo del Piano.
     concetto non solo di accessibilità ma anche di inclusività, ha
     introdotto il concetto di “utenza ampliata” secondo cui è necessario
     considerare le differenti caratteristiche individuali, dal bambino
-    all'anziano, includendo tra queste anche la molteplicità delle
+    all’anziano, includendo tra queste anche la molteplicità delle
     condizioni di disabilità, al fine di trovare soluzioni inclusive valide
     per tutti e non dedicate esclusivamente alle persone con disabilità (Del
     Zanna, 2015). Il tema dell’inclusività è stato ripreso anche dall’Agenda
@@ -65,20 +65,20 @@ del significato complessivo del Piano.
     apprendimento per tutti”.
 
   Application Programming Interface (API)
-    Un'interfaccia di programmazione delle applicazioni (API) è un insieme
+    Un’interfaccia di programmazione delle applicazioni (API) è un insieme
     di protocolli, funzioni e/o comandi che i programmatori usano per
-    facilitare l'interazione tra servizi e software distinti; sono dunque
+    facilitare l’interazione tra servizi e software distinti; sono dunque
     interfacce con cui le macchine si relazionano. Le API permettono a un
     servizio software di accedere ai dati di un altro servizio software
-    senza che lo sviluppatore debba sapere come funziona l'altro servizio. A
+    senza che lo sviluppatore debba sapere come funziona l’altro servizio. A
     livello tecnico, esse permettono ad agenti eterogenei di accedere
     dinamicamente e riutilizzare gli stessi set di dati e flussi di lavoro
     standardizzati. Attraverso le API i dati possono dunque essere
     interrogati, estratti, scambiati, arricchiti; integrare e diffondere la
     conoscenza, invece di limitarsi a catturarla e incapsularla, è
     l’obiettivo dei moderni sistemi informativi culturali. Questo
-    cambiamento tecnico e intellettuale può essere visto come la "svolta
-    infrastrutturale" nelle *Digital Humanities* (Tasovac et al., 2015) e
+    cambiamento tecnico e intellettuale può essere visto come la «svolta
+    infrastrutturale» nelle *Digital Humanities* (Tasovac et al., 2015) e
     della trasformazione digitale.
 
   Big Data
@@ -112,10 +112,10 @@ del significato complessivo del Piano.
        possibile estrarre valore dai dati, ovvero informazioni consapevoli
        utili nei diversi domini di appartenenza.
 
-    La crescente trasformazione digitale, unita all'evoluzione tecnologica e
+    La crescente trasformazione digitale, unita all’evoluzione tecnologica e
     allo sviluppo della potenza computazionale, stanno plasmando una società
     cibernetica i cui meccanismi di lavoro sono basati sempre più sulla
-    produzione, l'impiego e lo sfruttamento di grandi volumi di dati
+    produzione, l’impiego e lo sfruttamento di grandi volumi di dati
     (Kaplan, 2015). Grazie al passaggio da un web informativo a un web più
     profondamente interconnesso, con il conseguente emergere di una grande
     quantità di dati senza precedenti spesso non strutturati, si stanno
@@ -124,13 +124,13 @@ del significato complessivo del Piano.
     conseguenza anche le informazioni e i contenuti inerenti al patrimonio
     culturale (Rojas, 2017 e Jocker, 2016). Il fenomeno dei *big data* sta
     rimodellando i modi in cui le istituzioni della cultura selezionano i
-    materiali da raccogliere, conservare e condividere nell'interesse
+    materiali da raccogliere, conservare e condividere nell’interesse
     pubblico e quali futuri vengono creati attraverso queste pratiche di
     raccolta.
 
     Nel dominio culturale, tuttavia, la nozione di *big data* è ancora nella
     sua fase embrionale, e solo negli ultimi anni si è iniziato a indagare,
-    esplorare e sperimentare l'impiego e lo sfruttamento dei *big data* e a
+    esplorare e sperimentare l’impiego e lo sfruttamento dei *big data* e a
     comprendere le possibili forme di collaborazione e di opportunità basate
     su di essi. L’uso dei *big data* all’interno dell’ecosistema della
     cultura può dare gli strumenti per capire alcune tendenze, per cogliere
@@ -163,14 +163,14 @@ del significato complessivo del Piano.
     basati su servizi che possono essere alla base dell’ecosistema digitale
     della cultura (Regalado, 2011). Questa tecnologia comporta lo
     spostamento della localizzazione di infrastrutture nella rete con
-    l'obiettivo di aumentare la sostenibilità e ridurre i costi per la
+    l’obiettivo di aumentare la sostenibilità e ridurre i costi per la
     gestione delle risorse hardware e software, permettendo dunque non solo
     di accogliere gli oggetti digitali ma di usufruire di servizi per il
     loro processamento, invocandoli a richiesta in modo scalabile.
 
     In coerenza con gli obiettivi del Piano nazionale di ripresa e
     resilienza, è stata elaborata dal Dipartimento per la trasformazione
-    digitale e dall'Agenzia per la Cybersicurezza Nazionale (ACN) la
+    digitale e dall’Agenzia per la Cybersicurezza Nazionale (ACN) la
     Strategia Cloud Italia [59]_. Tale strategia, che ha avviato la
     migrazione dei dati della Pubblica Amministrazione verso il cloud dei
     dati nazionale e i servizi digitali, risponde a tre sfide principali: 1.
@@ -227,7 +227,7 @@ del significato complessivo del Piano.
     cercando di evitare i rischi connessi all’obsolescenza degli hardware e
     dei software, all’incompatibilità dei formati e alla duplicazione dei
     file. Secondo la definizione dell’Agenzia per l’Italia Digitale, la
-    conservazione è “l'attività volta a proteggere e custodire nel tempo gli
+    conservazione è “l’attività volta a proteggere e custodire nel tempo gli
     archivi di documenti e dati informatici” [60]_.
 
     Nella lingua inglese è invece più diffuso il termine “*digital
@@ -273,9 +273,9 @@ del significato complessivo del Piano.
     culturale.
 
   Crowdsourcing
-    Il neologismo *crowdsourcing* è stato introdotto nel 2005e significa
-    appaltare un compito (il tradizionale *outsourcing)* a un gruppo di
-    persone(*crowd,* folla) attraverso con una “chiamata aperta” di
+    Il neologismo *crowdsourcing* è stato introdotto nel 2005 e significa
+    appaltare un compito (il tradizionale *outsourcing*) a un gruppo di
+    persone (*crowd*, folla) attraverso una “chiamata aperta” di
     collaborazione a progetti rivolta a chiunque voglia partecipare. Questa
     pratica collaborativa, oltre a ottimizzare i costi di produzione, crea
     meno separazione fra chi è un professionista e chi non lo è. In questo
@@ -295,7 +295,7 @@ del significato complessivo del Piano.
     in cui compiti molto complessi, tradizionalmente svolti da studiosi,
     sono stati affidati a persone non esperte, producendo così un cambio di
     approccio e di valore ai documenti del patrimonio culturale. Un esempio
-    è *Transcribe Bentham [62]_* un progetto sviluppato presso l'University
+    è *Transcribe Bentham [62]_* un progetto sviluppato presso l’University
     College London (UCL) sui manoscritti del filosofo inglese, per il quale
     è stata richiesta la collaborazione degli utenti nella correzione delle
     trascrizioni prodotte attraverso l’ausilio di software HTR (vedi *Linee
@@ -337,15 +337,15 @@ del significato complessivo del Piano.
     memorizzate nel cloud, e accessibili attraverso diversi dispositivi.
     Come tutte le tecnologie “*as a service*” (aaS), DaaS si basa sul
     concetto per cui il servizio erogato mediante tale tecnologia possa
-    essere fornito all'utente "su richiesta" (Agrawal et al., 2009).
-    L'architettura orientata ai servizi (SOA) e l'uso sempre più diffuso
+    essere fornito all’utente «su richiesta» (Agrawal et al., 2009).
+    L’architettura orientata ai servizi (SOA) e l’uso sempre più diffuso
     delle API permettono di interrogare direttamente le banche dati,
     prescindendo dalle piattaforme di presentazione delle informazioni.
     Esempi comuni di DaaS includono, a titolo esemplificativo, i servizi di
     georeferenziazione, che forniscono dati geografici agli utenti.
 
   Dati aperti
-    I dati o, altri tipi di contenuto connessi a questi, sono aperti se
+    I dati, o altri tipi di contenuto connessi a questi, sono aperti se
     chiunque ha la libertà di usarli, riutilizzarli e ridistribuirli per
     qualsiasi finalità. A seconda delle licenze con cui i dati vengono
     pubblicati, possono essere soggetti a requisiti di attribuzione e di
@@ -363,7 +363,7 @@ del significato complessivo del Piano.
        la commistione con altri set di dati.
 
     -  Partecipazione universale: tutti devono essere in grado di usare,
-       riutilizzare e ridistribuire. non ci dovrebbero essere
+       riutilizzare e ridistribuire. Non ci dovrebbero essere
        discriminazioni contro campi di attività o contro persone o gruppi.
 
     Per avere una panoramica completa delle regole tecniche e del riutilizzo
@@ -514,7 +514,7 @@ del significato complessivo del Piano.
     *entertainment*, che connota invece il carattere di divertimento e di
     svago (Cervellini et al., 2011). Questo approccio è stato inizialmente
     utilizzato come formula classica nella produzione di *video-game*
-    educativi che si basano sulle teorie dell'apprendimento. Il termine è
+    educativi che si basano sulle teorie dell’apprendimento. Il termine è
     stato in seguito declinato nell’ambiente dell’educazione e considerato
     come un ramo dell’*e-learning* che consente di apprendere nozioni
     scolastiche ed extrascolastiche in modo ludico, attraverso contenuti
@@ -536,7 +536,7 @@ del significato complessivo del Piano.
 
   Infosfera
     Col termine infosfera (composto da “informazione” e “sfera”), nella
-    filosofia dell'informazione, si intende la globalità dello spazio delle
+    filosofia dell’informazione, si intende la globalità dello spazio delle
     informazioni e di qualsiasi sistema in grado di interagire con esso;
     l’habitat finale per la mente umana, generato dalle tecnologie digitali,
     in cui gli utenti si trovano immersi e condizionati dalle logiche di
@@ -544,13 +544,13 @@ del significato complessivo del Piano.
     il cyberspazio (Internet, telecomunicazioni digitali) sia i mass media
     classici (Amicucci 2021, Peyron 2019).  
 
-    Il filosofo etico Luciano Floridi ha definito l'infosfera come "lo
-    spazio semantico costituito dalla totalità dei documenti, degli agenti e
-    delle loro operazioni", dove per "documenti" si intende qualsiasi tipo
+    Il filosofo etico Luciano Floridi ha definito l’infosfera come «lo
+    spazio semantico costituito dalla totalità dei documenti, degli agenti
+    e delle loro operazioni», dove per «documenti» si intende qualsiasi tipo
     di dato, informazione e conoscenza, codificata e attuata in qualsiasi
-    formato semiotico; per "agenti", qualsiasi sistema in grado di
+    formato semiotico; per «agenti», qualsiasi sistema in grado di
     interagire con un documento indipendente (ad esempio una persona,
-    un'organizzazione o un robot software sul web); per "operazioni"
+    un’organizzazione o un robot software sul web); per «operazioni»
     qualsiasi tipo di azione, interazione e trasformazione che può essere
     eseguita da un agente e che può essere presentata in un documento
     (Floridi 2017, Floridi 2020).  
@@ -591,12 +591,12 @@ del significato complessivo del Piano.
 
   Licenza d’uso
     La licenza d’uso è un contratto, redatto in genere in forma elettronica,
-    con il quale un autore concede ad altri la “la facoltà di utilizzo di
+    con il quale un autore concede ad altri la “facoltà di utilizzo di
     un’opera o di altri materiali protetti” (Orlandi et al., 2021); in un
-    contratto di licenza i diritti, quindi, non vengono ceduti ma rimango
+    contratto di licenza i diritti, quindi, non vengono ceduti ma rimangono
     del titolare che stabilisce le modalità di utilizzo dei contenuti
-    licenziati. Le licenze si dicono “aperte” quando consentono permetta
-    l'utilizzo dei contenuti da parte di chiunque, anche per finalità
+    licenziati. Le licenze si dicono “aperte” quando consentono
+    l’utilizzo dei contenuti da parte di chiunque, anche per finalità
     commerciali, in formato disaggregato. Alcuni esempi di licenze aperte
     standard sono: Creative Commons (CC), Open Government Licence (OGL),
     Open Data Commons (ODC), Italian Open Data License (IODL).
@@ -623,7 +623,7 @@ del significato complessivo del Piano.
   Metadati
     I metadati sono informazioni strutturate che descrivono dati o insiemi
     di dati. Indistricabilmente legati e necessari per la corretta gestione
-    del ciclo di vista di una risorsa digitale, i metadati sono in genere
+    del ciclo di vita di una risorsa digitale, i metadati sono in genere
     sviluppati per mezzo di pratiche e metodologie di comunità scientifiche
     di specifici domini di conoscenza, e fanno ampio uso di standard
     nazionali e internazionali, schemi e vocabolari controllati specifici
@@ -639,9 +639,9 @@ del significato complessivo del Piano.
     dati. I file di metadati possono essere esterni o interni agli oggetti
     digitali. Descrivere una risorsa attraverso i metadati ne permette la
     comprensione da parte di persone e macchine in modo da facilitare e
-    promuovere l'interoperabilità. A seconda della tipologia di informazione
+    promuovere l’interoperabilità. A seconda della tipologia di informazione
     veicolata, i metadati sono distinti in diverse categorie: metadati
-    descrittivi, gestionali, amministratici, tecnici, di conservazione, sui
+    descrittivi, gestionali, amministrativi, tecnici, di conservazione, sui
     diritti, strutturali.
 
   Modelli
@@ -671,15 +671,15 @@ del significato complessivo del Piano.
     campi disciplinari molto diversi.
 
     Nel campo informatico, i modelli includono diverse attività di
-    architettura del software (ma anche dell’hardware), il modo di
+    architettura del software (ma anche dell’hardware), di
     organizzazione delle informazioni e di disegni di sistemi. Possiamo
     includere a questa panoramica generale: la modellizzazione dei dati, di
     scenari, orientata verso il flusso dei dati o approcci che riguardano
-    l'architettura software (applicazioni, infrastruttura di rete, gestione
+    l’architettura software (applicazioni, infrastruttura di rete, gestione
     dei dati, ecc.).
 
   Open Access
-    L’Open Access (“accesso aperto”) si afferma come movimento, con una sua
+    L’Open Access («accesso aperto») si afferma come movimento, con una sua
     definizione e una programmazione di attività, a partire dal 2001 con la
     Conferenza di Budapest organizzata dall’*Open Society Institute*
     (OSI), seguita nel 2002 dalla *Budapest Open Access Initiative* (BOAI),
@@ -690,13 +690,13 @@ del significato complessivo del Piano.
     si intende la disponibilità libera su Internet, con rete pubblica,
     permettendo a qualsiasi utente di leggere, scaricare, copiare,
     distribuire, stampare, cercare o collegare i testi completi di questi
-    articoli, strisciarli per l'indicizzazione, passarli come dati al
+    articoli, strisciarli per l’indicizzazione, passarli come dati al
     software o usarli per qualsiasi altro scopo legale, senza barriere
     finanziarie, legali o tecniche diverse da quelle inseparabili
-    dall'accesso a Internet stesso (Orlandi et al., 2021). L'unico vincolo
-    alla riproduzione e alla distribuzione, e l'unico ruolo del copyright in
+    dall’accesso a Internet stesso (Orlandi et al., 2021). L’unico vincolo
+    alla riproduzione e alla distribuzione, e l’unico ruolo del copyright in
     questo campo, dovrebbe essere quello di dare agli autori il controllo
-    dell'integrità del loro lavoro e il diritto di essere adeguatamente
+    dell’integrità del loro lavoro e il diritto di essere adeguatamente
     riconosciuti e citati.
 
   Paesaggio culturale
@@ -737,8 +737,8 @@ del significato complessivo del Piano.
     I dati grezzi e le riproduzioni digitali non costituiscono di per sé
     elementi di valore culturale, se non latamente. Essi lo diventano solo
     attraverso una forma elaborata e organizzata, quella degli oggetti
-    digitali, in grado d’interagire con altre simili e di produrre nella
-    relazione elementi connotativi patrimoniali, ritenutati rilevanti e
+    digitali, in grado d’interagire con altri simili e di produrre nella
+    relazione elementi connotativi patrimoniali, ritenuti rilevanti e
     quindi selezionati dal punto di vista culturale e sociale. Rispetto alla
     patrimonializzazione dei beni tradizionali, imperniata sul
     riconoscimento formale da parte di istituzioni, la patrimonializzazione
@@ -754,7 +754,7 @@ del significato complessivo del Piano.
     possono essere distinte a seconda della loro funzionalità, e
     dell’obiettivo e dei servizi per cui sono state realizzate. Possono
     avere diversi sistemi operativi e software sviluppati ad hoc, oppure
-    utilizzare software multi-piattaforma. Inoltre possono essere dotate di
+    utilizzare software multi-piattaforma. Inoltre, possono essere dotate di
     diverse interfacce sia per l’esposizione dei dati sia per l’interscambio
     con altre piattaforme.
 
@@ -813,13 +813,13 @@ del significato complessivo del Piano.
   Servizi
     I servizi rappresentano attività svolte indirettamente attraverso beni
     economici, allo scopo di soddisfare bisogni, e sono generalmente
-    definiti come "beni immateriali e istantanei che si possono consumare in
-    presenza del cliente, da cui sono fisicamente inseparabili" (Dizionario
+    definiti come «beni immateriali e istantanei che si possono consumare in
+    presenza del cliente, da cui sono fisicamente inseparabili» (Dizionario
     di Economia e Finanza, 2012). I servizi, intesi come output di una
-    attività, possono essere definiti quindi come "una prestazione o un
+    attività, possono essere definiti quindi come «una prestazione o un
     complesso di prestazioni realizzate, di natura più o meno intangibile
     che normalmente, ma non necessariamente, hanno luogo nell’interazione
-    tra il cliente e fornitore del servizio" (Zuffada, 2011).  In
+    tra il cliente e fornitore del servizio» (Zuffada, 2011).  In
     particolare, le principali caratteristiche che distinguono i servizi dai
     prodotti sono: 
 
@@ -845,11 +845,11 @@ del significato complessivo del Piano.
     componente hardware, software o architetturale. Questi possono dunque
     rispondere a diverse esigenze come operazioni di *back-end*, di
     esposizione dei dati (come ad esempio API), o di creazione di
-    applicazioni per l'utente: dalle piattaforme di *crowdsourcing* al
+    applicazioni per l’utente: dalle piattaforme di *crowdsourcing* al
     servizio di prenotazione dei biglietti, ecc.
 
   Silos di dati
-    Con l'espressione silos di dati si intende una componente isolata di un
+    Con l’espressione silos di dati si intende una componente isolata di un
     sistema informativo che non condivide i dati, le informazioni e/o i
     processi con le altre componenti del sistema. I componenti di
     un’architettura a silos (o monolitica) sono integrati in un blocco
@@ -883,7 +883,7 @@ del significato complessivo del Piano.
     tenere conto delle eterogeneità di sistemi e applicazioni, consentendo
     uno scambio dei dati che superi le differenze di rappresentazione dei
     vari sistemi e permetta una opportuna integrazione, conversione e
-    riconciliazione dei dati fra un'applicazione e l'altra. Un database
+    riconciliazione dei dati fra un’applicazione e l’altra. Un database
     federato può essere ad accoppiamento libero, che richiede quindi
     l’accesso ad altri componenti del database, ad accoppiamento stretto,
     che utilizza processi indipendenti per lavorare in un sistema federato,
@@ -893,7 +893,7 @@ del significato complessivo del Piano.
   Smart Contract
     Un “contratto intelligente” è un accordo tra due persone o entità sotto
     forma di codice informatico programmato per essere eseguito
-    automaticamente. L'idea è stata proposta nel 1996 da Nick Szabo, un
+    automaticamente. L’idea è stata proposta nel 1996 da Nick Szabo, un
     pioniere della crittografia, che ha definito lo *smart contract* come un
     insieme di contratti virtuali con protocolli associati per farli
     rispettare (Mohanta et al., 2018). Il protocollo Bitcoin, che
@@ -952,11 +952,11 @@ del significato complessivo del Piano.
     utilizzata in particolare nei modelli di business e di marketing per
     conoscere e riprogettare l’esperienza dell’utente con un particolare
     brand, prodotto o servizio, soprattutto nell’analisi dei processi di
-    acquisto. Si considera e analizza l’intero percorso dell'interazione: da
+    acquisto. Si considera e analizza l’intero percorso dell’interazione: da
     quando viene a conoscenza di un determinato oggetto digitale alle
-    esperienze che può avere (Kokins et al., 2021). L'attenzione non è posta
+    esperienze che può avere (Kokins et al., 2021). L’attenzione non è posta
     sulle transazioni, ma su come l’utente si sente dopo aver interagito con
-    quel particolare oggetto. Dunque, lo *user journey* documenta l'intera
+    quel particolare oggetto. Dunque, lo *user journey* documenta l’intera
     esperienza di un utente per costruire e garantire la fruizione del
     prodotto digitale (che sarà dinamico e cambierà a seconda dell’utente).
 

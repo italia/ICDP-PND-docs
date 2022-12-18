@@ -13,7 +13,7 @@ livello nazionale, come pre-condizione abilitante per lo sviluppo
 di un ecosistema digitale della cultura. Questo ovviamente non
 esaurisce né sostituisce le azioni che ciascun comparto
 istituzionale o settore disciplinare metterà in campo a partire da
-ciò che viene realizzato dal Ministero, d'intesa con le Regioni, a servizio di tutto
+ciò che viene realizzato dal Ministero, d’intesa con le Regioni, a servizio di tutto
 l’ecosistema.
 
 Nel contesto storico attuale, tutte le amministrazioni stanno
@@ -47,7 +47,7 @@ per:
    prospettiva che restituisca l’unitarietà e la complessità del
    patrimonio culturale nazionale;
 
-2. garantire l'uso e l'accessibilità a lungo termine degli archivi
+2. garantire l’uso e l’accessibilità a lungo termine degli archivi
    digitali e dei prodotti di digitalizzazione del patrimonio
    culturale, adottando le nuove strategie di **conservazione**\*
    (approccio **cloud**\*) e capitalizzando i vantaggi che offrono
@@ -74,7 +74,7 @@ avviati negli anni passati e accelerati durante la pandemia, per
 raggiungere quegli obiettivi di cambiamento descritti in
 precedenza (cfr. par. :ref:`visione-obiettivi`). Data l’ampiezza del programma
 PNRR e il potenziale trasformativo delle azioni che saranno
-introdotte in tale contesto, l’investimento è articolato in
+introdotte in tale contesto, l’investimento si articola in
 misure progettuali tra loro correlate che, come evidenziato dal grafico della
 figura  3, tengono conto di tutte le componenti dell’ecosistema
 andando a creare quelle infrastrutture nazionali abilitanti
@@ -117,7 +117,7 @@ ma aggiuntivi a quelli esistenti.
 In un contesto così eccezionale, è del tutto naturale che il PND
 fondi la sua strategia nazionale sulle azioni del PNRR, anche se
 ovviamente la sua portata non si esaurisce con esso. Le azioni
-strategiche delineate a livello alto nel PND #2022-2023 saranno
+strategiche delineate a livello alto nel PND 2022-2023 saranno
 progressivamente attuate nel prossimo quinquennio, secondo fasi
 che verranno affinate negli aggiornamenti del Piano e che
 definiranno per ciascun settore gli obiettivi a breve, medio e
@@ -126,7 +126,7 @@ impostando le metriche di valutazione dei risultati raggiunti e il
 monitoraggio delle azioni programmate.
 
 Come ricordato in vari punti del presente documento, il PND non ha
-l’ambizione – ne avrebbe le possibilità – di descrivere i percorsi
+l’ambizione né avrebbe le possibilità di descrivere i percorsi
 di trasformazione digitale o i processi di sviluppo dei singoli
 istituti; tuttavia, rappresentando una cornice culturale e di
 orientamento strategico, può utilmente indirizzare tale processo
@@ -157,10 +157,10 @@ PNRR; il capitolo “Processi”, invece, fa riferimento a quanto
 approfondito nelle linee guida allegate al Piano.
 
 Per ciascuna linea strategica individuata in questa prima versione
-del PND vengono individuate le azioni a breve, medio e lungo
+del PND vengono indicate le azioni a breve, medio e lungo
 termine che il Ministero metterà in atto a livello nazionale per
 facilitare il funzionamento dell’ecosistema digitale nel suo
-insieme. Ovviamente queste azioni non rappresentano, né possono
+insieme. Queste azioni non rappresentano, né possono
 rappresentare, la totalità delle azioni che saranno messe in campo
 da tutte le istituzioni ai vari livelli di governo.
 
@@ -176,7 +176,7 @@ da tutte le istituzioni ai vari livelli di governo.
 
 .. [24] Cfr.  https://italiadomani.gov.it/content/dam/sogei-ng/documenti/PNRR%20Aggiornato.pdf
 
-.. [25] Per un approfondimento dell’investimento PNRR 1.1 “Strategie e piattaforma digitali per il patrimonio culturale” si rimanda ai seguenti link: https://pnrr.cultura.gov.it/
+.. [25] Per un approfondimento dell’investimento PNRR 1.1 “Strategie digitali e piattaforme per il patrimonio culturale” si rimanda ai seguenti link: https://pnrr.cultura.gov.it/
 
 .. [26] Raccomandazione (UE) 2021/1970 della Commissione del 10 novembre 2021 relativa a uno spazio comune europeo di dati per il patrimonio culturale (OJ L 401 12.11.2021, p. 5, CELEX: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021H1970).
 

@@ -5,7 +5,7 @@ Di seguito sono riportati i principali riferimenti bibliografici che
 hanno sostenuto la scrittura del PND; non sono pertanto esaustivi delle
 tematiche trattate né rappresentativi di tutti i punti di vista
 esistenti sulle materie prese in esame. Ulteriore bibliografia specifica
-è contenuta in appendice nelle diverse Linee guida.  Tutti i link sono
+è contenuta in appendice nelle diverse linee guida.  Tutti i link sono
 stati consultati alla data del 28/06/2022.
 
 Agrawal, D., Abbadi, A. E., Emekci F. Metwally, A. (2009). *Database
@@ -13,14 +13,14 @@ Management as a Service: Challenges and Opportunities,* IEEE 25th
 International Conference on Data Engineering, pp. 1709-1716, DOI:
 10.1109/ICDE.2009.151. 
 
-Amicucci, F. (2021). *Apprendere nell'infosfera: Esperienzialità e nuove
+Amicucci, F. (2021). *Apprendere nell’infosfera: Esperienzialità e nuove
 frontiere.* Milano: Franco Angeli editore.   
 
 Assmann, A. (2015). *Ricordare. Forme e mutamenti della memoria
 culturale.* Bologna: Il Mulino. 
 
 Atzeni, P., Mecca, G., Merialdo, P. (2002). *Managing web-based data:
-database models and transformations*, in "IEEE internet computing", VI,
+database models and transformations*, in «IEEE internet computing», VI,
 4, pp. 33-37. 
 
 Balzani, R. (2007). *Collezioni, memorie locali, musei. Per una storia
@@ -32,8 +32,8 @@ Benardou, A., Champion, E., Dallas, C.,Hughes, L.M. (a cura di). (2017).
 DOI: 10.4324/9781315575278
 
 Bergamin G. (2013). *Magazzini digitali: un servizio per il deposito e
-per l'accesso nel lungo periodo delle pubblicazioni digitali*. In
-Accademie & biblioteche d'Italia: trimestrale di cultura delle
+per l’accesso nel lungo periodo delle pubblicazioni digitali*. In
+Accademie & biblioteche d’Italia: trimestrale di cultura delle
 biblioteche e delle istituzioni culturali: nuova serie, VIII, 1/2. Roma:
 Gangemi. DOI: 10.36165/1258
 
@@ -43,7 +43,7 @@ https://digitalia.cultura.gov.it/article/view/246
 
 Bertini A., Caruso I., Colesanti G.T., Vitolo T. (2020). *Cultura in
 transito: ricerca e tecnologie per il patrimonio culturale*, Roma:
-“L'Erma" di Bretschneider. 
+«L’Erma» di Bretschneider. 
 
 Boylan P. (2004). *Running a Museum: A Practical Handbook. Paris,
 International council of museums (ICOM). Borgman* C. (1999). *What are
@@ -72,7 +72,7 @@ Editore, (Contributi del Centro Linceo Interdisciplinare «Beniamino
 Segre», N. 114), pp. 41-75. 
 
 Buzzetti D. (2003). *Informatica umanistica: Codifica del testo e
-intelligenza artificiale.* Rivista semestrale dell'Archivio Umanistico
+intelligenza artificiale.* Rivista semestrale dell’Archivio Umanistico
 Rinascimentale Bolognese, 1, Bologna: CLUEB, 2003, pp. 1-27, DOI:
 `10.1400/12676 <http://digital.casalini.it/10.1400/12676>`__. 
 
@@ -101,14 +101,14 @@ Chrysikos A. e Ward R. (2014). *Cloud computing within higher education:
 Applying knowledge as a service (KaaS)*. Continued Rise of the Cloud.
 London: Springer, 339-362. 
 
-Ciula A., Eide Ø. (2017). *Modelling in Digital Humanities: Signs in
-context*. Digital Scholarship in the Humanities, 32(1), pp. 33 – 46.
-DOI: `10.1093/llc/fqw045 <https://doi.org/10.1093/llc/fqw045>`__. 
-
 Ciula A., Eide Ø., Marras C., Sahle P., (a cura di).  (2018).
 *Models and Modelling between Digital and Humanities.*Historical
 Social Research/Historische Sozialforschung, 43(4), pp. 343–61.
 https://www.jstor.org/stable/26544261. 
+
+Ciula A., Eide Ø. (2017). *Modelling in Digital Humanities: Signs in
+context*. Digital Scholarship in the Humanities, 32(1), pp. 33 – 46.
+DOI: `10.1093/llc/fqw045 <https://doi.org/10.1093/llc/fqw045>`__. 
 
 Cossu A., M. Berzacola, L. Consumi, D. D. De Falco, F. Mocchi F.,
 Orviati A., Salvioni O., Sangiorgi, S., Violo M. L. (2021). *Transizione
@@ -116,14 +116,14 @@ digitale: i servizi interbibliotecari e il ruolo di ILL SBN*.
 DigItalia.Rivista del digitale nei beni culturali. 2, pp. 53-64, DOI:
 10.36181/digitalia-00036.  
 
-Da Milano C. (2014).*L'accesso alla cultura in una prospettiva europea.*
+Da Milano C. (2014).*L’accesso alla cultura in una prospettiva europea.*
 In De Biase F. (a cura di), *I pubblici della cultura. Audience
 development, audience engagement*. Milano: Franco Angeli.
 
-Del Zanna G. (2015). Progettare l'Accessibilità: utenti, barriere,
-soluzioni. Una riflessione dopo vent'anni. In Benente M., Azzolino
+Del Zanna G. (2015). Progettare l’Accessibilità: utenti, barriere,
+soluzioni. Una riflessione dopo vent’anni. In Benente M., Azzolino
 M. C., Lacirignola A. (a cura di), *Accessibilità e fruibilità nei
-luoghi d'interesse culturale*, Ariccia: Ermes edizioni scientifiche.
+luoghi d’interesse culturale*, Ariccia: Ermes edizioni scientifiche.
 
 Digital Library Federation. (1998). *A working definition of digital
 library.* ` <https://old.diglib.org/about/dldefinition.htm>`__
@@ -140,32 +140,32 @@ Brunet, P., De Luca, L., Hyvönen, E., et al. (2022). *Report on a
 European collaborative cloud for cultural heritage: ex – ante impact
 assessment*, Publications Office. DOI: 10.2777/64014.
 
+Fabre D. (2013). *Il duro desiderio di durare*. Parole chiave, 49,
+Patrimonio culturale, pp. 31-51. 
+
 Faioli M. (2021) *Terziario*, *lavoro e organizzazione* 4.0. Working
 Papers della Fondazione Giacomo Brodolini,
 https://www.fondazionebrodolini.it/sites/default/files/pubblicazioni/file/WP_20.pdf
 
-Fabre D. (2013). *Il duro desiderio di durare*. Parole chiave, 49,
-Patrimonio culturale, pp. 31-51. 
-
 Ferraris M. (2021). *Non siamo schiavi della tecnologia, ma suoi
 padroni.* In rivista *MicroMega+*.   
+
+Finnis J., *The Digital Transformation Agenda and GLAMs: A Quick Scan
+Report for Europeana.* 2021, Culture24. 
 
 Flanders J., Jannidis F., (a cura di), *The Shape of Data in the
 Digital Humanities: Modeling Texts and Text-based Resources.* Oxford,
 Routledge, 2018, DOI:
 `10.4324/9781315552941 <https://doi.org/10.4324/9781315552941>`__  
 
-Finnis J., *The Digital Transformation Agenda and GLAMs: A Quick Scan
-Report for Europeana.* 2021, Culture24. 
+Floridi L. (2020),*Pensare l’infosfera: La filosofia come design
+concettuale.* Milano, Raffaello Cortina Editore. 
 
 Floridi L. (2017), *La quarta rivoluzione. Come l’infosfera sta
 trasformando il mondo.* Milano, Raffaello Cortina Editore. 
 
-Floridi L. (2020),*Pensare l'infosfera: La filosofia come design
-concettuale.* Milano, Raffaello Cortina Editore. 
-
 Gnoli C., Marino V., Rosati L. (2006), *Organizzare la conoscenza: dalle
-biblioteche all'architettura dell'informazione per il Web.* Pavia:
+biblioteche all’architettura dell’informazione per il Web.* Pavia:
 Hops. 
 
 Grönroos C., Ravald A., *Service as business logic: Implications for
@@ -179,7 +179,7 @@ http://www.aedon.mulino.it/archivio/2020/3/gualdani.htm. 
 Hartog F. (2021), *Confrontations avec l’histoire.* Paris, Gallimard,
 pp. 254-317. 
 
-Heimbigner D., McLeod D. (1985). *Un'architettura federata per la
+Heimbigner D., McLeod D. (1985). *Un’architettura federata per la
 gestione delle informazioni*.ACM Transactions on Office Information
 Systems (TOIS), 3(3) pp. 253-278. 
 
@@ -219,10 +219,8 @@ Open Innov. Technol. Mark. Complex, 7, p. 185. DOI:
 Lana M. (2013). *Biblioteche digitali. Un’introduzione.* Bologna:
 Bononia University Press. 
 
-Lévy P. (1996). *L'intelligenza collettiva. Per un'antropologia del
+Lévy P. (1996). *L’intelligenza collettiva. Per un’antropologia del
 cyberspazio.* Roma: Feltrinelli. 
-
-McCarty W. (2005), *Humanities computing.* London: Palgrave. 
 
 Marinelli L. (2020). *Ecosistemi per la trasformazione digitale delle
 PMI.* Torino: Giappichelli editore.  
@@ -231,6 +229,8 @@ Marras A. M., Atzori I., Barbuti N., Bonacini E., Cerato I., Clini P.,
 Faccini M., Farroni L., Pagano A., Pietroni E., Pessina F., Schettino P.
 (2020). *Glossario Digitale e Tecnologie*. ICOM Italia, Commissione
 Tecnologie Digitali per il Patrimonio Culturale. DOI: 10.5281
+
+McCarty W. (2005), *Humanities computing.* London: Palgrave. 
 
 Mell P., Grance T. (2011). The NIST Definition of Cloud Computing. NIST
 Special Publication 800-145.
@@ -274,15 +274,15 @@ development & trans-disciplinary training at the interface of Digital
 Humanities and computer science. Digital Studies/le Champ Numérique*,
 6(5), DOI: `10.16995/dscn.17 <http://doi.org/10.16995/dscn.17>`__. 
 
-Peyron L. (2019).*Incarnazione digitale. Custodire l'umano
-nell'infosfera*. Torino: Elledici. 
+Peyron L. (2019).*Incarnazione digitale. Custodire l’umano
+nell’infosfera*. Torino: Elledici. 
 
 Potts A. (Lead Author), (2021). *Executive Summary*. In *European
 Cultural Heritage Green Paper Executive Summary*. Europa Nostra, The
 Hague & Brussels.
 https://www.fondazionescuolapatrimonio.it/wp-content/uploads/2021/03/European-Cultural-Heritage-Green-Paper_Executive-Summary.pdf
 
-Regalado, A. (2011). *Who Coined 'Cloud Computing'.* MIT Technology
+Regalado, A. (2011). *Who Coined ’Cloud Computing’.* MIT Technology
 Review.  
 
 Robinson H. (2012). *Remembering things differently: Museums, libraries
@@ -298,14 +298,11 @@ Annual Report, 4, pp. 62-71. DOI:
 Roncaglia, G. (2020). *L’età della frammentazione*. *Cultura del libro e
 scuola digitale*. Roma: Laterza.
 
-Rosati L. (2010). *L'ecosistema fisico-digitale*. In *Le frontiere del
+Rosati L. (2010). *L’ecosistema fisico-digitale*. In *Le frontiere del
 "popolare" tra vecchi e nuovi media,* Bisoni, C. (a cura di). In *Media
-Mutations*. *Convegno internazionale di studi sull'audiovisivo*,
+Mutations*. *Convegno internazionale di studi sull’audiovisivo*,
  Pescatore, G., (a cura di). DOI:
 `10.6092/unibo/amsacta/3031 <http://doi.org/10.6092/unibo/amsacta/3031>`__. 
-
-Szabo N. (1996), *Smart Contracts: Building Blocks for Digital Markets*.
-Extropy Journal of Transhuman Thought, 16.
 
 Salarelli A., Tammaro A. M. (2006), *La biblioteca digitale.* Milano:
 Editrice Bibliografica. 
@@ -321,6 +318,12 @@ in King’s Digital Lab.* in K. Schuster, S. Dunn, *Routledge
 international handbook of research methods in Digital Humanities,*
 Routlege, pp. 155-172, DOI:
 `10.4324/9780429777028-13 <https://doi.org/10.4324/9780429777028-13>`__. 
+
+Solimine, G., Weston P. G., (a cura di). (2015). *Biblioteconomia:
+principi e questioni*. Roma: Carocci. 
+
+Szabo N. (1996), *Smart Contracts: Building Blocks for Digital Markets*.
+Extropy Journal of Transhuman Thought, 16.
 
 Tasovac T., Barbaresi A., Clérice T., Edmond J., Ermolaev N., Garnett
 V., Wulfman C. (2016). *APIs in Digital Humanities: The Infrastructural
@@ -369,9 +372,6 @@ Alsabaan M., Khalifa T., Abdelkader T., Abogharaf A. (2016).
 *Machine-to-Machine (M2M) communications: A survey*. Journal of Network
 and Computer Applications, 66, 83-105, DOI:
 `10.1016/j.jnca.2016.02.016 <https://doi.org/10.1016/j.jnca.2016.02.016>`__. 
-
-Solimine, G., Weston P. G., (a cura di). (2015). *Biblioteconomia:
-principi e questioni*. Roma: Carocci. 
 
 Ziegler, S. (2020), *Open Data in Cultural Heritage Institutions: Can We
 Be Better Than Data Brokers?*. *Digital Humanities Quarterl*, 14 (2).

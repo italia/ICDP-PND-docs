@@ -10,10 +10,10 @@ migliorare la gestione e la conservazione del patrimonio e al
 contempo a soddisfare i bisogni degli utenti (cfr. par. :ref:`digitalizzazione_ciclo_vita_risorsa_digitale` );
 questo dovrà avvenire secondo diverse prospettive:
 
--  lato strategico, adottando tecnologie digitali per ottenere un
+-  lato strategico: adottando tecnologie digitali per ottenere un
    vantaggio competitivo;
 
--  lato produttivo, rendendo l’esperienza utente (*user journey)*
+-  lato produttivo: rendendo l’esperienza utente (*user journey)*
    più interattiva per le persone;
 
 -  lato applicativo: favorire la produzione, il trattamento, la
@@ -62,7 +62,7 @@ senso di assicurare un utilizzo corretto dei dati sia sotto il
 profilo giuridico che etico, nella prospettiva di una crescita
 equa delle comunità.
 
-Per questo motivo, nell’ambito dell’Investimento PNRR “Strategie
+Per questo motivo, nell’ambito dell’investimento PNRR “Strategie
 digitali e piattaforme per il patrimonio culturale” il Ministero
 ha inserito alcuni interventi che mirano a creare un livello
 infrastrutturale hardware e software a disposizione di tutto
@@ -85,7 +85,7 @@ infrastruttura, che assume le caratteristiche di una piattaforma
 software progettata nativamente per il cloud, intende creare un
 ambiente che garantisca una corretta, affidabile, sicura ed
 efficiente organizzazione delle risorse digitali del patrimonio
-culturale e dei metadati connessi, con l’obiettivo di raggiungere
+culturale e dei **metadati**/* connessi, con l’obiettivo di raggiungere
 un duplice risultato:
 
 -  costituire un grande spazio dedicato ai dati della cultura, in
@@ -127,10 +127,10 @@ per l’integrazione dei dati, così da restituire molteplici e
 diverse interpretazioni, senza rinunciare allo spazio di
 conoscenza dei domini specialistici codificati negli standard di
 contenuto e di struttura in uso presso i sistemi nazionali gestiti
-dagli Istituti centrali del Ministero.
+dagli istituti centrali del Ministero.
 
 La piattaforma fornirà, infatti, i suoi servizi in primo luogo
-proprio agli Istituti centrali del Ministero, abilitandoli alla
+proprio agli istituti centrali del Ministero, abilitandoli alla
 gestione e fruizione dei contenuti digitali attraverso le più
 avanzate tecnologie di *content processing* e *visualization*.
 Allo stesso tempo, i dati generati in tali sistemi saranno
@@ -139,7 +139,7 @@ l’articolato nucleo informativo posto alla base dei futuri servizi
 di accesso al patrimonio culturale.  Il valore di questo
 ecosistema integrato risiede nel duplice vantaggio di avere dati
 processati secondo le logiche di dominio ma relazionati e riletti
-su logiche cross-dominio, utilizzando diverse logiche e tecnologie
+su logiche cross-dominio, utilizzando diversi criteri e tecnologie
 di integrazione, tutt’ora in corso di sperimentazione.
 
 Con lo stesso principio, specifiche macro-componenti logiche
@@ -154,14 +154,14 @@ Gli istituti culturali, di qualunque natura, potranno relazionarsi
 con l’infrastruttura software del patrimonio culturale secondo due
 modelli:
 
--  modello integrato, rivolto ai sistemi che conferiscono i propri
+-  modello integrato: rivolto ai sistemi che conferiscono i propri
    dati e oggetti digitali all’infrastruttura, condividendone
    nativamente i servizi; le risorse digitali sono “ospitate”
    nell’infrastruttura software e vengono memorizzate e conservate
    sui sistemi dell’infrastruttura, e anche il ciclo di vita della
    risorsa digitale viene gestito tramite i servizi
    dell’infrastruttura; paradigmaticamente questo modello è
-   rappresentato dalla integrazione dei sistemi degli Istituti
+   rappresentato dalla integrazione dei sistemi degli istituti
    centrali del Ministero in corso di realizzazione;
 
 -  modello federato: pensato per quei sistemi informativi in grado
@@ -179,8 +179,10 @@ singoli istituti e dal livello di maturità del sistema cooperante
 dalla prospettiva di sviluppo che i singoli sistemi immaginano di
 darsi nel tempo. Specifiche linee guida, rese disponibili a
 completamento dello sviluppo dei servizi dell’infrastruttura dati,
-orienteranno gli istituti culturale nella scelta del precorso da
+orienteranno gli istituti culturali nella scelta del precorso da
 intraprendere.
+
+L’approccio “federato” e “integrato” sono dunque modelli, ossia rappresentano due modalità standard di colloquio con l’infrastruttura dati nazionale. Nella realtà ci si potrà trovare di fronte a forme ibride di interazione, per le quali uno stesso sistema potrebbe adottare l’uno o l’altro modello in relazione alla diversa tipologia dei dati; ad esempio, un sistema potrebbe essere federato per la componente descrittiva e integrato in cooperazione applicativa per la gestione e processamento degli asset digitali. Per questo, l’infrastruttura software metterà a disposizione sia API di ricerca ed estrazione dati sia servizi tipici PaaS – Platform as a Service (i.e. data virtualisation) orientati allo sviluppo in autonomia di servizi di ricerca personalizzati per le specifiche esigenze di portali di accesso costruiti da terze parti. In questo modo gli enti cooperanti, sia attraverso il modello integrato che federato, potranno sviluppare propri servizi basandosi su quelli forniti dall’infrastruttura tramite le interfacce messe a disposizione. 
 
 L’infrastruttura software nazionale non sostituisce dunque i
 sistemi esistenti di catalogazione/descrizione né i siti e i
@@ -201,7 +203,7 @@ funzionale e informativo OAIS (standard ISO 14721:2012) garantendo
 in tal modo sia la corretta conservazione delle risorse acquisite
 nel loro contesto informativo originario che la trasformazione,
 l’arricchimento e l’esposizione delle stesse verso i sistemi di
-accesso, tenendo bene separate e allo stesso tempo tracciandole in
+accesso, tenendole bene separate e allo stesso tempo tracciandole in
 tutte le fasi. Per la preservazione a lungo termine e la
 conservazione digitale a norma (o “conservazione sostitutiva”) di
 determinate tipologie documentarie, l’Infrastruttura colloquierà,
@@ -215,7 +217,7 @@ piattaforma software sarà integrata nel Polo strategico nazionale
 cloud della pubblica amministrazione, beneficiando così di
 notevoli vantaggi in termini di efficienza, sicurezza,
 semplificazione gestionale e costi di manutenzione. Inoltre, sarà
-sviluppata seguendo le regole tecniche stabilite da AgID per
+sviluppata seguendo le regole stabilite da AgID per
 l’interoperabilità tecnica [33]_, in modo da garantire la
 collaborazione tra pubbliche amministrazioni e tra queste e
 soggetti terzi, per mezzo di soluzioni tecnologiche che assicurano
@@ -270,7 +272,7 @@ culturale sia riconosciuto univocamente nei diversi sistemi
 informativi, sia amministrativi (gestione dei procedimenti) che
 culturali (piattaforme di accesso). Il modello si può declinare
 con una serie di opportune considerazioni, tra cui quella più
-evidente riguardo il fatto che un bene culturale è ”passivo” e
+evidente riguardo al fatto che un bene culturale è “passivo” e
 necessita di una persona fisica o giuridica per poter richiedere
 la certificazione e, una volta ottenuta, operare nei diversi
 ambiti digitali.
@@ -383,9 +385,7 @@ degli istituti culturali, in relazione al grado di maturità
 digitale esistente. Secondo questa prospettiva, l’innovazione
 tecnologica deve arrecare benefici su due piani:
 
--  Valorizzando i profili di competenza e il *know-how* che
-   rappresentano il patrimonio conoscitivo sedimentato nel tempo
-   dal personale della Pubblica amministrazione.
+-  Valorizzando i profili di competenza e il *know-how* del personale della Pubblica amministrazione, includendo, ove ne ricorra il caso, il riconoscimento delle professionalità specifiche dei beni culturali, come previsto dall’art. 9-bis del Codice dei Beni Culturali.
 
 -  Rispondendo efficacemente ai bisogni degli utenti secondo
    logiche che non siano basate sulla scelta a priori di una
@@ -430,14 +430,14 @@ di gestione* (cfr. par. :ref:`linee_guida_classificazione`).
 
 .. [28] Si predilige questo approccio quando il dato originale lo consente.  Esistono infatti delle eccezioni, come nel caso di dati lacunosi che possono essere ri-creati solo mediante le applicazioni.
 
-.. [29] Magazzini Digitali è il servizio nazionale di conservazione e accesso ai documenti digitali **di interesse** culturale, curato dalla Biblioteca nazionale centrale di Firenze (BNCF), in collaborazione con la Biblioteca nazionale centrale di Roma (BNCR) e la Biblioteca nazionale Marciana di Venezia (BNM). Per i dettagli del servizio consulta il sito https://www.bncf.firenze.sbn.it/biblioteca/magazzini-digitali/
+.. [29] Magazzini Digitali è il servizio nazionale di conservazione e accesso ai documenti digitali **di interesse** culturale, curato dalla Biblioteca nazionale centrale di Firenze (BNCF), in collaborazione con la Biblioteca nazionale centrale di Roma (BNCR) e la Biblioteca nazionale Marciana di Venezia (BNM). Per i dettagli del servizio consultare il sito https://www.bncf.firenze.sbn.it/biblioteca/magazzini-digitali/
 
-.. [30] Nell’ambito delle azioni finanziate con il PNRR, il Ministero ha avviato la realizzazione del “Polo di conservazione digitale” (sub-investimento M1C3 1.1.8, periodo di realizzazione 2022-2026), la cui realizzazione è affidata all’Archivio centrale dello Stato.  L’obiettivo generale del progetto è quello di regolamentare, in modo chiaro e uniforme, dalla fase di *pre-ingestion* a quella della *dissemination*, la policy conservativa del Ministero sia interna (Sistema di conservazione di medio-lungo periodo in house per le strutture del Ministero), sia nei confronti delle Amministrazioni statali che dovranno procedere al versamento dei loro archivi digitali nativi (o digitalizzati “a norma”) agli Archivi di Stato, secondo quanto disposto dalla vigente normativa sui beni culturali (Sistema di conservazione permanente degli Archivi di Stato), contribuendo, per quest’ultimo caso, a definire, in ragioni delle funzioni di tutela sugli archivi pubblici (quali beni culturali ab origine) esclusivamente in capo al Ministero, i requisiti e la policy che devono essere adottate dai sistemi conservativi delle PA statali (e, di riflesso, delle PA non statali), sia in house che in outsourcing, che custodiranno gli archivi digitali oggetto del successivo versamento al Sistema di conservazione permanente degli Archivi di Stato.
+.. [30] Nell’ambito delle azioni finanziate con il PNRR, il Ministero ha avviato la realizzazione del “Polo di conservazione digitale” (sub-investimento M1C3 1.1.8, periodo di realizzazione 2022-2026), la cui realizzazione è affidata all’Archivio centrale dello Stato.  L’obiettivo generale del progetto è regolamentare, in modo chiaro e uniforme, dalla fase di *pre-ingestion* a quella della *dissemination*, la policy conservativa del Ministero sia interna (Sistema di conservazione di medio-lungo periodo in house per le strutture del Ministero), sia nei confronti delle Amministrazioni statali che dovranno procedere al versamento dei loro archivi digitali nativi (o digitalizzati “a norma”) agli Archivi di Stato, secondo quanto disposto dalla vigente normativa sui beni culturali (Sistema di conservazione permanente degli Archivi di Stato). Ciò contribuisce, per quest’ultimo caso, a definire, in ragioni delle funzioni di tutela sugli archivi pubblici (quali beni culturali ab origine) esclusivamente in capo al Ministero, i requisiti e la *policy* che devono essere adottate dai sistemi conservativi delle PA statali (e, di riflesso, delle PA non statali), sia *in house* che in *outsourcing*, che custodiranno gli archivi digitali oggetto del successivo versamento al Sistema di conservazione permanente degli Archivi di Stato.
 
-.. [31] Cfr.  https://innovazione.gov.it/dipartimento/focus/strategia-cloud-italia/
+.. [31] -  https://innovazione.gov.it/dipartimento/focus/strategia-cloud-italia/
 
-.. [32] Cfr.  https://innovazione.gov.it/dipartimento/focus/polo-strategico-nazionale/
+.. [32] -  https://innovazione.gov.it/dipartimento/focus/polo-strategico-nazionale/
 
-.. [33] Cfr.  https://www.agid.gov.it/it/infrastrutture/sistema-pubblico-connettivita/il-nuovo-modello-interoperabilita
+.. [33] -  https://www.agid.gov.it/it/infrastrutture/sistema-pubblico-connettivita/il-nuovo-modello-interoperabilita
 
 .. [34] Il Sistema Pubblico di Identità Digitale (SPID) è la chiave di accesso semplice, veloce e sicura ai servizi digitali delle amministrazioni locali e centrali. Un’unica credenziale (username e password) che rappresenta l’identità digitale e personale di ogni cittadino, con cui è riconosciuto dalla Pubblica Amministrazione per utilizzare in maniera personalizzata e sicura i servizi digitali. Per approfondimenti si rimanda al sito dedicato https://www.spid.gov.it/

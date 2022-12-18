@@ -23,7 +23,7 @@ istituzioni culturali persegue obiettivi di cambiamento specifici:
    internazionali che rispondono alle necessità di diverse
    comunità scientifiche.
 
-Quest’ultime dialogano a propria volta con il patrimonio culturale secondo molteplici approcci e discipline differenti, perseguendo strategie proprie di disseminazione e interazione con diverse categorie di utenti. Il percorso per raggiungere questi obiettivi esige la disponibilità delle istituzioni a migliorare le prassi operative e organizzative impiegate sino ad oggi, in una logica di evoluzione continua.
+Queste ultime dialogano a propria volta con il patrimonio culturale secondo molteplici approcci e discipline differenti, perseguendo strategie proprie di disseminazione e interazione con diverse categorie di utenti. Il percorso per raggiungere questi obiettivi esige la disponibilità delle istituzioni a migliorare le prassi operative e organizzative impiegate sino ad oggi, in una logica di evoluzione continua.
 
 Le azioni strategiche a livello nazionale sono sviluppate nel
 capitolo :ref:`strategie`.
@@ -57,7 +57,7 @@ esprimendosi su un doppio fronte:
    superando le barriere fisiche, culturali, cognitive e
    psicosensoriali [14]_, così da rendere il patrimonio culturale
    una risorsa sempre a disposizione di singoli, gruppi e
-   comunità rappresentative dell‘intera società.
+   comunità rappresentative dell’intera società.
 
 La pandemia da Covid-19 ha dimostrato che l’ambiente digitale non
 si limita solo a raccogliere, selezionare e conservare le
@@ -149,7 +149,7 @@ sono necessari:
    differenti segmenti di pubblico, in qualità di co-creatori di
    contenuti culturali;
 
--  l'adeguamento conseguente dei canali informativi utilizzati.
+-  l’adeguamento conseguente dei canali informativi utilizzati.
 
 Nel nostro Paese gli istituti che gestiscono il patrimonio
 culturale sono molteplici e differiscono in modo significativo
@@ -171,7 +171,7 @@ distinguersi tra:
 Queste azioni vengono genericamente denominate processi di
 digitalizzazione, pur essendo concettualmente diverse. Si tratta
 di un’ambiguità semantica che ha portato le istituzioni ad
-applicare ciascuna una particolare forma di conoscenza digitale,
+applicare ciascuna particolare forma di conoscenza digitale,
 aumentando il divario tra gli approcci e determinando uno
 scenario estremamente frammentato. I dati digitali e i loro
 insiemi, siano essi *digital twins* (gemelli digitali) o digitali
@@ -289,7 +289,7 @@ accorcia i tempi di intervento.
   :ref:`sistema_certificazione_identita_digitale`
 
 
-.. [14] Si vedano le Linee guida per il superamento delle barriere architettoniche nei luoghi di interesse culturale, pubblicate nel 2008 https://www.beniculturali.it/mibac/multimedia/MiBAC/documents/1311244354128_plugin-LINEE_GUIDA_PER_IL_SUPERAMENTO_DELLE_BARRIERE_ARCHITETTONICHE.pdf.
+.. [14] Si vedano le Linee guida per il superamento delle barriere architettoniche nei luoghi di interesse culturale, pubblicate nel 2008. https://www.beniculturali.it/mibac/multimedia/MiBAC/documents/1311244354128_plugin-LINEE_GUIDA_PER_IL_SUPERAMENTO_DELLE_BARRIERE_ARCHITETTONICHE.pdf.
 
 .. [15] Ministero dei beni e delle attività culturali e del turismo e le Linee guida per la redazione del Piano di eliminazione delle barriere architettoniche (P.E.B.A) nei musei, complessi museali, aree e parchi archeologici: http://musei.beniculturali.it/wp-content/uploads/2015/11/Linee-guida-per-la-redazione-del-Piano-di-eliminazione-delle-barriere-architettoniche-P.E.B.A-nei-musei-complessi-monumentali-aree-e-parchi-archeologici.pdf
 
@@ -299,4 +299,4 @@ accorcia i tempi di intervento.
 
 .. [18] A *European Green Deal*, 2021: https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en (consultato il 11/01/2022); si veda anche, per gli obiettivi che legano il patrimonio culturale allo sviluppo ecosostenibile, il *Cultural Heritage Green Paper* (2021),https://www.europanostra.org/our-work/policy/european-cultural-heritage-green-paper/
 
-.. [19] "Il patrimonio culturale è costituto dalle risorse ereditate dal passato, in tutte le forme e gli aspetti — materiali, immateriali e digitali (prodotti originariamente in formato digitale e digitalizzati), ivi inclusi i monumenti, i siti, i paesaggi, le competenze, le prassi, le conoscenze e le espressioni della creatività umana, nonché le collezioni conservate e gestite da organismi pubblici e privati quali musei, biblioteche e archivi".  Conclusioni del Consiglio del 21 maggio 2014 relative al patrimonio culturale come risorsa strategica per un’Europa sostenibile (2014/C 183/08). https://culture.ec.europa.eu/it/cultural-heritage/eu-policy-for-cultural-heritage
+.. [19] «Il patrimonio culturale è costituto dalle risorse ereditate dal passato, in tutte le forme e gli aspetti — materiali, immateriali e digitali (prodotti originariamente in formato digitale e digitalizzati), ivi inclusi i monumenti, i siti, i paesaggi, le competenze, le prassi, le conoscenze e le espressioni della creatività umana, nonché le collezioni conservate e gestite da organismi pubblici e privati quali musei, biblioteche e archivi».  Conclusioni del Consiglio del 21 maggio 2014 relative al patrimonio culturale come risorsa strategica per un’Europa sostenibile (2014/C 183/08). https://culture.ec.europa.eu/it/cultural-heritage/eu-policy-for-cultural-heritage

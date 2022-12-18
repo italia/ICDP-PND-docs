@@ -26,6 +26,6 @@ Piano nazionale di digitalizzazione del patrimonio culturale
   riferimenti-normativi-essenziali.rst
   crediti.rst
 
-.. |image0| image:: ./media/image1.png
+.. |image0| image:: ../media/image1.png
    :width: 1.55347in
    :height: 0.50208in

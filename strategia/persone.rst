@@ -148,7 +148,7 @@ territorio in virtù della loro dematerializzazione.
 Le nuove forme di costruzione condivisa dei contesti patrimoniali
 necessitano di una solida architettura informativa che sappia offrire
 dati di qualità e informazioni attendibili. Le politiche culturali
-abilitate dalla costruzione di uno spazio comune dei dati (cfr. par. :ref:`infrastruttura_nazionale_dati_patrimonio`) dovranno perciò ampliare il pubblico sia a livelloterritoriale
+abilitate dalla costruzione di uno spazio comune dei dati (cfr. par. :ref:`infrastruttura_nazionale_dati_patrimonio`) dovranno perciò ampliare il pubblico sia a livello territoriale
 (nello spazio geografico) sia sociale, coinvolgendo segmenti più ampi -
 e in passato esclusi - della popolazione. Il digitale offre inedite
 possibilità per la disseminazione culturale: le piattaforme di accesso
@@ -165,7 +165,7 @@ di poter interagire; per lo più ci si trova di fronte a “siti vetrina”
 che offrono informazioni in modo statico. Il patrimonio culturale
 digitale necessita, invece, di spazi virtuali adeguati per la sua
 fruizione. In questo senso si ritiene che il modello “Biblioteca
-digitale” (Digital library) possa essere utilizzato in ogni settore del
+digitale” (*digital library*) possa essere utilizzato in ogni settore del
 patrimonio culturale, per promuovere e diffondere la conoscenza,
 integrare le comunità, erogare servizi digitali. Tale processo evolutivo
 sarà facilitato dai servizi erogati dall’infrastruttura nazionale dei
@@ -175,7 +175,7 @@ nelle applicazioni di front-end settoriali o realizzate a livello di
 singolo istituto. Le *Linee guida per la classificazione di prodotti e
 servizi digitali, processi e modelli di gestione* (cfr. par. :ref:`linee_guida_classificazione` e
 allegato 4) forniscono una guida per individuare i prodotti e servizi
-che possono essere realizzati e integrati nelle diverse Digital Library.
+che possono essere realizzati e integrati nelle diverse *digital library*.
 
 A livello nazionale, nell’ambito dell’investimento PNRR è prevista la
 realizzazione di una “Piattaforma per l’accesso integrato al patrimonio
@@ -237,7 +237,7 @@ ma è necessario “attivarli” come agenti consapevoli dei processi di
 produzione culturale.
 
 Il riuso delle risorse digitali, se opportunamente disciplinato da
-politiche pubblichechiare e linee guida *user-friendly*, è in grado di
+politiche pubbliche chiare e linee guida *user-friendly*, è in grado di
 generare valore culturale grazie alla creazione partecipata di contenuti
 e alla diffusione delle pratiche di interazione, incentivando meccanismi
 di co-creazione e di produzione di valore dal basso e offrendo nuove
@@ -279,7 +279,7 @@ originano. In questo senso, la piattaforma sarà in grado di raccogliere
 le forme di “documentazione” dei paesaggi e del patrimonio culturale
 diffuso, che esistono in virtù della presenza di comunità patrimoniali
 di riferimento. Queste forme culturali, fino ad oggi considerate come
-“patrimoni minori”, in un giusto paragone con il patrimonio nazionali
+“patrimoni minori”, in un giusto paragone con il patrimonio nazionale
 dei grandi attrattori culturali, potranno così avere una loro piena
 riconoscibilità e con esse le persone da cui originano.
 

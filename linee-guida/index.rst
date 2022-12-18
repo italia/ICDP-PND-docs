@@ -35,7 +35,7 @@ Linee guida:
 .. |image0| image:: ../media/image6.png
 *Figura 5. Relazione fra i processi della sezione Strategia e le Linee guida del PND*
 
-A valle di una prima fase di utilizzo sul campo delle Linee guida,
+A valle di una prima fase di utilizzo sul campo delle linee guida,
 saranno individuati esempi e buone pratiche per ciascun processo
 descritto nelle Linee guida, così da facilitarne l’adozione.
 

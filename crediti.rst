@@ -14,16 +14,20 @@ AIB – Associazione Italiana Biblioteche
 
 AIUCD – Associazione per l’Informatica Umanistica e la Cultura Digitale
 
-ANAI – Associazione Nazionale Archivistica Italiana
-
 Alma Mater Studiorum Università di Bologna (BUB - Biblioteca
 Universitaria di Bologna; Archivio storico dell’Università, SMA -
 Sistema Museale di Ateneo, SBA – Sistema Bibliotecario di Ateneo,
 DHDK - Dipartimento di Digital Humanities Digital Knowledge, DHARC – Digital Humanities Advanced Research Center)
 
+ANAI – Associazione Nazionale Archivistica Italiana
+
+Commissione cultura della Conferenza delle Regioni e delle Province Autonome
+
 Consiglio Superiore Beni culturali e paesaggistici
 
 Coordinamento istituti culturali del Piemonte
+
+Digital Knowledge, DHARC – Digital Humanities Advanced Research Center
 
 FCdA - Federazione delle Consulte Universitarie di Archeologia
 
@@ -36,3 +40,12 @@ Wikimedia Italia
 Si ringraziano inoltre tutti coloro che hanno partecipato alla consultazione pubblica dando il loro contributo attraverso il questionario anonimo proposto.
 
 Coordinamento: Laura Moro
+
+
+A cura di:
+
+Ministero della cultura
+
+Istituto centrale per la digitalizzazione del patrimonio culturale – Digital Library
+
+I contenuti del presente documento sono liberamente riutilizzabili da chiunque per qualsiasi fine; è gradita la citazione della fonte.

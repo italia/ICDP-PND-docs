@@ -4,11 +4,11 @@ Struttura del documento
 Il Piano è articolato in tre sezioni, tra loro collegate in una dimensione di processo (Figura
 1):
 
-1. Visione: prefigura le traiettorie e le opportunità di cambiamento, indicando gli obiettivi a lungo termine (cap. :ref:`visione` );
+1. la Visione, che prefigura le traiettorie e le opportunità di cambiamento, indicando gli obiettivi a lungo termine (cap. :ref:`visione` );
 
-2. Strategia: definisce i fattori necessari per implementare e conseguire gli obiettivi di cambiamento e specifica le azioni che verranno intraprese dal Ministero per assicurare il contesto abilitante comune (cap. :ref:`strategie` );
+2. la Strategia, che definisce i fattori necessari per implementare e conseguire gli obiettivi di cambiamento e specifica le azioni che verranno intraprese dal Ministero per assicurare il contesto abilitante comune (cap. :ref:`strategie` );
 
-3. Linee guida: strumenti operativi che supportano la pianificazione e l'esecuzione delle attività legate alla digitalizzazione del patrimonio e alla trasformazione digitale dei luoghi della cultura (cap. :ref:`linee_guida`).
+3. le Linee guida, quali strumenti operativi che supportano la pianificazione e l’esecuzione delle attività legate alla digitalizzazione del patrimonio e alla trasformazione digitale dei luoghi della cultura (cap. :ref:`linee_guida`).
 
 |image0|
 

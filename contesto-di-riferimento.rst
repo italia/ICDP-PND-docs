@@ -49,7 +49,7 @@ considerare come sia possibile garantire più facilmente
 profondità scientifica in contesti circoscritti e omogenei
 disciplinarmente.
 
-Tuttavia oggi un sistema articolato in modo così granularmente
+Tuttavia oggi un sistema articolato in modo così granulare
 mostra alcuni punti di debolezza che vanno affrontati con una
 strategia che sia in grado di mitigarne i limiti connessi:
 
@@ -83,12 +83,12 @@ Cloud collaborativo europeo per il patrimonio culturale [5]_, che
 prosegue e consolida le numerose iniziative europee per la
 digitalizzazione. La Commissione Europea parte dalla
 constatazione che “le istituzioni culturali, insieme alla
-costruzione dell'identità europea, stanno vivendo un cambiamento
-di paradigma cruciale, caratterizzato dall'accelerazione della
+costruzione dell’identità europea, stanno vivendo un cambiamento
+di paradigma cruciale, caratterizzato dall’accelerazione della
 digitalizzazione e da nuovi modelli di governance stimolati dalla
 scienza co-creativa e dalla partecipazione di un’ampia gamma di
 stakeholder. Il risvolto concettuale di questo cambio di
-paradigma è l'attuale nozione di patrimonio culturale, che
+paradigma è l’attuale nozione di patrimonio culturale, che
 integra la diversità del secolare patrimonio culturale europeo
 (storico-artistico, naturale, immateriale, ecc.) con i diversi
 livelli di governo (locale, regionale, nazionale, europeo,
@@ -96,12 +96,12 @@ universale). In virtù di questa nozione che si sta configurando,
 il patrimonio culturale: 1) fornisce le prospettive per
 abbracciare la transizione verde, reinterpretando il rapporto tra
 patrimonio culturale e naturale; 2) sostiene la coesione sociale
-coinvolgendo cittadini, ricercatori ed esperti all'interno delle
+coinvolgendo cittadini, ricercatori ed esperti all’interno delle
 comunità del patrimonio; 3) tutela e trasmette al futuro i beni
 culturali materiali. In altre parole, questo patrimonio culturale europeo è verde (sostenibile), innovativo (che fornisce occupazione nelle ICC – Imprese Culturali e Creative) e digitale.
 Il patrimonio culturale digitale contemporaneo non è solo
 tecnologicamente prevalente, ma apre anche la strada a un nuovo
-mondo digitale incentrato sull'uomo, in cui il Cloud
+mondo digitale incentrato sull’uomo, in cui il Cloud
 collaborativo europeo per il patrimonio culturale svolgerà un
 ruolo chiave” [6]_.
 
@@ -109,7 +109,7 @@ L’esigenza di dotarsi di un Piano è quindi anche funzionale alla
 piena adesione da parte italiana, quale Stato membro dell’Unione,
 all’impianto della cooperazione culturale a livello europeo. La
 costruzione di un patrimonio culturale digitale nazionale,
-composto da oggetti collocabili nello spazio informativo dell’\ :term:`infosfera` *, può rappresentare per l’Italia l'occasione per recuperare e interpretare un ruolo rilevante sulla scena
+composto da oggetti collocabili nello spazio informativo dell’\ :term:`infosfera` *, può rappresentare per l’Italia l’occasione per recuperare e interpretare un ruolo rilevante sulla scena
 culturale globale, senza rinunciare alla propria storica
 tradizione di tutela.
 

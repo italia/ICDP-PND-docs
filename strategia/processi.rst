@@ -57,7 +57,7 @@ nella produzione e nella gestione dei dati.
 
 Nella produzione è opportuno richiamare i principi FAIR [35]_,
 ormai riconosciuti a livello internazionale, che descrivono le
-caratteristiche che le risorse digitali debbono avere per essere
+caratteristiche che le risorse digitali devono avere per essere
 usate e riutilizzate a fini scientifici, educativi e divulgativi,
 sia dalle persone sia dalle macchine che adottano processi
 automatizzati:
@@ -122,7 +122,7 @@ corretta applicazione della normativa nazionale per la produzione
 e pubblicazione dei **dati aperti**\* (*Open Data*) [37]_.
 
 Il primo elemento per una corretta gestione dei processi di
-digitalizzazione, è l’individuazione dei diversi livelli di
+digitalizzazione è l’individuazione dei diversi livelli di
 responsabilità [38]_ nel ciclo di creazione, gestione,
 archiviazione, pubblicazione e valorizzazione delle risorse
 digitali:
@@ -254,7 +254,7 @@ necessario distinguere tre dimensioni:
    culturali (tutela culturale, tutela del diritto d’autore, tutela
    della riservatezza), che vanno posti in relazione con le due
    principali tipologie di riproduzione previste dal diritto d’autore
-   (riproduzioni fedeli e riproduzione “creative”);
+   (riproduzioni fedeli e riproduzioni “creative”);
 
 2. la seconda concerne le modalità di acquisizione di una
    riproduzione e la relativa regolamentazione (riproduzione
@@ -316,7 +316,7 @@ modalità aperta (*Open Data*) [45]_. Questo principio, pilastro
 della strategia europea dei dati [46]_, muove dalla convinzione
 che il libero riutilizzo dei dati, anche per fini commerciali,
 contribuisca alla creazione di valore per la società grazie alle
-potenzialità connesse allo sviluppo di servizi connessi: tanto più
+potenzialità relative allo sviluppo di servizi connessi: tanto più
 sono elevate la qualità e quantità dei dati aperti messi a
 disposizione dalle pubbliche amministrazioni, quanto maggiori
 saranno le probabilità che essi vengano riutilizzati nella
@@ -399,7 +399,7 @@ digitale.
   indicazioni espresse nel Piano nazionale di digitalizzazione del
   patrimonio culturale; utilizzo di software di catalogazione, se
   diversi da quelli messi a disposizione gratuitamente dagli
-  Istituti centrali, che siano pienamente interoperabili con i
+  istituti centrali, che siano pienamente interoperabili con i
   sistemi nazionali attraverso l’esposizione di API standard o
   attraverso il conferimento ai sistemi nazionali secondo i formati
   di trasferimento definiti dagli istituti centrali; crescita

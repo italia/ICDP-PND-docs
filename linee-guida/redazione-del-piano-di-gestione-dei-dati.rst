@@ -7,7 +7,7 @@ Le Linee guida 2 hanno l’obiettivo di definire il percorso per costruire
 piani di gestione dei dati (Data Management Plan) che specifichino come
 descrivere, analizzare, archiviare, condividere e conservare i dati
 provenienti dai progetti di digitalizzazione del patrimonio culturale e
-dalle banche date esistenti. Queste Linee guida comprendono esempi e
+dalle banche dati esistenti. Queste linee guida comprendono esempi e
 suggeriscono buone pratiche nel campo dei dati aperti, fornendo spunti
 fondamentali sugli *Open Data* (espressi in forma di *Frequently Asked
 Questions*, rivolte ad un ampio pubblico) che possono essere utilizzati
