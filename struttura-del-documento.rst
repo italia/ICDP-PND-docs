@@ -12,6 +12,7 @@ Il Piano è articolato in tre sezioni, tra loro collegate in una dimensione di p
 
 |image0|
 
+.. |image0| image:: ./media/fig-01.jpg
 *Figura 1. Rappresentazione grafica della struttura e dei contenuti del PND*.
 
 Nel testo che segue, le parole evidenziate con asterisco e
@@ -50,5 +51,3 @@ riferimenti normativi si ritiene possa consentire la comprensione
 complessiva dei contenuti ed essere di ausilio per incrementare
 alcune conoscenze. Saranno comunque divulgate sintesi e strumenti
 per facilitare la comprensione e fruizione dei contenuti.
-
-.. |image0| image:: ./media/fig-01.png

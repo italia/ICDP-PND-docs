@@ -27,7 +27,7 @@ patrimonio un fattore di crescita sociale, culturale ed economica.
 
 |image0|
 
-.. |image0| image:: ../media/fig-9.jpg
+.. |image0| image:: ../media/fig-09.jpg
 
 Figura 9. *Processi inerenti il ciclo di vita dei dati*
 
