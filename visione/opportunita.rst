@@ -90,7 +90,7 @@ visioni ulteriori del patrimonio culturale.
 |image0|
 
 .. |image0| image:: ../media/fig-03.jpg
-Figura 3. *Traiettoria 1 – dagli oggetti alle relazioni: il passaggio concettuale da sistemi chiusi autosufficienti a sistemi aperti interdipendenti*.
+Figura 3. *Traiettoria 1 – dagli oggetti alle relazioni: il passaggio concettuale da sistemi chiusi autosufficienti a sistemi aperti interdipendenti*
 
 
 Processi per il design di nuovi servizi
@@ -234,8 +234,8 @@ straordinaria opportunità per gli istituti culturali.
 
 |image2|
 
-.. |image2| image:: ../media/fig-05.jpg
-Figura 5. *Traiettoria 3 – dalla produzione di dati alla creazione di contenuti: le componenti dell’ecosistema digitale culturale*.
+.. |image2| image:: ../media/fig-03.jpg
+Figura 5. *Traiettoria 3 – dalla produzione di dati alla creazione di contenuti: le componenti dell’ecosistema digitale culturale*
 
 .. [20] Si rimanda alla parola «accessibilità» definita all‘interno del paragrafo "Parole chiave” posta in coda al documento, dove è presente anche la relativa rispondenza normativa.
 

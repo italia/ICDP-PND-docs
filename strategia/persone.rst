@@ -31,6 +31,13 @@ all’interno dei paesaggi culturali (cfr. par. :ref:`contenti_come_paesaggi_cul
 
 .. _formazione_crescita_competenze:
 
+|image0|
+
+.. |image0| image:: ../media/fig-10.jpg
+
+Figura 10. *Le persone al centro del processo di trasformazione
+digitale*
+
 Formazione e crescita delle competenze
 --------------------------------------
 

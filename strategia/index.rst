@@ -89,11 +89,10 @@ patrimonio culturale [27]_.
 
 |image0|
 
-.. |image0| image:: ../media/fig-03.jpg
+.. |image0| image:: ../media/fig-06.jpg
 
-Figura 3. *Sistema di relazioni tra gli stream progettuali
-dell’investimento M1C3 1.1 “Strategie e piattaforme digitali per
-il patrimonio culturale” del PNRR*.
+Figura 6. *Relazioni esistenti tra i diversi progetti in cui si articola l’investimento PNRR M1C3 1.1
+“strategie digitali e piattaforme per il patrimonio culturale”*
 
 Si tratta di un programma pensato per facilitare e accelerare i
 cambiamenti strutturali che l’innovazione tecnologica abilita in
@@ -143,13 +142,13 @@ questi parametri può dunque essere misurata la maturità digitale
 di una organizzazione.
 
 Nello schema seguente è riassunta la mappa di navigazione della
-sezione (Figura 4).
+sezione (Figura 7).
 
 |image1|
 
-.. |image1| image:: ../media/fig-01.jpg
+.. |image1| image:: ../media/fig-07.jpg
 
-Figura 4. *Schema dei contenuti della sezione Strategia del PND*
+Figura 7. *Contenuti della sezione strategia del PND: in evidenza le relazioni tra paragrafi*
 
 I capitoli “Tecnologie abilitanti” e “Persone” fanno riferimento
 per la parte operativa alle piattaforme abilitanti previste nel

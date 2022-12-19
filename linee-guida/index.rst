@@ -32,8 +32,8 @@ Linee guida:
 
 |image0|
 
-.. |image0| image:: ../media/image6.png
-*Figura 5. Relazione fra i processi della sezione Strategia e le Linee guida del PND*
+.. |image0| image:: ../media/fig-10.jpg
+*Figura 11. Relazione tra le linee guida e i processi individuati nel PND*
 
 A valle di una prima fase di utilizzo sul campo delle linee guida,
 saranno individuati esempi e buone pratiche per ciascun processo

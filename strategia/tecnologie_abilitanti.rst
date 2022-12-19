@@ -72,6 +72,12 @@ diffondere sul mercato (cfr. par. :ref:`tecnologie_abilitanti_user_centered_desi
 
 .. _infrastruttura_nazionale_dati_patrimonio:
 
+|image1|
+
+.. |image1| image:: ../media/fig-08.jpg
+
+Figura 8. *Contesti abilitati dalle tecnologie*
+
 Infrastruttura nazionale dei dati del patrimonio culturale
 ----------------------------------------------------------
 

@@ -24,6 +24,11 @@ strumenti operativi per rendere la compilazione dei DMP un metodo
 sistematico per presentare e accompagnare i progetti di
 digitalizzazione.
 
+|image0|
+
+.. |image0| image:: ../media/fig-13.jpg
+*Figura 13. Sintesi delle sezioni di cui si compone il piano di gestione dei dati*
+
 .. _Linee guida per la redazione del piano di gestione dei dati: https://docs.italia.it/italia/icdp/icdp-pnd-dmp-docs/
 
 .. admonition:: Allegato 2

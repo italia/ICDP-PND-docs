@@ -23,6 +23,11 @@ recupero del pregresso, alle competenze necessarie per il gruppo di
 lavoro di digitalizzazione ed esempi concreti di applicazione delle
 linee guida.
 
+|image0|
+
+.. |image0| image:: ../media/fig-12.jpg
+*Figura 12. Sintesi delle fasi dell’attività di digitalizzazione trattate nell’allegato 1*
+
 .. _Linee guida per la digitalizzazione del patrimonio culturale: https://docs.italia.it/italia/icdp/icdp-pnd-digitalizzazione-docs/
 
 .. admonition:: Allegato 1

@@ -25,6 +25,12 @@ patrimonio un fattore di crescita sociale, culturale ed economica.
 
 .. _digitalizzazione_ciclo_vita_risorsa_digitale:
 
+|image0|
+
+.. |image0| image:: ../media/fig-9.jpg
+
+Figura 9. *Processi inerenti il ciclo di vita dei dati*
+
 Digitalizzazione e ciclo di vita della risorsa digitale
 -------------------------------------------------------
 
