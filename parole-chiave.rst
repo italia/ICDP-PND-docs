@@ -195,7 +195,7 @@ del significato complessivo del Piano.
     “cultura partecipativa” (Uricchio, 2004) in cui il processo di
     diffondere, condividere e mettere in relazione contenuti è reso
     possibile dall’attuale rivoluzione digitale e diffusione transmediale
-    (video games, Internet, piattaforme mobile, social networks, ecc.),
+    (videogame, Internet, piattaforme mobile, social networks, ecc.),
     secondo un modello di produzione di contenuti orizzontale e dominato
     dalle “*user generated stories*”.
 
@@ -282,7 +282,7 @@ del significato complessivo del Piano.
     quadro sono state sviluppate diverse piattaforme e progetti che hanno
     permesso di contribuire alla costruzione di contenuti in rete da parte
     degli stessi utenti e, come nel caso di Wikipedia, in vari ambiti della
-    cultura. Il *crowdsourcing* rappresenta uno strumento di partecipazione,
+    cultura. Il crowdsourcing rappresenta uno strumento di partecipazione,
     e può essere un modo per coinvolgere un pubblico più ampio in attività
     che sono state tradizionalmente appannaggio degli esperti di settore
     (Van Hyning, 2019). Queste pratiche portano quindi a nuove modalità di
@@ -516,7 +516,7 @@ del significato complessivo del Piano.
     utilizzato come formula classica nella produzione di *video-game*
     educativi che si basano sulle teorie dell’apprendimento. Il termine è
     stato in seguito declinato nell’ambiente dell’educazione e considerato
-    come un ramo dell’*e-learning* che consente di apprendere nozioni
+    come un ramo dell’e-learning che consente di apprendere nozioni
     scolastiche ed extrascolastiche in modo ludico, attraverso contenuti
     formativi multimediali resi disponibili attraverso supporti informatici
     (Valentino et al., 2004). Nel corso dei decenni, per la duttilità che
@@ -845,7 +845,7 @@ del significato complessivo del Piano.
     componente hardware, software o architetturale. Questi possono dunque
     rispondere a diverse esigenze come operazioni di *back-end*, di
     esposizione dei dati (come ad esempio API), o di creazione di
-    applicazioni per l’utente: dalle piattaforme di *crowdsourcing* al
+    applicazioni per l’utente: dalle piattaforme di crowdsourcing al
     servizio di prenotazione dei biglietti, ecc.
 
   Silos di dati

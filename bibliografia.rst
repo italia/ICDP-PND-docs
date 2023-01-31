@@ -1,4 +1,4 @@
-Bibliografia 
+Bibliografia
 ============
 
 Di seguito sono riportati i principali riferimenti bibliografici che
@@ -10,14 +10,13 @@ stati consultati alla data del 28/06/2022.
 
 Agrawal, D., Abbadi, A. E., Emekci F. Metwally, A. (2009). *Database
 Management as a Service: Challenges and Opportunities,* IEEE 25th
-International Conference on Data Engineering, pp. 1709-1716, DOI:
-10.1109/ICDE.2009.151. 
+International Conference on Data Engineering, pp. 1709-1716, DOI: 10.1109/ICDE.2009.151. 
 
 Amicucci, F. (2021). *Apprendere nell’infosfera: Esperienzialità e nuove
-frontiere.* Milano: Franco Angeli editore.   
+frontiere*. Milano: Franco Angeli editore.   
 
 Assmann, A. (2015). *Ricordare. Forme e mutamenti della memoria
-culturale.* Bologna: Il Mulino. 
+culturale*. Bologna: Il Mulino. 
 
 Atzeni, P., Mecca, G., Merialdo, P. (2002). *Managing web-based data:
 database models and transformations*, in «IEEE internet computing», VI,
@@ -38,7 +37,7 @@ biblioteche e delle istituzioni culturali: nuova serie, VIII, 1/2. Roma:
 Gangemi. DOI: 10.36165/1258
 
 Bergamin G., Messina M. (2010). *Magazzini digitali: dal prototipo al
-servizio*. *DigItalia*, *2*, 144–153.
+servizio*. DigItalia, 2, 144–153.
 https://digitalia.cultura.gov.it/article/view/246
 
 Bertini A., Caruso I., Colesanti G.T., Vitolo T. (2020). *Cultura in
@@ -50,19 +49,18 @@ International council of museums (ICOM). Borgman* C. (1999). *What are
 digital libraries? Competing visions*. Information Processing &
 Management, 35(3). DOI: 10.1016/S0306-4573(98)00059-4 
 
-`Bradley <https://academic.oup.com/dsh/search-results?f_Authors=John+Bradley>`__ J.
-(2019). Digital tools in the humanities: Some
-fundamental provocations?. Digital Scholarship in the Humanities,
+Bradley J. (2019). *Digital tools in the humanities: Some
+fundamental provocations?* Digital Scholarship in the Humanities,
 V. 34,* 1, pp. 13-20. DOI: 10.1093/llc/fqy033
 
 Bruni S., Capetta F., Lucarelli A., Pepe M., G. Peruginelli S., Rulent
 M., Guerrini M., Tillett B. B., (a cura di). (2013). *Authority
-control: definizione ed esperienze internazionali. Atti del convegno
+control: definizione ed esperienze internazionali*. Atti del convegno
 internazionale (Firenze, 10-12 febbraio 2003), Firenze: University
 Press. Buttò S. (2020). *Alphabetica, il nuovo portale per la ricerca
 integrata: un salto di qualità per le biblioteche italiane.* DigItalia.
 Rivista del digitale nei beni culturali, 14(1), pp. 9-28, DOI:
-`10.36181/digitalia-00010 <https://doi.org/10.36181/digitalia-00010>`__. 
+10.36181/digitalia-00010. 
 
 Buzzetti D. (2006). *Biblioteche digitali e oggetti digitali complessi:
 Esaustività e funzionalità nella conservazione.* In *Archivi informatici
@@ -73,8 +71,7 @@ Segre», N. 114), pp. 41-75. 
 
 Buzzetti D. (2003). *Informatica umanistica: Codifica del testo e
 intelligenza artificiale.* Rivista semestrale dell’Archivio Umanistico
-Rinascimentale Bolognese, 1, Bologna: CLUEB, 2003, pp. 1-27, DOI:
-`10.1400/12676 <http://digital.casalini.it/10.1400/12676>`__. 
+Rinascimentale Bolognese, 1, Bologna: CLUEB, 2003, pp. 1-27, DOI: 10.1400/12676. 
 
 Buzzetti D. (1999). *Text Representation and Textual Models.* In
 ACH-ALLC’99 Conference Proceedings (Charlottesville VA, June 9-14,
@@ -83,32 +80,30 @@ ACH-ALLC’99 Conference Proceedings (Charlottesville VA, June 9-14,
 Calveri C., Sacco P. L. (2021). *La Trasformazione digitale della
 cultura.* Milano: Editrice bibliografica. 
 
-Candela G., Escobar P., Carrasco R. C., Marco-Such M. (2020)*Evaluating
+Candela G., Escobar P., Carrasco R. C., Marco-Such M. (2020). *Evaluating
 the Quality of Linked Open Data Digital Libraries.* Journal of
-Information Science, DOI:
-`10.1177/0165551520930951 <https://doi.org/10.1177/0165551520930951>`__. 
+Information Science, DOI: 10.1177/0165551520930951. 
 
 Carriero V. A., Daquino M., Tomasi F. (2019). *Convergenze semantiche
 tra musei, archivi e biblioteche, Ontologie per le relazioni
-interpersonali*. *JLIS.it*, 10(1), pp. 72−91. 
+interpersonali*. JLIS.it, 10(1), pp. 72−91. 
 
 Cervellini F., Rossi D. (2011). *Comunicare emozionando. L’edutainment
 per la comunicazione intorno al patrimonio culturale*. *Tecnologie per
-la comunicazione del patrimonio culturale.* DISEGNARECON, 4. DOI:
-`10.6092/issn.1828-5961/2568 <https://doi.org/10.6092/issn.1828-5961/2568>`__. 
+la comunicazione del patrimonio culturale.* DISEGNARECON, 4. DOI: 10.6092/issn.1828-5961/2568. 
 
 Chrysikos A. e Ward R. (2014). *Cloud computing within higher education:
 Applying knowledge as a service (KaaS)*. Continued Rise of the Cloud.
 London: Springer, 339-362. 
 
 Ciula A., Eide Ø., Marras C., Sahle P., (a cura di).  (2018).
-*Models and Modelling between Digital and Humanities.*Historical
+*Models and Modelling between Digital and Humanities.* Historical
 Social Research/Historische Sozialforschung, 43(4), pp. 343–61.
 https://www.jstor.org/stable/26544261. 
 
 Ciula A., Eide Ø. (2017). *Modelling in Digital Humanities: Signs in
 context*. Digital Scholarship in the Humanities, 32(1), pp. 33 – 46.
-DOI: `10.1093/llc/fqw045 <https://doi.org/10.1093/llc/fqw045>`__. 
+DOI: 10.1093/llc/fqw045. 
 
 Cossu A., M. Berzacola, L. Consumi, D. D. De Falco, F. Mocchi F.,
 Orviati A., Salvioni O., Sangiorgi, S., Violo M. L. (2021). *Transizione
@@ -128,7 +123,7 @@ luoghi d’interesse culturale*, Ariccia: Ermes edizioni scientifiche.
 Digital Library Federation. (1998). *A working definition of digital
 library.* ` <https://old.diglib.org/about/dldefinition.htm>`__
 
-Douglas M. (1986).*Come pensano le istituzioni.* Bologna: Il Mulino. 
+Douglas M. (1986). *Come pensano le istituzioni.* Bologna: Il Mulino. 
 
 Dudau A., Glennon R., Verschuere B. (2019). *Following the yellow brick
 road? (dis)enchantment with co-design, co-production and value
@@ -155,8 +150,7 @@ Report for Europeana.* 2021, Culture24. 
 
 Flanders J., Jannidis F., (a cura di), *The Shape of Data in the
 Digital Humanities: Modeling Texts and Text-based Resources.* Oxford,
-Routledge, 2018, DOI:
-`10.4324/9781315552941 <https://doi.org/10.4324/9781315552941>`__  
+Routledge, 2018, DOI: 10.4324/9781315552941.  
 
 Floridi L. (2020),*Pensare l’infosfera: La filosofia come design
 concettuale.* Milano, Raffaello Cortina Editore. 
@@ -185,8 +179,7 @@ Systems (TOIS), 3(3) pp. 253-278. 
 
 Hein A., Schreieck M., Riasanow T., Soto Setzke D., Wiesche M.,
 Böhm M., Krcmar H. (2020) *Digital platform ecosystems*.
-Electron Markets, 30, pp. 87-98, DOI: 
-`10.1007/s12525-019-00377-4 <https://doi.org/10.1007/s12525-019-00377-4>`__. 
+Electron Markets, 30, pp. 87-98, DOI: 10.1007/s12525-019-00377-4. 
 
 Ippoliti E., Meschini A., (a cura di). (2011). *Tecnologie per la
 comunicazione del patrimonio culturale*. DISEGNARECON (rivista
@@ -194,8 +187,7 @@ digitale). 
 
 Jaillant L. (2022). *Archives, Access and Artificial Intelligence:
 Working with Born-Digital and Digitized Archival Collections.*
-Bielefeld: Bielefeld University Press. DOI:
-`10.1515/9783839455845. <https://doi.org/10.1515/9783839455845.>`__ 
+Bielefeld: Bielefeld University Press. DOI: 10.1515/9783839455845. 
 
 Jinfang N. (2016). *Linked Data for Archives*. Archivaria, 82, pp.
 83-110, https://archivaria.ca/index.php/archivaria/article/view/13582  
@@ -208,13 +200,11 @@ Kane G. C., Palmer D., Phillips A. N., Kiron D., Buckley N. (2015).
 Management Review and Deloitte University Press. 
 
 Kaplan F. (2015). *A Map for Big Data Research in Digital Humanities*.
-Frontiers in Digital Humanities, 2. DOI:
-`10.3389/fdigh.2015.00001 <https://doi.org/10.3389/fdigh.2015.00001>`__ 
+Frontiers in Digital Humanities, 2. DOI: 10.3389/fdigh.2015.00001. 
 
 Kokins G., Straujuma A., Lapin A. I. (2021). *The Role of Consumer and
 Customer Journeys in Customer Experience Driven and Open Innovation*. J.
-Open Innov. Technol. Mark. Complex, 7, p. 185. DOI:
-`10.3390/joitmc7030185 <https://doi.org/10.3390/joitmc7030185>`__. 
+Open Innov. Technol. Mark. Complex, 7, p. 185. DOI: 10.3390/joitmc7030185. 
 
 Lana M. (2013). *Biblioteche digitali. Un’introduzione.* Bologna:
 Bononia University Press. 
@@ -246,24 +236,21 @@ Conference on Computing, Communication and Networking Technologies
 Mulligan J. (2019). *Digital Humanities Application Development in the
 Cloud*. In Proceedings of the Humans in the Loop: Enabling and
 Facilitating Research on Cloud Computing, Association for Computing
-Machinery, New York, NY, USA, Article 9, pp. 1-5, DOI:
-`10.1145/3355738.3355753 <https://doi.org/10.1145/3355738.3355753>`__. 
+Machinery, New York, NY, USA, Article 9, pp. 1-5, DOI: 10.1145/3355738.3355753. 
 
 Norman D. A., Draper S. W. (1986). *User Centered System Design. New
 Perspectives on Human-Computer Interaction.* USA,L. Erlbaum Associates
 Inc. 
 
-Numerico T., Fiormonte D., Tomasi F. (2010). L’umanista digitale.
+Numerico T., Fiormonte D., Tomasi F. (2010). *L’umanista digitale*.
 Bologna: Il Mulino.
 
 O’Neill B., Stapleton L. (2022). *Digital cultural heritage standards:
-from silo to semantic web.* AI & society, pp. 1-13, DOI:
-`10.1007/s00146-021-01371-1 <https://doi.org/10.1007/s00146-021-01371-1>`__. 
+from silo to semantic web.* AI & society, pp. 1-13, DOI: 10.1007/s00146-021-01371-1. 
 
 Orlandi S. D., Marras A. M., De Angelis D., Fasano P., Manasse C.,
 Modolo M. (2021). *Open Acces - Diritto d’autore, copyright e licenze
-aperte per la cultura nel web*, DOI:
-`10.5281/zenodo.4593914 <https://doi.org/10.5281/zenodo.4593914>`__. 
+aperte per la cultura nel web*, DOI: 10.5281/zenodo.4593914. 
 
 Parpagliolo, L. (1913). *Codice delle Antichità e degli Oggetti d’Arte.
 Raccolta di leggi, decreti, regolamenti e circolari*, I-II. Roma:
@@ -272,7 +259,7 @@ Loescher. 
 Peirson B. R. E., Damerow J., Laubichler M. (2016). *Software
 development & trans-disciplinary training at the interface of Digital
 Humanities and computer science. Digital Studies/le Champ Numérique*,
-6(5), DOI: `10.16995/dscn.17 <http://doi.org/10.16995/dscn.17>`__. 
+6(5), DOI: 10.16995/dscn.17. 
 
 Peyron L. (2019).*Incarnazione digitale. Custodire l’umano
 nell’infosfera*. Torino: Elledici. 
@@ -292,8 +279,7 @@ convergence.* In “Museum Management and Curatorship”, 27(4), pp.
 
 Rojas Castro A. (2017). *Big Data in the Digital Humanities. New
 Conversations in the Global Academic Context*. AC/E Digital Culture 2017
-Annual Report, 4, pp. 62-71. DOI:
-`10.17613/M6434X <https://doi.org/10.17613/M6434X>`__. 
+Annual Report, 4, pp. 62-71. DOI: 10.17613/M6434X. 
 
 Roncaglia, G. (2020). *L’età della frammentazione*. *Cultura del libro e
 scuola digitale*. Roma: Laterza.
@@ -301,8 +287,7 @@ scuola digitale*. Roma: Laterza.
 Rosati L. (2010). *L’ecosistema fisico-digitale*. In *Le frontiere del
 "popolare" tra vecchi e nuovi media,* Bisoni, C. (a cura di). In *Media
 Mutations*. *Convegno internazionale di studi sull’audiovisivo*,
- Pescatore, G., (a cura di). DOI:
-`10.6092/unibo/amsacta/3031 <http://doi.org/10.6092/unibo/amsacta/3031>`__. 
+ Pescatore, G., (a cura di). DOI: 10.6092/unibo/amsacta/3031. 
 
 Salarelli A., Tammaro A. M. (2006), *La biblioteca digitale.* Milano:
 Editrice Bibliografica. 
@@ -316,8 +301,7 @@ Companion to Digital Humanities*. Oxford: Wiley-Blackwell. 
 Smithies J., Ciula A. (2020). *Humans in the Loop: Epistemology & Method
 in King’s Digital Lab.* in K. Schuster, S. Dunn, *Routledge
 international handbook of research methods in Digital Humanities,*
-Routlege, pp. 155-172, DOI:
-`10.4324/9780429777028-13 <https://doi.org/10.4324/9780429777028-13>`__. 
+Routlege, pp. 155-172, DOI:10.4324/9780429777028-13. 
 
 Solimine, G., Weston P. G., (a cura di). (2015). *Biblioteconomia:
 principi e questioni*. Roma: Carocci. 
@@ -370,8 +354,7 @@ Editions, Facet Publishing. 
 Verma P. K., Verma R., Prakash A., Agrawal A., Naik K., Tripathi R.,
 Alsabaan M., Khalifa T., Abdelkader T., Abogharaf A. (2016).
 *Machine-to-Machine (M2M) communications: A survey*. Journal of Network
-and Computer Applications, 66, 83-105, DOI:
-`10.1016/j.jnca.2016.02.016 <https://doi.org/10.1016/j.jnca.2016.02.016>`__. 
+and Computer Applications, 66, 83-105, DOI: 10.1016/j.jnca.2016.02.016. 
 
 Ziegler, S. (2020), *Open Data in Cultural Heritage Institutions: Can We
 Be Better Than Data Brokers?*. *Digital Humanities Quarterl*, 14 (2).

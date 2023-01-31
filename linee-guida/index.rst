@@ -32,7 +32,7 @@ Linee guida:
 
 |image0|
 
-.. |image0| image:: ../media/fig-10.jpg
+.. |image0| image:: ../media/fig-11.jpg
 *Figura 11. Relazione tra le linee guida e i processi individuati nel PND*
 
 A valle di una prima fase di utilizzo sul campo delle linee guida,

@@ -21,7 +21,7 @@ condivisione sociale ad ampio raggio, capaci di mettere le persone al
 centro delle strategie e di farle interagire con la cultura in modo
 consapevole e innovativo. Le istituzioni culturali dovrebbero
 incentivare la partecipazione attiva mediante pratiche di co-creazione e
-*crowdsourcing*, incrementando le potenzialità di individui, enti non
+crowdsourcing, incrementando le potenzialità di individui, enti non
 commerciali, imprese e comunità. Solo implementando azioni strategiche
 volte al costante aggiornamento delle competenze del personale interno e
 abilitando la partecipazione di strati sempre più ampi di cittadinanza
@@ -84,7 +84,7 @@ percorsi che consentano ai diversi destinatari di sviluppare e/o
 rafforzare, a seconda delle proprie esigenze e del proprio rapporto con
 il digitale, una o più competenze:
 
--  un percorso di life long learning, da fruirsi principalmente a
+-  un percorso di *life long learning*, da fruirsi principalmente a
    distanza, rivolto al personale del Ministero e a tutti i
    professionisti che operano nel settore del patrimonio culturale, per
    aggiornare e incrementare le conoscenze e le competenze necessarie
@@ -269,7 +269,7 @@ all’interno dello spazio delle applicazioni del nuovo sistema digitale
 della cultura, potrà arricchire di informazioni e significati il
 patrimonio digitale attraverso la partecipazione attiva degli utenti.
 Costoro potranno produrre, caricare e condividere i loro contenuti
-originali, partecipare a progetti di *crowdsourcing* per l’arricchimento
+originali, partecipare a progetti di crowdsourcing per l’arricchimento
 dei tag e delle descrizioni del patrimonio culturale, contribuire ai
 processi di riconoscimento e metadatazione delle risorse digitali ed
 essere protagonisti della costruzione o ri-costruzione di contesti
