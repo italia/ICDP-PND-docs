@@ -23,7 +23,7 @@ disposizione, ecc.).
 
 |image0|
 
-.. |image0| image:: ../media/fig-15.jpg
+.. |image0| image:: ../media/fig-15.png
 *Figura 15. Schema riepilogativo della classificazione dei servizi digitali, dei processi sottesi
 e dei modelli di gestione associabili 3*
 

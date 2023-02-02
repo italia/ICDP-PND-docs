@@ -21,7 +21,7 @@ efficacemente i processi di transizione digitale.
 
 |image0|
 
-.. |image0| image:: ../media/fig-16.jpg
+.. |image0| image:: ../media/fig-16.png
 *Figura 16. Sintesi delle dimensioni indagate nell’allegato 5*
 
 .. _Introduzione alla metodologia per la valutazione della maturità digitale degli istituti culturali: https://docs.italia.it/italia/icdp/icdp-pnd-maturita-docs/

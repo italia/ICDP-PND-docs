@@ -47,7 +47,7 @@ piani di lettura (i capitoli in cui si articola il testo) (Figura
 
 |image0|
 
-.. |image0| image:: ../media/fig-02.jpg
+.. |image0| image:: ../media/fig-02.png
 Figura 2. *Contenuti della sezione visione del pnd: in evidenza le relazioni fra i paragrafi*.
 
 .. toctree::

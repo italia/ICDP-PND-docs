@@ -234,7 +234,7 @@ straordinaria opportunità per gli istituti culturali.
 
 |image2|
 
-.. |image2| image:: ../media/fig-03.jpg
+.. |image2| image:: ../media/fig-05.png
 Figura 5. *Traiettoria 3 – dalla produzione di dati alla creazione di contenuti: le componenti dell’ecosistema digitale culturale*
 
 .. [20] Si rimanda alla parola «accessibilità» definita all‘interno del paragrafo "Parole chiave” posta in coda al documento, dove è presente anche la relativa rispondenza normativa.
