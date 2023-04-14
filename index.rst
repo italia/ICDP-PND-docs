@@ -6,7 +6,7 @@ Piano nazionale di digitalizzazione del patrimonio culturale
 
 **2022-2023**
 
-**Versione n.1.1 - dicembre 2022**
+**Versione n.1.1 - febbraio 2023**
 
 
 .. toctree::
